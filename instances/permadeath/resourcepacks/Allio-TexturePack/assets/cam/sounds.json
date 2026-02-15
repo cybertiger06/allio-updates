@@ -1,0 +1,12 @@
+{
+  "permadeath_death": {
+    "sounds": [
+      {
+        "name": "perma",
+        "volume": 1.0,
+        "pitch": 1.0,
+        "stream": false
+      }
+    ]
+  }
+}
