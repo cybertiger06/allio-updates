@@ -1,0 +1,50 @@
+/chairs true 2
+/chairs false
+/morhector true
+/morhector false
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/cont gui
+/gamemode survival
+/waitscreen 30 true
+/waitscreen 30 false
+/gamemode creative
+/waitscreen 30 true
+/waitscreen admin 30 true
+/waitscreen admin 30 false
+/waitscreen admin 30 true
+/waitscreen false
+/waitscreen 30 true
+/waitscreen false
+/waitscreen 30 true
+/waitscreen false
+/waitscreen 30 true
+/waitscreen false
+/waitscreen 30 true
+/waitscreen false
+/waitscreen 30 true
+/waitscreen false
+/gamemode spectator
+/ascensor muneca
+/gamemode creative
+/ascensor munecalobby
+/ascensor muneca
+/gamemode spectator
+/gamemode creative
+/gamemode s
+/gamemode spectator
+/gamemode creative
+/gamemode spectator
+/asecensor munecalobby
+/gamemode creative
+/gamemode spectator
+/gamemode creative
+/gamemode adventure
+/bloodparticles off
+/guardia on
+/guardia off
+/clear
+/gamemode creative
+/guardia on
