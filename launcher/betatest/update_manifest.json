@@ -1,7 +1,5 @@
-{
-  "version": "3.0.11",
-  "url": "https://github.com/cybertiger06/allio-instances/releases/download/permadeath-v3.0.11/Allio-Client-windows-x86_64-v3.0-launcher.zip",
-  "sha256": "2908fbc00daa048b16050b86df87921073d91baa8d8ce74e316af5e77f53aed6",
-  "release_notes": "Allio Client 3.0.11 — UI mejorada, sistema de auto-update profesional.",
-  "min_updater_version": "1.0.0"
+﻿{
+    "url":  "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/launcher/release.zip",
+    "version":  "3.0",
+    "sha256":  "0ebe0f677b62fbb66a7d7769f90bd87ead53237cbd2aabbab5157af0c9c08d0d"
 }
