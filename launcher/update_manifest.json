@@ -1,5 +1,5 @@
-﻿{
-    "url":  "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/launcher/release.zip",
+{
+    "url":  "https://github.com/cybertiger06/allio-instances/releases/download/v3.0.11/Allio-Client-windows-x86_64-v3.0.11-launcher.zip",
     "version":  "3.0.11",
-    "sha256":  "CC22851BEEBBD161581D7454F16E695AFCEFCD4419AFEE201C33920F40402F9A"
+    "sha256":  "1381dda4f8ca50c727f31535ff3ac4f7596fb3e740a8a05f40697312ac5ce300"
 }
