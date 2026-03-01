@@ -30,6 +30,16 @@
       "sha256": "BE5E9E064508091F6F31C427BB2FA50A70037B61B208A1787F1D013DA97FA851",
       "size": 49034134
     },
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "size": 1297761
+    },
+    "mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar",
+      "sha256": "67962d827e329a715b4ae87fc7657211dc1b5ebcf96c2fdc970212fc920a273c",
+      "size": 1490716
+    },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
       "sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
