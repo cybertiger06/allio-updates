@@ -1,9 +1,9 @@
 {
-  "version": "2026-01-15_dollmod-3.0.0",
+  "version": "2026-03-01_dollmod-3.0.6",
   "instance_name": "SquidGame Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
-  "loader_version": "0.17.3",
+  "loader_version": "0.18.4",
   "files": {
     "mods/chatworking-1.02.0.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/chatworking-1.02.0.jar",
@@ -25,10 +25,10 @@
       "sha256": "e410c2eab1c2ace23499f457737e97429524c48cd17c92495b833f23df7b29e6",
       "size": 25491887
     },
-    "mods/dollmod-3.0.5.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.5.jar",
-      "sha256": "8c5789bc3a936b93a4f14d7b24206e137b2625524cf53b6828d32dca7b4c1683",
-      "size": 48829513
+    "mods/dollmod-3.0.6.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.6.jar",
+      "sha256": "BE5E9E064508091F6F31C427BB2FA50A70037B61B208A1787F1D013DA97FA851",
+      "size": 49034134
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
