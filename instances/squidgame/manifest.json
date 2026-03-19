@@ -1,6 +1,6 @@
 {
-  "version": "2026-03-01_dollmod-3.0.6",
-  "instance_name": "SquidGame Instace",
+  "version": "2026-03-19_dollmod-3.0.7",
+  "instance_name": "squidgame",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.18.4",
@@ -25,20 +25,10 @@
       "sha256": "e410c2eab1c2ace23499f457737e97429524c48cd17c92495b833f23df7b29e6",
       "size": 25491887
     },
-    "mods/dollmod-3.0.6.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.6.jar",
-      "sha256": "BE5E9E064508091F6F31C427BB2FA50A70037B61B208A1787F1D013DA97FA851",
-      "size": 49034134
-    },
-    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
-      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
-      "size": 1297761
-    },
-    "mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar",
-      "sha256": "67962d827e329a715b4ae87fc7657211dc1b5ebcf96c2fdc970212fc920a273c",
-      "size": 1490716
+    "mods/dollmod-3.0.7.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.7.jar",
+      "sha256": "8ed1cf7760884ab588c9945492e00f9c9685eda9b374668d9a9c8da1d9977606",
+      "size": 49046693
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
@@ -85,6 +75,11 @@
       "sha256": "089f9c18b0368f82008f0ca475ccbec71ba62c897116522bb37db920e001ba5e",
       "size": 12209334
     },
+    "mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar",
+      "sha256": "67962d827e329a715b4ae87fc7657211dc1b5ebcf96c2fdc970212fc920a273c",
+      "size": 1490716
+    },
     "mods/pv-addon-broadcast-1.1.0.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/pv-addon-broadcast-1.1.0.jar",
       "sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
@@ -95,20 +90,25 @@
       "sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
       "size": 13188
     },
-    "mods/vanish-1.5.7+1.21.1.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/vanish-1.5.7%2B1.21.1.jar",
-      "sha256": "58f85c1934f8acba325a3945c9e7ea7addb734b20bcf41cc0bb1cfa7e6206d90",
-      "size": 1230355
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar",
+      "sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "size": 1297761
+    },
+    "mods/vanish-1.6.5+1.21.1.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/vanish-1.6.5%2B1.21.1.jar",
+      "sha256": "b0562a7e91ad8ffecffeec3732210bfce7e352188b8cd3e3e359dca730601360",
+      "size": 1247423
     },
     "mods/watermedia-2.1.37.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/watermedia-2.1.37.jar",
       "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
       "size": 37046674
     },
-    "mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
-      "sha256": "3568da15d2687137b59aa2361c8fa0259d2a4774978fb3658c9c2cce9923a2d2",
-      "size": 78233
+    "mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
+      "sha256": "e60f274d66309909d4fb7cb610df4a31aed76b15fd4f37aad79461abcc82ba20",
+      "size": 82210
     },
     "mods/worldedit-mod-7.3.8.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/worldedit-mod-7.3.8.jar",
@@ -155,6 +155,16 @@
       "sha256": "a367470815e5b2d28e7eb781b1b9b22969f91602791fbc2eb7fab0635866e136",
       "size": 1810
     },
+    "config/sodium-mixins.properties": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/sodium-mixins.properties",
+      "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "size": 258
+    },
+    "config/sodium-options.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/sodium-options.json",
+      "sha256": "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96",
+      "size": 686
+    },
     "config/vanish.hocon": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/vanish.hocon",
       "sha256": "9c0b64cbbde6c701fec60574bfe5c0b43e2c42da8e962309a1b42a528736dd92",
@@ -167,12 +177,12 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fabric/indigo-renderer.properties",
-      "sha256": "031894b288ff9031b6e2db5cd0b92649a29f174df5d552fa9606d80c2b12d27d",
+      "sha256": "35d3fb0be1707694dc120ce451096e506201eb22d529e8a6130ee7df98858ff7",
       "size": 290
     },
     "config/fancymenu/customizablemenus.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customizablemenus.txt",
-      "sha256": "f80c3ab1b427c82032b629a3f705ff28ad0ddf3ce12dbf0e4791de69caa74680",
+      "sha256": "70e95a2b044dac420c3e2dbbeb3448ad515df84473d3a95f3cc31ae221a9e5e1",
       "size": 273
     },
     "config/fancymenu/custom_gui_screens.txt": {
@@ -295,6 +305,16 @@
       "sha256": "9098c50ff257cc6e879eb7011788f2cac340f5517916ed895e56d814e239e96d",
       "size": 110833
     },
+    "config/fancymenu/assets/multi.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/multi.png",
+      "sha256": "126a7b32ac68c4f751e9f1ef114ca8496f36caff16f3a9a316effb0cd7a1d0d7",
+      "size": 1148
+    },
+    "config/fancymenu/assets/multihover.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/multihover.png",
+      "sha256": "df98b7d0794d2a25700f4da08a64ca144732124a044da94f463bfd0821e8ed00",
+      "size": 1112
+    },
     "config/fancymenu/assets/opcioneshoer.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/opcioneshoer.png",
       "sha256": "e8279cefe0a2a0aee707af6275da9bbc6693a273bd07ed33c6318ec18074b55d",
@@ -330,6 +350,11 @@
       "sha256": "49edb38526fc6cfec1781d140992647be129a6a45347e6eccc05884af47d3cdf",
       "size": 762
     },
+    "config/fancymenu/assets/smltitle.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/smltitle.png",
+      "sha256": "d870532f4ee7b8029602de21ba4abb745754d7f5a9da90ae76f37b58372f831a",
+      "size": 71035
+    },
     "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
       "sha256": "db3e349d741333baf0469bed0a7094b697b85d038f188aacbcc8bf513a0f60dd",
@@ -337,8 +362,8 @@
     },
     "config/fancymenu/customization/hardcoreme.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/hardcoreme.txt",
-      "sha256": "a1f93d05370ab28fe298545c50156bad42446eb87046399552edbae88dcab2ec",
-      "size": 31560
+      "sha256": "a19f87dc2a5459fe66f4988803efdde7c922f2cae2d825a99b5ae311ccc9cf6c",
+      "size": 31559
     },
     "config/fancymenu/customization/language_select_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/language_select_screen_layout.txt",
@@ -347,13 +372,23 @@
     },
     "config/fancymenu/customization/options_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/options_screen_layout.txt",
-      "sha256": "9e16314a031971abe67d34924407b3df9865a20974f4d1b03d4431cd005db7de",
+      "sha256": "a3e074689a48bd1105860cdda7dd8893f82ddf5e846926408050ee04b37d7cac",
       "size": 30565
+    },
+    "config/fancymenu/customization/options_screen_layout_1.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/options_screen_layout_1.txt",
+      "sha256": "aaf45d7604cdd5ebdcdd82833810ac4b71569968339cd548aff9f45d8f4642c8",
+      "size": 30557
     },
     "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/pause_screen_hardocrebetrat.txt",
       "sha256": "ad048b91c183e055ec4c551986aa33aea989c26cbdda37bcfb1e280462d716b6",
       "size": 25462
+    },
+    "config/fancymenu/customization/title_screen_layout.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/title_screen_layout.txt",
+      "sha256": "03a660c8af964dc5193516ed7bd4756aebe28242d367ea664b204df4f604df79",
+      "size": 31712
     },
     "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -442,7 +477,7 @@
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/plasmovoice/meta_cache.json",
-      "sha256": "4c18b2febe292c852a11c871576f4d276c1e9e6d5c2f185bfc2b9234d2797ebe",
+      "sha256": "6a3ed3534d3fa9cd791ee2db825234e9e11dc450f8e0e929df915d599aeb1637",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
