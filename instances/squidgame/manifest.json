@@ -177,7 +177,7 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fabric/indigo-renderer.properties",
-      "sha256": "35d3fb0be1707694dc120ce451096e506201eb22d529e8a6130ee7df98858ff7",
+      "sha256": "e2db1df1f1bda57a93f04ba34921eaec9db22dff35911d67b77c6122e46a3afc",
       "size": 290
     },
     "config/fancymenu/customizablemenus.txt": {
@@ -360,20 +360,10 @@
       "sha256": "db3e349d741333baf0469bed0a7094b697b85d038f188aacbcc8bf513a0f60dd",
       "size": 6468
     },
-    "config/fancymenu/customization/hardcoreme.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/hardcoreme.txt",
-      "sha256": "a19f87dc2a5459fe66f4988803efdde7c922f2cae2d825a99b5ae311ccc9cf6c",
-      "size": 31559
-    },
     "config/fancymenu/customization/language_select_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/language_select_screen_layout.txt",
       "sha256": "b3b41fcfac533bbdfaac52f4e7324f5324aee77bff218e3cbb9cdb952cbc86d2",
       "size": 8822
-    },
-    "config/fancymenu/customization/options_screen_layout.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/options_screen_layout.txt",
-      "sha256": "a3e074689a48bd1105860cdda7dd8893f82ddf5e846926408050ee04b37d7cac",
-      "size": 30565
     },
     "config/fancymenu/customization/options_screen_layout_1.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/options_screen_layout_1.txt",
@@ -382,8 +372,8 @@
     },
     "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/pause_screen_hardocrebetrat.txt",
-      "sha256": "ad048b91c183e055ec4c551986aa33aea989c26cbdda37bcfb1e280462d716b6",
-      "size": 25462
+      "sha256": "35d4a8cf68b810cef31db2e19de7b4dfbb4fda2b9abe2671fb93a2c32a7e921a",
+      "size": 25460
     },
     "config/fancymenu/customization/title_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/title_screen_layout.txt",
