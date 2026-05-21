@@ -1,14 +1,24 @@
 {
-  "version": "2026-03-19_dollmod-3.0.7",
-  "instance_name": "squidgame",
+  "version": "2026-05-21_dollmod-3.0.7",
+  "instance_name": "Squid Games Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.18.4",
   "files": {
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/alliovoicechat-fabric-1.21-2.1.8.jar",
+      "sha256": "f7bde81d23c9ce05f277d59d35bce1bc91f2d1b90832431a276d10298b1005e0",
+      "size": 12219007
+    },
     "mods/chatworking-1.02.0.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/chatworking-1.02.0.jar",
       "sha256": "8b3167ed6ceb9ec97837ea5b7084c623d9cc56126e1eefa875b9004f6cec8e1c",
       "size": 5100
+    },
+    "mods/cinematica-fabric-1.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/cinematica-fabric-1.0.0.jar",
+      "sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
+      "size": 21852
     },
     "mods/CMDCam-Fabric-new.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/CMDCam-Fabric-new.jar",
@@ -27,8 +37,8 @@
     },
     "mods/dollmod-3.0.7.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.7.jar",
-      "sha256": "8ed1cf7760884ab588c9945492e00f9c9685eda9b374668d9a9c8da1d9977606",
-      "size": 49046693
+      "sha256": "fd974399ee63558768f79c4c9f780178a8f12c1fbb0547bcdbcdd23fdca3dc80",
+      "size": 48121607
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar",
@@ -60,6 +70,11 @@
       "sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
       "size": 188035
     },
+    "mods/musica-fabric-1.0.0.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/musica-fabric-1.0.0.jar",
+      "sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
+      "size": 326376
+    },
     "mods/NoFog-1.21-1.21.1.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/NoFog-1.21-1.21.1.jar",
       "sha256": "b11a9e771ff424d7439a910c1515611d1921042621bf52ad29ffc061a3731b4d",
@@ -69,16 +84,6 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/offlineskins-1.21.1-v1a-fabric.jar",
       "sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
       "size": 101128
-    },
-    "mods/plasmovoice-fabric-1.21-2.1.8.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/plasmovoice-fabric-1.21-2.1.8.jar",
-      "sha256": "089f9c18b0368f82008f0ca475ccbec71ba62c897116522bb37db920e001ba5e",
-      "size": 12209334
-    },
-    "mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/playermusic-FABRIC-mc1.21.1-v3.0.0.jar",
-      "sha256": "67962d827e329a715b4ae87fc7657211dc1b5ebcf96c2fdc970212fc920a273c",
-      "size": 1490716
     },
     "mods/pv-addon-broadcast-1.1.0.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/pv-addon-broadcast-1.1.0.jar",
@@ -100,15 +105,10 @@
       "sha256": "b0562a7e91ad8ffecffeec3732210bfce7e352188b8cd3e3e359dca730601360",
       "size": 1247423
     },
-    "mods/watermedia-2.1.37.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/watermedia-2.1.37.jar",
-      "sha256": "cdd8e1b50e4dee0892c5ed02724cea6b1a74d2b718c7e974c9cfc0efa8c10389",
-      "size": 37046674
-    },
-    "mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/watervision-FB-mc1.21.1-v0.1.0-alpha.jar",
-      "sha256": "e60f274d66309909d4fb7cb610df4a31aed76b15fd4f37aad79461abcc82ba20",
-      "size": 82210
+    "mods/veil-fabric-1.21.1-3.6.2.jar": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/veil-fabric-1.21.1-3.6.2.jar",
+      "sha256": "4c3f2bd13259e0ba7da82503025ae9f2dbb18f98c7b3784c3d9cf153851816c9",
+      "size": 15211125
     },
     "mods/worldedit-mod-7.3.8.jar": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/worldedit-mod-7.3.8.jar",
@@ -155,6 +155,11 @@
       "sha256": "a367470815e5b2d28e7eb781b1b9b22969f91602791fbc2eb7fab0635866e136",
       "size": 1810
     },
+    "config/sodium-fingerprint.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/sodium-fingerprint.json",
+      "sha256": "5e9c15b1279569c9833fd9a30e339c91077f9fd5894f3b09a7127b087063067e",
+      "size": 427
+    },
     "config/sodium-mixins.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/sodium-mixins.properties",
       "sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
@@ -162,8 +167,8 @@
     },
     "config/sodium-options.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/sodium-options.json",
-      "sha256": "445a55bccce87dd8467f3265d1572827e8778e873e3bb70290adf0bb8a811e96",
-      "size": 686
+      "sha256": "5eb76055d46b8cb8c64a48d7b8c697bccd1784906671e7c38adebe3f63b6af31",
+      "size": 685
     },
     "config/vanish.hocon": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/vanish.hocon",
@@ -177,12 +182,12 @@
     },
     "config/fabric/indigo-renderer.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fabric/indigo-renderer.properties",
-      "sha256": "e2db1df1f1bda57a93f04ba34921eaec9db22dff35911d67b77c6122e46a3afc",
-      "size": 290
+      "sha256": "e24ee3ec73765a9362dd3f18769bbfe2ded6729174b1b9b1b8e1e395170fa0e4",
+      "size": 291
     },
     "config/fancymenu/customizablemenus.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customizablemenus.txt",
-      "sha256": "70e95a2b044dac420c3e2dbbeb3448ad515df84473d3a95f3cc31ae221a9e5e1",
+      "sha256": "3990c35c3dad44420d483bb810c161ef51cb23d46fac12d1a48ab1784946e846",
       "size": 273
     },
     "config/fancymenu/custom_gui_screens.txt": {
@@ -260,6 +265,11 @@
       "sha256": "84060964bc0957847c8b03f32a6f7d7c2e9eebd6232645f1b4690ecc3198551b",
       "size": 7812
     },
+    "config/fancymenu/assets/fondovdos.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/fondovdos.png",
+      "sha256": "674a7575ecb946bb6d94e635112a2afcc685c14f6f8ea9f6d57344d5701607be",
+      "size": 23156
+    },
     "config/fancymenu/assets/icon.icns": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/icon.icns",
       "sha256": "335db84ace89b8a0cda06bb5e22a3d724542f89303c423390360b4bc5b2c3417",
@@ -279,6 +289,16 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/jugar.png",
       "sha256": "b7e2a0e6aa9547b16fd1c8a2e4c1a6a4d3713be32d428ffeee11987829e84a48",
       "size": 794
+    },
+    "config/fancymenu/assets/jugares.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/jugares.png",
+      "sha256": "af3d84675e2697ff3b8889c1c12ba9adc3ff49101b50c603e161eb41ed1f27ec",
+      "size": 750
+    },
+    "config/fancymenu/assets/jugareshover.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/jugareshover.png",
+      "sha256": "97c6703d7fdf8c652db22366dc2587208319f7411523a86b5480ea8b2f5f7fe5",
+      "size": 736
     },
     "config/fancymenu/assets/leave.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/assets/leave.png",
@@ -357,8 +377,8 @@
     },
     "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
-      "sha256": "db3e349d741333baf0469bed0a7094b697b85d038f188aacbcc8bf513a0f60dd",
-      "size": 6468
+      "sha256": "9b1d1f45aca3f605b3afa08e6c0abc0b2af1dfec144250f85aa6b4d1b14d2331",
+      "size": 6472
     },
     "config/fancymenu/customization/language_select_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/language_select_screen_layout.txt",
@@ -372,13 +392,13 @@
     },
     "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/pause_screen_hardocrebetrat.txt",
-      "sha256": "35d4a8cf68b810cef31db2e19de7b4dfbb4fda2b9abe2671fb93a2c32a7e921a",
-      "size": 25460
+      "sha256": "bd504ef802ae8b508e1b3d51a26a3135dec06942c274ad9507e38d98294e727e",
+      "size": 25464
     },
     "config/fancymenu/customization/title_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/title_screen_layout.txt",
-      "sha256": "03a660c8af964dc5193516ed7bd4756aebe28242d367ea664b204df4f604df79",
-      "size": 31712
+      "sha256": "317dc3a1a1be8c5170048d1816618b10e7e0bd74823de4298aee2bfa562b2e3b",
+      "size": 31725
     },
     "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
@@ -462,12 +482,12 @@
     },
     "config/plasmovoice/client.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/plasmovoice/client.toml",
-      "sha256": "fb5eb68fec066b56fddd40fec02e4516eb667b02b9de9fbe095de2284bddd9fa",
-      "size": 1487
+      "sha256": "39842540911aa72aac4c4ae01f5463dd7d4817634b3e50fdc2584cc7388a15dd",
+      "size": 1538
     },
     "config/plasmovoice/meta_cache.json": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/plasmovoice/meta_cache.json",
-      "sha256": "6a3ed3534d3fa9cd791ee2db825234e9e11dc450f8e0e929df915d599aeb1637",
+      "sha256": "f342c32bca64a4c67101be1640e399cae495eb5f5fcfd202419fd83f526f867e",
       "size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -565,6 +585,11 @@
       "sha256": "cb48c5436af5576fba55bd00eb32ec1a2fdfe90695bce7a93b171e43286bd8de",
       "size": 257
     },
+    "config/pv-addon-broadcast/states.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/pv-addon-broadcast/states.json",
+      "sha256": "0388701ff4e33ad96ff120e1e7187e650049dfdc17d174ee9d38147a18094558",
+      "size": 73
+    },
     "config/pv-addon-broadcast/languages/en_us.toml": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/pv-addon-broadcast/languages/en_us.toml",
       "sha256": "c71444565af45eca1daadee9c0b7bf4430679fdae817f7fdc89781b10b0a66f2",
@@ -632,8 +657,8 @@
     },
     "config/worldedit/worldedit.properties": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/worldedit/worldedit.properties",
-      "sha256": "0db1d46589bd329784f046a301ee344186f7f729561d54282f43cc1c4564e752",
-      "size": 2545
+      "sha256": "2b6fa06aa3536a53ffbe8c9b3ef66cc0c1af26716861cac47e454a6b3f856730",
+      "size": 2546
     },
     "resourcepacks/SquidGame_ResourcePack/pack.mcmeta": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/pack.mcmeta",
@@ -922,13 +947,13 @@
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/ancient_debris_side.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/ancient_debris_side.png",
-      "sha256": "c777cd06d53ed86b6ddcb7b79ebe9e0a4a82f830c922aa1c9ca8ad1c464ce186",
-      "size": 86
+      "sha256": "fa7771086c575c741249b717394a36c878d7f009c165b7475ecaf74ab87e2732",
+      "size": 115
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/ancient_debris_top.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/ancient_debris_top.png",
-      "sha256": "c777cd06d53ed86b6ddcb7b79ebe9e0a4a82f830c922aa1c9ca8ad1c464ce186",
-      "size": 86
+      "sha256": "fa7771086c575c741249b717394a36c878d7f009c165b7475ecaf74ab87e2732",
+      "size": 115
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_bottom.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/barrel_bottom.png",
@@ -975,10 +1000,20 @@
       "sha256": "1f8c6ffa9930fcd73515c744302b42f2a5fce9e19720fefe00ae255f9180bb80",
       "size": 233
     },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/brown_wool.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/brown_wool.png",
+      "sha256": "b9fb57b45e6af55d2fbf821df70a318b23514fed86b252d8bdbaa215abc46fa1",
+      "size": 792
+    },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/chiseled_polished_blackstone.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/chiseled_polished_blackstone.png",
       "sha256": "a5b59721647922ebef4148b3bcfd37d3d4bc2b0f959eaea42cec9a55608cec11",
       "size": 393
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/chiseled_quartz_block.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/chiseled_quartz_block.png",
+      "sha256": "a0d3ce74e988456f914e3f336fb9c6f01f8aaaa170b58229f74866fe9f012e29",
+      "size": 723
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/coal_ore.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/coal_ore.png",
@@ -1150,6 +1185,16 @@
       "sha256": "632405a5f4ff857460b6444724b2f2e28dfbd5002a4ef1aae2bc614ed540b977",
       "size": 674
     },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_door_bottom.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_door_bottom.png",
+      "sha256": "bced301598f0b3eb546004816662cd4bfe2fbb9556e68b4dd49319686e52d5d7",
+      "size": 112
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_door_top.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_door_top.png",
+      "sha256": "bced301598f0b3eb546004816662cd4bfe2fbb9556e68b4dd49319686e52d5d7",
+      "size": 112
+    },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_planks.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/jungle_planks.png",
       "sha256": "9b7f9a05166ae62d0a0f1c21e3066e6c2bd869011c3ca1255b139cd0d7c95c88",
@@ -1214,6 +1259,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/netherrack.png",
       "sha256": "b3f94f510736a0401732c1707fb5470f856275fb62b8ee4ceb5ea523145465bc",
       "size": 144
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/nether_bricks.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/nether_bricks.png",
+      "sha256": "83c0724d74aebe1476b9dcfda14051faf09de052df8d84ef6a120e2801881ad4",
+      "size": 387
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/nether_gold_ore.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/nether_gold_ore.png",
@@ -1430,6 +1480,16 @@
       "sha256": "c39bd0388e7573a9d76d088e0382e54251d1a5c9fbe855bc92a8f19c38cb4989",
       "size": 534
     },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/red_sandstone.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/red_sandstone.png",
+      "sha256": "d6f7b6f5cde148c1e45fa397ff223bc3c3a3fdb03ca57b30d5f6799bc50c4c4d",
+      "size": 120
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/red_sandstone_top.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/red_sandstone_top.png",
+      "sha256": "d6f7b6f5cde148c1e45fa397ff223bc3c3a3fdb03ca57b30d5f6799bc50c4c4d",
+      "size": 120
+    },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/red_sand_string.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/red_sand_string.png",
       "sha256": "62917e71453cb78706d561ea850929d747017941f94d1654344765db8605dc81",
@@ -1439,6 +1499,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/slime_block.png",
       "sha256": "e75e97c2b296e3571200f583cb7326a312dc0e0ba4ad5b410349289396ffa710",
       "size": 143
+    },
+    "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/smooth_red_sandstone.png": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/smooth_red_sandstone.png",
+      "sha256": "d6f7b6f5cde148c1e45fa397ff223bc3c3a3fdb03ca57b30d5f6799bc50c4c4d",
+      "size": 120
     },
     "resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/smooth_stone.png": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/block/smooth_stone.png",

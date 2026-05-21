@@ -39,6 +39,8 @@ stereo_capture = false
 
 [voice.volumes.broadcast]
 volume = 1.0
+[voice.volumes.musica]
+volume = 2.0
 [voice.volumes.proximity]
 volume = 1.0
 
@@ -69,4 +71,5 @@ overlay_style = "NAME_SKIN"
 
 [overlay.source_states]
 broadcast = "OFF"
+musica = "OFF"
 proximity = "OFF"
