@@ -2124,6 +2124,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/particle/particles.png",
       "sha256": "8246ad0a10f517a390ef07581eeea62ac1af0fa02e35c8f8511a340f424c1077",
       "size": 4063
+    },
+    "options.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/options.txt",
+      "sha256": "92922cda03722134ab3928c823863c81c92727be3fc883f60d1d83456763f1e1",
+      "size": 4509
     }
   }
 }

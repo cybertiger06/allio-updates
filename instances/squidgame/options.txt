@@ -49,9 +49,9 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","fabric","file/SquidGame_ResourcePack"]
-incompatibleResourcePacks:["cmdcam","drippyloadingscreen","fancymenu","konkrete","worldedit"]
+incompatibleResourcePacks:["cmdcam","drippyloadingscreen","fancymenu","konkrete","veil","worldedit"]
 lastServer:
-lang:en_us
+lang:es_es
 chatVisibility:0
 chatOpacity:1.0
 chatLineSpacing:0.0
@@ -75,7 +75,7 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
 joinedFirstServer:true
 hideBundleTutorial:false
@@ -139,8 +139,11 @@ key_key.point6:key.keyboard.keypad.6
 key_key.point7:key.keyboard.keypad.7
 key_key.point8:key.keyboard.keypad.8
 key_key.point9:key.keyboard.keypad.9
+key_key.dollmod.open_spectator_panel:key.keyboard.f
+key_key.dollmod.open_sound_panel:key.keyboard.g
 key_key.plasmovoice.settings:key.keyboard.v
-soundCategory_master:1.0
+key_key.veil.editor:key.keyboard.unknown
+soundCategory_master:0.6724006622516556
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:0.6191637323943661
