@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "instance_name": "Squid Games Instace",
+  "instance_name": "squidgame",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.17.3",
