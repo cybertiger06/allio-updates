@@ -1,50 +1,50 @@
-/chairs true 2
-/chairs false
-/morhector true
-/morhector false
-/gamemode spectator
 /gamemode creative
-/gamemode spectator
-/gamemode creative
-/cont gui
-/gamemode survival
-/waitscreen 30 true
-/waitscreen 30 false
-/gamemode creative
-/waitscreen 30 true
-/waitscreen admin 30 true
-/waitscreen admin 30 false
-/waitscreen admin 30 true
-/waitscreen false
-/waitscreen 30 true
-/waitscreen false
-/waitscreen 30 true
-/waitscreen false
-/waitscreen 30 true
-/waitscreen false
-/waitscreen 30 true
-/waitscreen false
-/waitscreen 30 true
-/waitscreen false
-/gamemode spectator
-/ascensor muneca
-/gamemode creative
-/ascensor munecalobby
-/ascensor muneca
-/gamemode spectator
-/gamemode creative
-/gamemode s
-/gamemode spectator
-/gamemode creative
-/gamemode spectator
-/asecensor munecalobby
-/gamemode creative
-/gamemode spectator
-/gamemode creative
-/gamemode adventure
-/bloodparticles off
-/guardia on
+/zona lobby guardias
+/closedoor metal
+/guardia off Car23m2
+/clear Car23m2
+/zona mingle todos
 /guardia off
-/clear
-/gamemode creative
+/gamemode adventure
+/mingle
 /guardia on
+/tp Car23m2
+/gamemode creative
+/gamemode adventure @a
+/clear Car23m2
+/anima player_hanging
+/anima player_hanging true
+/anima guard_hanging true
+/anima player_hanging true Car23m2
+/effect clear @a
+/anima player_hanging false @a
+/mingle
+/agarre @s
+/agarre @s @s
+/agarre stop
+/agarre stop @s
+/agarre stop @s @s
+/guardia off
+/tp Car23m2 @s
+/bloodparticles off
+/sangrado false
+/difficulty peaceful
+/mingle
+/effect clear @a
+/bloodparticles off
+/sangrado false
+/difficulty peaceful
+/mingle
+/gamemode creative
+/guardia on CyberTiger2
+/clear @a
+/agarre CyberTiger2 Car23m2
+/agarre stop CyberTiger2 Car23m2
+/gamemode adventure
+/guardia off
+/zona lobby guardias
+/zona lobby todos
+/guardia on
+/gamemode creative
+/zona lobby todos
+/zona telefono todos
