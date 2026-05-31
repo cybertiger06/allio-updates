@@ -2174,6 +2174,11 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/options.txt",
       "sha256": "c4c9b97d1cb609a36c48cb2a1e712a2d30523a0a522f678037c9ea56ae80f1c8",
       "size": 4510
+    },
+    ".allio_instance_version.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/.allio_instance_version.txt",
+      "sha256": "b9effab2241a196d6a8a155d2cc74233a7c1504e1652fb9d8ca8a1c4ca7eb0c6",
+      "size": 29
     }
   }
 }
