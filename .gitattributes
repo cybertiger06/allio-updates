@@ -8,3 +8,9 @@
 *.png binary
 *.ogg binary
 *.nbt binary
+
+# Archivos de instancia: servir byte-exactos (sin conversion CRLF<->LF)
+# para que el sha256 del manifest coincida con lo que sirve raw.githubusercontent.com.
+# Sin esto, autocrlf convierte CRLF->LF en el blob y el launcher rechaza los
+# archivos de texto (json/mcmeta/txt) por hash mismatch.
+instances/** -text
