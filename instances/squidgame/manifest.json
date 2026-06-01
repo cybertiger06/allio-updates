@@ -1,5 +1,5 @@
 {
-  "version": "1.2.0",
+  "version": "1.3.0",
   "instance_name": "squidgame",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -2169,6 +2169,21 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/resourcepacks/SquidGame_ResourcePack/assets/minecraft/textures/particle/particles.png",
       "sha256": "8246ad0a10f517a390ef07581eeea62ac1af0fa02e35c8f8511a340f424c1077",
       "size": 4063
+    },
+    "fancymenu_data/last_world.fmdata": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/fancymenu_data/last_world.fmdata",
+      "sha256": "292453b09eef1dfb07d4a377bfaa8abb3395847fa7557bdd148d4e6d3fbc4231",
+      "size": 84
+    },
+    "fancymenu_data/buddy/buddy_leveling.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/fancymenu_data/buddy/buddy_leveling.json",
+      "sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+      "size": 1619
+    },
+    "fancymenu_data/buddy/buddy_save.json": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/fancymenu_data/buddy/buddy_save.json",
+      "sha256": "601f0b2dbbbd1724da2eb22f1575cbcc254e5e92527fd3df375f367b08c78c56",
+      "size": 260
     },
     "options.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/options.txt",
