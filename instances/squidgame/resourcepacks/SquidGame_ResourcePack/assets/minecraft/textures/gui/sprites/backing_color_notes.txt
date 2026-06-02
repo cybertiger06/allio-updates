@@ -1,3 +1,0 @@
-apply before flattening:
-brightness 50
-contrast 25

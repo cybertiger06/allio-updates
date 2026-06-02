@@ -1,6 +1,0 @@
-{
-  "parent": "item/crossbow",
-  "textures": {
-    "texture": "item/crossbow_standby"
-  }
-}
