@@ -1,0 +1,912 @@
+{
+  "version": "1.0.0",
+  "instance_name": "Squid Games TEST",
+  "minecraft_version": "1.21.1",
+  "loader": "fabric",
+  "loader_version": "0.18.4",
+  "encrypted": true,
+  "delete": [
+    "mods/dollmod-3.0.10.jar",
+    "mods/dollmod-3.0.9.jar",
+    "mods/dollmod-3.0.8.jar",
+    "mods/dollmod-3.0.3.jar",
+    "mods/plasmovoice-fabric-1.21-2.1.8.jar",
+    "mods/vanish-1.5.7+1.21.1.jar",
+    "mods/dalgona-mod-1.0.0.jar"
+  ],
+  "files": {
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/alliovoicechat-fabric-1.21-2.1.8.jar.enc",
+      "enc": true,
+      "sha256": "3b33c9e92030be8910ad18ff49a1116ef570e5f0a9e20726bca5aae7a334aaed",
+      "size": 12219044,
+      "plain_sha256": "f7bde81d23c9ce05f277d59d35bce1bc91f2d1b90832431a276d10298b1005e0",
+      "plain_size": 12219007
+    },
+    "mods/chatworking-1.02.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/chatworking-1.02.0.jar.enc",
+      "enc": true,
+      "sha256": "df5853b28b6e17020c5d7aca1832a03de9b879bbb901781be3905b20a0c57e7c",
+      "size": 5137,
+      "plain_sha256": "8b3167ed6ceb9ec97837ea5b7084c623d9cc56126e1eefa875b9004f6cec8e1c",
+      "plain_size": 5100
+    },
+    "mods/cinematica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/cinematica-fabric-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "b35a8ccc79338cb23226b6490c6a179445cbd728861cfda97c25478a4b7020b9",
+      "size": 21889,
+      "plain_sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
+      "plain_size": 21852
+    },
+    "mods/CMDCam-Fabric-new.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/CMDCam-Fabric-new.jar.enc",
+      "enc": true,
+      "sha256": "491232ae85bf6932a65cfb8ab435a4e4a5664f2457fc9b22135fc9bbebb05e65",
+      "size": 182132,
+      "plain_sha256": "242c4260e50337d88cd7ab18845b404bd5cd61133dde78bf5de1e75ac5705ccc",
+      "plain_size": 182095
+    },
+    "mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "4640c9e5e9977b7921d458bf3addc196e1321747b7ea34d6ed66fa01795d84c7",
+      "size": 1239377,
+      "plain_sha256": "c07f322040671f7708a51cda16b81375b24cf313669ebd562e0e8dd4ff4ed3eb",
+      "plain_size": 1239340
+    },
+    "mods/dalgona-mod-2.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/dalgona-mod-2.0.0.jar.enc",
+      "enc": true,
+      "sha256": "61af602181d31e3b448c5ad42472477bf779bb3d39be711cb21dbb2f16056ceb",
+      "size": 1150756,
+      "plain_sha256": "c114c3eebc8ddd31de7f48462fb3371308464480481af1651b588f47da7f2cbe",
+      "plain_size": 1150719
+    },
+    "mods/DistantHorizons-2.4.2-b-1.21.1-fabric-neoforge.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/DistantHorizons-2.4.2-b-1.21.1-fabric-neoforge.jar.enc",
+      "enc": true,
+      "sha256": "f36fdc56bf7059e8bf267c59f452d7d099f31ac6a051b7cf3c762e74937f66e9",
+      "size": 25491924,
+      "plain_sha256": "e410c2eab1c2ace23499f457737e97429524c48cd17c92495b833f23df7b29e6",
+      "plain_size": 25491887
+    },
+    "mods/dollmod-3.0.11.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/dollmod-3.0.11.jar.enc",
+      "enc": true,
+      "sha256": "6116a0967a379e0b72c2972a639405b0903a08e2fb50192e22b9fb3bbdfcac66",
+      "size": 92713369,
+      "plain_sha256": "a4cb1e77cf9addeec32ac148b40a1ddf3e75307475fbf19a40c448c97fa2d950",
+      "plain_size": 92713332
+    },
+    "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "188e4603ed070144630fb2f71ec68e406450b09586af8dffe02f0717886f9481",
+      "size": 235309,
+      "plain_sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
+      "plain_size": 235272
+    },
+    "mods/fabric-api-0.116.7+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/fabric-api-0.116.7%2B1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "1c578f00aef5e1696a77bf55b6b6910b0bd3510fc64947706b46ef945949444b",
+      "size": 2424921,
+      "plain_sha256": "08018cc48c97415a38016a00dbd5a2c7a460ba6b7a051690a8cb3dbb5e8482a4",
+      "plain_size": 2424884
+    },
+    "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "336f0436a36a64366f8b05551105262d45c49bf576fbfa232a4b9386b9342afc",
+      "size": 3618669,
+      "plain_sha256": "f069dc8d0fc89f6b321f871eea3ddc333962b9bb225e967fcea35825ee1fe659",
+      "plain_size": 3618632
+    },
+    "mods/geckolib-fabric-1.21.1-4.8.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/geckolib-fabric-1.21.1-4.8.2.jar.enc",
+      "enc": true,
+      "sha256": "64c7857b614586404cd86bb810ae568c290a1745e9dc87753b5cf1031b00a9c8",
+      "size": 653036,
+      "plain_sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
+      "plain_size": 652999
+    },
+    "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+      "enc": true,
+      "sha256": "d3360a3b47089a4b5ae01e50aa271ae821a6b2d160939dc750fd80281614cb20",
+      "size": 786732,
+      "plain_sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "plain_size": 786695
+    },
+    "mods/melody_fabric_1.0.10_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/melody_fabric_1.0.10_MC_1.21.jar.enc",
+      "enc": true,
+      "sha256": "7b5756314bc77a2aece66d27412a804cd4eded48528b44d2acd53b2d257c5850",
+      "size": 188072,
+      "plain_sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "plain_size": 188035
+    },
+    "mods/musica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/musica-fabric-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "2f62d36c4e1d290a9b686af79c5494d1cd832524fbf0e20afa8e5d7cceb2961e",
+      "size": 326413,
+      "plain_sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
+      "plain_size": 326376
+    },
+    "mods/NoFog-1.21-1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/NoFog-1.21-1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "2cf881c99d17b4fd8f207e49592ee900dec20b51ba404a4ffbe2efb78490ecf2",
+      "size": 5460,
+      "plain_sha256": "b11a9e771ff424d7439a910c1515611d1921042621bf52ad29ffc061a3731b4d",
+      "plain_size": 5423
+    },
+    "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/offlineskins-1.21.1-v1a-fabric.jar.enc",
+      "enc": true,
+      "sha256": "91b2119e5e4430073d1c6466db590d8bdd710a47cd0297c36a0ec85c84709f11",
+      "size": 101165,
+      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
+      "plain_size": 101128
+    },
+    "mods/pv-addon-broadcast-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/pv-addon-broadcast-1.1.0.jar.enc",
+      "enc": true,
+      "sha256": "dff97d510d6bd4606946092c99b6dde3e117c139d7b013ad66099c2b312d88a9",
+      "size": 58498,
+      "plain_sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
+      "plain_size": 58461
+    },
+    "mods/pv-addon-spectator-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/pv-addon-spectator-1.1.0.jar.enc",
+      "enc": true,
+      "sha256": "6c7eb15628d22419b71da2d9ddfa48155025df67ec3dd215e60c0f4e9e86ee8b",
+      "size": 13225,
+      "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
+      "plain_size": 13188
+    },
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "d44422c3add7dc55b6952a8119afd09f4239355f09f866c8a5d90215d3870ea9",
+      "size": 1297798,
+      "plain_sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "plain_size": 1297761
+    },
+    "mods/vanish-1.6.5+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/vanish-1.6.5%2B1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "9691953782da0c064c6398575534ca5134c875e097993c3a616b2e438ed855ea",
+      "size": 1247460,
+      "plain_sha256": "b0562a7e91ad8ffecffeec3732210bfce7e352188b8cd3e3e359dca730601360",
+      "plain_size": 1247423
+    },
+    "mods/veil-fabric-1.21.1-3.6.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/veil-fabric-1.21.1-3.6.2.jar.enc",
+      "enc": true,
+      "sha256": "2e7713560e89912bd79f1335b53e637800b86bacf9e88fdc1ae622d23bad8f10",
+      "size": 15211162,
+      "plain_sha256": "4c3f2bd13259e0ba7da82503025ae9f2dbb18f98c7b3784c3d9cf153851816c9",
+      "plain_size": 15211125
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/mods/worldedit-mod-7.3.8.jar.enc",
+      "enc": true,
+      "sha256": "3cf46820c2fb4c0d9eebeeb68297553abbcee6f7c86a1a40add05a815f70bf5b",
+      "size": 6222891,
+      "plain_sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "plain_size": 6222854
+    },
+    "config/bobby.conf": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/bobby.conf.enc",
+      "enc": true,
+      "sha256": "dcb308c56a3ffc3f9d913d23a283094333533bfa7d57f7bb1c8573a4732ab176",
+      "size": 2020,
+      "plain_sha256": "7b8ca233ee25d95db7ea4601b786d656f3f7569ddf129836ce7f8dbbe5eb8926",
+      "plain_size": 1983
+    },
+    "config/cmdcam-client.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/cmdcam-client.json.enc",
+      "enc": true,
+      "sha256": "c23e65bf18303f9cfaa9d671cadaff052e8dfb673fb473cedac060b2f23a7af9",
+      "size": 61,
+      "plain_sha256": "4cc716ae09fdccf228bb27be8bda41b892692a8835269788068c684e8d15f5c9",
+      "plain_size": 24
+    },
+    "config/creativecore-client.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/creativecore-client.json.enc",
+      "enc": true,
+      "sha256": "ca438cd6dd91b8fe23b8d572474526a2d329b80c863f34e4a4f9ca37e9eb010d",
+      "size": 60,
+      "plain_sha256": "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac",
+      "plain_size": 23
+    },
+    "config/creativecore.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/creativecore.json.enc",
+      "enc": true,
+      "sha256": "7eda7a9156f9a7b6bad1e32c1723de14ffec3481cd26c838306b29742fe50d18",
+      "size": 311,
+      "plain_sha256": "5f08d0878d7f89c6b4c947a49dce368d7738255d44fecf9aad59ec6ae8a4fcef",
+      "plain_size": 274
+    },
+    "config/DistantHorizons.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/DistantHorizons.toml.enc",
+      "enc": true,
+      "sha256": "824e4443be892b39b7cb42a8c58bd819d52985a75b5a474d6e9338499392dd38",
+      "size": 32138,
+      "plain_sha256": "a3b9e15a7a81a630e48a14f317ccac50f9a31271f3445b73f93f854456d53c30",
+      "plain_size": 32101
+    },
+    "config/dollmod.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/dollmod.json.enc",
+      "enc": true,
+      "sha256": "8d0a651101e43eda2a44592da9da213261464cf4121c6a969c1e583e44e1950c",
+      "size": 451,
+      "plain_sha256": "803cabcc68d63b06698502d5ea4a762535a6eb5b914f39b1733d2e6c0911c1b0",
+      "plain_size": 414
+    },
+    "config/litematica.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/litematica.json.enc",
+      "enc": true,
+      "sha256": "d34313d9882fb8df65143fdbd8d11c82d94ec89cd84e4064a32e4c4f38c94618",
+      "size": 10730,
+      "plain_sha256": "bfded577c7ed253c3c15da9a8f610dfe25f2254fd1943c86337fb6005d2daacd",
+      "plain_size": 10693
+    },
+    "config/malilib.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/malilib.json.enc",
+      "enc": true,
+      "sha256": "47935ddd959673f9ca90bbb61d7e5af25dfdae7f90ef53bf52b85f69f402fafb",
+      "size": 712,
+      "plain_sha256": "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0",
+      "plain_size": 675
+    },
+    "config/offlineskins.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/offlineskins.json.enc",
+      "enc": true,
+      "sha256": "8c3fe4fb85c0fe786fa87ff531942c4c54b31d6face0736683df670298cca7c8",
+      "size": 339,
+      "plain_sha256": "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1",
+      "plain_size": 302
+    },
+    "config/replaymod.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/replaymod.json.enc",
+      "enc": true,
+      "sha256": "d44354e4f9bb2f487df9bfa4d91e24436c7767a04a3ad5e5001d77075fb19979",
+      "size": 1847,
+      "plain_sha256": "a367470815e5b2d28e7eb781b1b9b22969f91602791fbc2eb7fab0635866e136",
+      "plain_size": 1810
+    },
+    "config/sodium-fingerprint.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/sodium-fingerprint.json.enc",
+      "enc": true,
+      "sha256": "20cdf8a9ab27459e300d28d683863b34e6a9a8a98a67384aa8e782b340294b46",
+      "size": 464,
+      "plain_sha256": "5e9c15b1279569c9833fd9a30e339c91077f9fd5894f3b09a7127b087063067e",
+      "plain_size": 427
+    },
+    "config/sodium-mixins.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/sodium-mixins.properties.enc",
+      "enc": true,
+      "sha256": "7c1357f8b79688e0991bc6215c49d6e65632a7d9e10db3f18a6f9cb3e25e20a5",
+      "size": 295,
+      "plain_sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "plain_size": 258
+    },
+    "config/sodium-options.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/sodium-options.json.enc",
+      "enc": true,
+      "sha256": "09b24218519056e719f1f9ceb6f2a224d1ddf10e2455e9e3a861a019a4a29d0e",
+      "size": 722,
+      "plain_sha256": "5eb76055d46b8cb8c64a48d7b8c697bccd1784906671e7c38adebe3f63b6af31",
+      "plain_size": 685
+    },
+    "config/vanish.hocon": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/vanish.hocon.enc",
+      "enc": true,
+      "sha256": "ca408ba3bfd08d76ba7445d05682571a8adfefbcaa069ba8c54d1d2a1116fb73",
+      "size": 1522,
+      "plain_sha256": "9c0b64cbbde6c701fec60574bfe5c0b43e2c42da8e962309a1b42a528736dd92",
+      "plain_size": 1485
+    },
+    "config/drippyloadingscreen/options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/drippyloadingscreen/options.txt.enc",
+      "enc": true,
+      "sha256": "43deebd68957d2668ca83229d9258f6487b26fa57777e81c0cc00238baa55753",
+      "size": 199,
+      "plain_sha256": "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5",
+      "plain_size": 162
+    },
+    "config/fabric/indigo-renderer.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fabric/indigo-renderer.properties.enc",
+      "enc": true,
+      "sha256": "c93cf5e80d4447adb7bf5c614c00b5a46d3228ccc2a3abe2d100501bc65b11dd",
+      "size": 328,
+      "plain_sha256": "002a78f3850903f0480e3b39265f157c2c0854192361c44302d813aa98d21fd6",
+      "plain_size": 291
+    },
+    "config/fancymenu/customizablemenus.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/customizablemenus.txt.enc",
+      "enc": true,
+      "sha256": "a141e9be27994af871aa81935a8144f9bc79235f8ef1f9518805da41f4ff7223",
+      "size": 310,
+      "plain_sha256": "28c7d320573ea6c5a274a3c815571d07638ce2631f5bb4a2d02e08aa6fd7358b",
+      "plain_size": 273
+    },
+    "config/fancymenu/custom_gui_screens.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/custom_gui_screens.txt.enc",
+      "enc": true,
+      "sha256": "79f7591d31072e04bb0f2defff39a870d15e4354ba5fa0743c16a91a723584e9",
+      "size": 88,
+      "plain_sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "plain_size": 51
+    },
+    "config/fancymenu/legacy_checklist.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/legacy_checklist.txt.enc",
+      "enc": true,
+      "sha256": "84f5f6ffcf355b106559c851d1c7377c2e275aa69a9b1bd6e7d8e99c0909eb1a",
+      "size": 79,
+      "plain_sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "plain_size": 42
+    },
+    "config/fancymenu/normalized_scroll_screens.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/normalized_scroll_screens.json.enc",
+      "enc": true,
+      "sha256": "0b46517e5c8fb92f2b1811429a1594ad1995310e7d9511c07da8939bb5733814",
+      "size": 64,
+      "plain_sha256": "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1",
+      "plain_size": 27
+    },
+    "config/fancymenu/options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/options.txt.enc",
+      "enc": true,
+      "sha256": "70d1e658f80af10ae46bb808991038042c7cae71544e767ed9d66e81a4ba50d8",
+      "size": 2191,
+      "plain_sha256": "a4883480abc671122c6b8966abe5fc487866d66027481532fa66fb8b45d49f53",
+      "plain_size": 2154
+    },
+    "config/fancymenu/user_variables.db": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/user_variables.db.enc",
+      "enc": true,
+      "sha256": "a685377c5f560e34add54103571aedf5fecaa8a874756fd51b1f323db17b0079",
+      "size": 60,
+      "plain_sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "plain_size": 23
+    },
+    "config/fancymenu/video_element_controller_metas.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/video_element_controller_metas.json.enc",
+      "enc": true,
+      "sha256": "473d8a2f602f072e56f12c38bd6ba35c1d58e65b114dbd365f2786a1a7741a63",
+      "size": 138,
+      "plain_sha256": "9fd0487f7ad569677ba9206040e2b4ba00fcc28608a5705ff4c4bddf47c833fa",
+      "plain_size": 101
+    },
+    "config/fancymenu/assets/fondo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/assets/fondo.png.enc",
+      "enc": true,
+      "sha256": "9039aba3bbe248bf3c1d3846be61ad68b7125051f61c92de363cd0411ea8ec4d",
+      "size": 7849,
+      "plain_sha256": "84060964bc0957847c8b03f32a6f7d7c2e9eebd6232645f1b4690ecc3198551b",
+      "plain_size": 7812
+    },
+    "config/fancymenu/assets/fondovdos.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/assets/fondovdos.png.enc",
+      "enc": true,
+      "sha256": "c49c36e72c24f7b5b2eb0b590ef70a298cca308793a5c1d3b282c74565eaddc2",
+      "size": 23193,
+      "plain_sha256": "674a7575ecb946bb6d94e635112a2afcc685c14f6f8ea9f6d57344d5701607be",
+      "plain_size": 23156
+    },
+    "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/customization/drippy_loading_overlay_layout.txt.enc",
+      "enc": true,
+      "sha256": "07d773ff540272babfe8dc7d058e454e181748eaa4ed02e7415b0b092153a4fd",
+      "size": 6509,
+      "plain_sha256": "9b1d1f45aca3f605b3afa08e6c0abc0b2af1dfec144250f85aa6b4d1b14d2331",
+      "plain_size": 6472
+    },
+    "config/fancymenu/customization/language_select_screen_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/customization/language_select_screen_layout.txt.enc",
+      "enc": true,
+      "sha256": "f8e204f8d868efe6ed0f8f05dfae157afbc829e019ce3375f156981be9751abd",
+      "size": 8859,
+      "plain_sha256": "b3b41fcfac533bbdfaac52f4e7324f5324aee77bff218e3cbb9cdb952cbc86d2",
+      "plain_size": 8822
+    },
+    "config/fancymenu/customization/options_screen_layout_1.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/customization/options_screen_layout_1.txt.enc",
+      "enc": true,
+      "sha256": "cbe9ec3c7a070eca72d836f03d5e68625b28999cc5976bc837e05118f0df8542",
+      "size": 30594,
+      "plain_sha256": "38c3d6a267d3a5e0031d2d2b4be487d6b3e287fee9f8bedf20a14d7a63d0ce7b",
+      "plain_size": 30557
+    },
+    "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/customization/pause_screen_hardocrebetrat.txt.enc",
+      "enc": true,
+      "sha256": "713735a8f4b887ffea9b6319c91af648ab83cff755c7666da2c2b1dcf85b5375",
+      "size": 25172,
+      "plain_sha256": "9d7e5ab724ffacc26b793b3670bee09da67c633fcaa5029ed247b6c4cd34eea9",
+      "plain_size": 25135
+    },
+    "config/fancymenu/customization/title_screen_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/customization/title_screen_layout.txt.enc",
+      "enc": true,
+      "sha256": "361ee967db4fb80715a96763a02fa30c4ecde8f1f43b62ce457f64a601a8e7d9",
+      "size": 27658,
+      "plain_sha256": "618848d073487f5ea078e4d08ab2a664365eeda08cf547fe77c28808b91c4b31",
+      "plain_size": 27621
+    },
+    "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget.enc",
+      "enc": true,
+      "sha256": "01315daa893a378f39371f863de649583369f3941c2465eeca5ade87b470c4ee",
+      "size": 234,
+      "plain_sha256": "64e9149d8f237526f7a839e76793897f12281dcb9174ff0545bbcff7c5586e02",
+      "plain_size": 197
+    },
+    "config/fancymenu/ui_themes/dark.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/ui_themes/dark.json.enc",
+      "enc": true,
+      "sha256": "bc81632196e9df9bafd1eecab7e2c585cdca3c8d6e70177d0ef1eb280eb11ddf",
+      "size": 4170,
+      "plain_sha256": "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+      "plain_size": 4133
+    },
+    "config/fancymenu/ui_themes/light.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/fancymenu/ui_themes/light.json.enc",
+      "enc": true,
+      "sha256": "f2a1a96cab1852a84d374702b4843f10282835055f0dba1528903cdcab378ad0",
+      "size": 4172,
+      "plain_sha256": "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "plain_size": 4135
+    },
+    "config/jade/hide-blocks.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/hide-blocks.json.enc",
+      "enc": true,
+      "sha256": "d62836235f6acb7513e174618da8debd10e3119a5280e320d8c01fc0ec3cd44b",
+      "size": 186,
+      "plain_sha256": "309df4ae96864c19eae41b646d58497c85a73b1fc3c584e772ef4d5822794baa",
+      "plain_size": 149
+    },
+    "config/jade/hide-entities.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/hide-entities.json.enc",
+      "enc": true,
+      "sha256": "c0d0371f4eddc138727ad3faac4613763a99783ec3200ae47804bd0b0f4d7322",
+      "size": 280,
+      "plain_sha256": "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709",
+      "plain_size": 243
+    },
+    "config/jade/hide-mob-effects.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/hide-mob-effects.json.enc",
+      "enc": true,
+      "sha256": "5b5638b0666593da97bfe5b6115c11fa33fc261f0f925acb2a1ec6d11cb44142",
+      "size": 169,
+      "plain_sha256": "085ae084a98180d4659ef60f9cf91281152a6e7b74a5a76c53f86e4f8f0d17f9",
+      "plain_size": 132
+    },
+    "config/jade/jade.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/jade.json.enc",
+      "enc": true,
+      "sha256": "b4620709c4fc424ee2b8683609e0ea61d8ce9efe44c093e94d3f6c19057cb3dc",
+      "size": 3670,
+      "plain_sha256": "a8e508de313448a9dd6ac07bb8fa85a24819e62eac46f2efca4a04a53203ae21",
+      "plain_size": 3633
+    },
+    "config/jade/server-plugin-overrides.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/server-plugin-overrides.json.enc",
+      "enc": true,
+      "sha256": "990ec1384b6d54bcf1306c411c1374a8f609fe3702f61ad34253beb744dac623",
+      "size": 39,
+      "plain_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "plain_size": 2
+    },
+    "config/jade/sort-order.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/sort-order.json.enc",
+      "enc": true,
+      "sha256": "0e3dc95674f314c96ae340ebb342c490de4187a409ff3e1dcd3c53186ec662c6",
+      "size": 2111,
+      "plain_sha256": "c0235d429020dce0cd44eb11e34a728f83e8416ef5b61bd9607af370e963ad6c",
+      "plain_size": 2074
+    },
+    "config/jade/profiles/1/jade.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/profiles/1/jade.json.enc",
+      "enc": true,
+      "sha256": "3d0f539f7d311bcc2b6b245ce643493910163c97c5d3e5b15f0149b58fd3131f",
+      "size": 3396,
+      "plain_sha256": "2e8c2572c1df12ca4f150244f5de004f25c8ad6c3be039c3f10c9f47ae255e3e",
+      "plain_size": 3359
+    },
+    "config/jade/profiles/2/jade.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/profiles/2/jade.json.enc",
+      "enc": true,
+      "sha256": "8f4737aac334f370bb5e9024c82a6984514cb5363a4a8f8e6c3d62098ff42401",
+      "size": 3405,
+      "plain_sha256": "002297a25064edf501199d18d6b342037b991d0304fdbf4671640ca92dc1719e",
+      "plain_size": 3368
+    },
+    "config/jade/profiles/3/jade.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/jade/profiles/3/jade.json.enc",
+      "enc": true,
+      "sha256": "c030756b5a583a056328212e315f448f50aa2a51e57eec2303891fb0daa45658",
+      "size": 3348,
+      "plain_sha256": "01bd23c0a15cd378b7e69f79264a8bf5f3f5b1d747f11519e498438c8a091b91",
+      "plain_size": 3311
+    },
+    "config/konkrete/locals/de_de.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/konkrete/locals/de_de.local.enc",
+      "enc": true,
+      "sha256": "ac1a1da6e811a33b22822883c2b597ed4260a2b238d9832b38ee16abf5b23a87",
+      "size": 406,
+      "plain_sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "plain_size": 369
+    },
+    "config/konkrete/locals/en_us.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/konkrete/locals/en_us.local.enc",
+      "enc": true,
+      "sha256": "7a0f3abae5f6e7bc3819e0ce3573d14f51b8cdb35cc8f20c6ade7542369bb106",
+      "size": 463,
+      "plain_sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "plain_size": 426
+    },
+    "config/konkrete/locals/pl_pl.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/konkrete/locals/pl_pl.local.enc",
+      "enc": true,
+      "sha256": "328de15636a4c61e78ace07306e1100941d2d5c2105ee37198685109906983ad",
+      "size": 350,
+      "plain_sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "plain_size": 313
+    },
+    "config/konkrete/locals/pt_br.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/konkrete/locals/pt_br.local.enc",
+      "enc": true,
+      "sha256": "1d7eb8eb06260a29b7831377fc00b87f69946a8ca64de889fa3675e72b1be4fb",
+      "size": 359,
+      "plain_sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "plain_size": 322
+    },
+    "config/litematica/litematica_64.95.151.138_25567.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/litematica/litematica_64.95.151.138_25567.json.enc",
+      "enc": true,
+      "sha256": "c47ccd683d48ea8f78602adb05f48f8efc517a35937c8cb8e89ca64a0ef50ca4",
+      "size": 132,
+      "plain_sha256": "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e",
+      "plain_size": 95
+    },
+    "config/litematica/litematica_64.95.151.138_25567_dim_minecraft_overworld.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/litematica/litematica_64.95.151.138_25567_dim_minecraft_overworld.json.enc",
+      "enc": true,
+      "sha256": "79caafa24f566547e1335aa4430eaf437590181211a4b2b58491e3e884bd4f08",
+      "size": 1938,
+      "plain_sha256": "393a6ae88f2e5404667e6ac1e93004b5d590af22e29786a3216eac512774cb0b",
+      "plain_size": 1901
+    },
+    "config/plasmovoice/client.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/client.toml.enc",
+      "enc": true,
+      "sha256": "9d8135f96e37747f1e73ba05f157e8705823b3ee0685274fe2bebed3d07b01ad",
+      "size": 1606,
+      "plain_sha256": "c8b00930b18e7cab5665fd512bdf17b4daa97fb6a507e7f5831a9eb31a8c9f90",
+      "plain_size": 1569
+    },
+    "config/plasmovoice/meta_cache.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/meta_cache.json.enc",
+      "enc": true,
+      "sha256": "1828815fca8425db36aa0f0289908b71f071c9c0a437aaa8734b1d61b39e1ed2",
+      "size": 1346,
+      "plain_sha256": "aa73fa01260df61fae30a8ae052122e514b762e0a8f684d95b1f696aa86c813d",
+      "plain_size": 1309
+    },
+    "config/plasmovoice/server/config.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/config.toml.enc",
+      "enc": true,
+      "sha256": "176db74ab3effa7bbd4dd1e61899ce5e5decd0c3f88958fa07b8034e1a6ff95f",
+      "size": 3642,
+      "plain_sha256": "dd84f80f292561edb9e474aa86980ca8195c1bba079e92b5258b94487f919ba1",
+      "plain_size": 3605
+    },
+    "config/plasmovoice/server/voice_mutes.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/voice_mutes.json.enc",
+      "enc": true,
+      "sha256": "ed18d5090addc12e4c9e0bf862af8e9249ba499fb6599aaf34856ea278b46213",
+      "size": 39,
+      "plain_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "plain_size": 2
+    },
+    "config/plasmovoice/server/languages/de_de.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/de_de.toml.enc",
+      "enc": true,
+      "sha256": "c7d0521f1a1341fd28c7b478c930e86784ac162a45224412cc4a1db7db521304",
+      "size": 2212,
+      "plain_sha256": "9fc73031a7de8225670bf43c35b545be21c665bc9fb501b7005e4633b3ab0a88",
+      "plain_size": 2175
+    },
+    "config/plasmovoice/server/languages/en_us.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/en_us.toml.enc",
+      "enc": true,
+      "sha256": "a35001f9de46076f69935cef602d4b5dbb6ee4fe4d4228f73f1d971a078a53ea",
+      "size": 1929,
+      "plain_sha256": "a3ffc8d6709904df88d81d4fddbf7c54185faf1595519a13288f78be8d287ced",
+      "plain_size": 1892
+    },
+    "config/plasmovoice/server/languages/es_es.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/es_es.toml.enc",
+      "enc": true,
+      "sha256": "76aaa6cad9d8df2fcef9faeaf0ba3e727a5c19c2892ac626988c22445de81524",
+      "size": 2148,
+      "plain_sha256": "2cfd2e058a09fbd0fc2d6bb7d5eda62f1f322b103be3d33a835e39dea463c1b3",
+      "plain_size": 2111
+    },
+    "config/plasmovoice/server/languages/fr_fr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/fr_fr.toml.enc",
+      "enc": true,
+      "sha256": "0b418060c2159d391b4d58b84d2ccd5b3b16dbc05446314a995d19aceef47a7b",
+      "size": 2124,
+      "plain_sha256": "e8974fccbb16c616728967bf1e45eedfdfb849b12a6f1b91b398d1da3ffea988",
+      "plain_size": 2087
+    },
+    "config/plasmovoice/server/languages/he_il.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/he_il.toml.enc",
+      "enc": true,
+      "sha256": "840c5003669854b919c2bfb60901516cb93c25eecfae7339c9a2f76b79bd334e",
+      "size": 2253,
+      "plain_sha256": "c499b39e46b90cba9bd875b15f119d8948a6ec45782e6482f03ffae1bdbb5856",
+      "plain_size": 2216
+    },
+    "config/plasmovoice/server/languages/ja_jp.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/ja_jp.toml.enc",
+      "enc": true,
+      "sha256": "4a2187a75927040f0578007b665a9ba3c6c06282ac2da5a11a36538f38f1c0aa",
+      "size": 2533,
+      "plain_sha256": "664fb25e829713ca1e18c53ebcb8a4f88daf991c3fc8037e433463c1b9005513",
+      "plain_size": 2496
+    },
+    "config/plasmovoice/server/languages/ko_kr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/ko_kr.toml.enc",
+      "enc": true,
+      "sha256": "5f2188cf7a4f97246cf7dfbc81f65e7e7ef03cb9dcecaeabe87e8d7bfccc6816",
+      "size": 2381,
+      "plain_sha256": "68bb146f89fe3c6ba23c688e51cdb7f5415294230966ff185afebe90d8b422ac",
+      "plain_size": 2344
+    },
+    "config/plasmovoice/server/languages/pl_pl.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/pl_pl.toml.enc",
+      "enc": true,
+      "sha256": "a0e4c9f8af989a5fc8f0b7367abb899482c772f4c3773cb4c7fcec561a2cd634",
+      "size": 2065,
+      "plain_sha256": "904c5cffcfa2a5f142e397154447b4b138b5c50516cd2858412c4f254177f733",
+      "plain_size": 2028
+    },
+    "config/plasmovoice/server/languages/pt_br.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/pt_br.toml.enc",
+      "enc": true,
+      "sha256": "15a8cb5a72c6d7fe3341c1d941a00c64ff23886b933f5b10ad02f8e7c6939b80",
+      "size": 2060,
+      "plain_sha256": "d7849d3e40e584131d615b67d2c3abaaf63ed0d77dc7646818fc4341cf83eefb",
+      "plain_size": 2023
+    },
+    "config/plasmovoice/server/languages/ru_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/ru_ru.toml.enc",
+      "enc": true,
+      "sha256": "3cba103e3ec0c5f05866770428f6cc6b99b69222645d8492dec225cc6289b9a4",
+      "size": 2556,
+      "plain_sha256": "433c2ac6f698e6e5ab8011db239c242b23edc00248c1f0bd5ea74e5fd34d5506",
+      "plain_size": 2519
+    },
+    "config/plasmovoice/server/languages/tr_tr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/tr_tr.toml.enc",
+      "enc": true,
+      "sha256": "36d7ee4ceb742bfd1987c3b6c5e9f26ca136e53d2e3fd0b9809a8259c5f9e65e",
+      "size": 2169,
+      "plain_sha256": "af5270d8f15e5c864bf5865499f69bfdfd1fba7403395b8cd5e53c0e98feb805",
+      "plain_size": 2132
+    },
+    "config/plasmovoice/server/languages/tt_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/tt_ru.toml.enc",
+      "enc": true,
+      "sha256": "c2b326ef9fce78220d06815b70a2024852d2fa8eb89681b03482734ac42c52d7",
+      "size": 2938,
+      "plain_sha256": "c6f05167951ab06e56aa8d881782e7892cdd3f5eed5d9823dea5610cba4e7b76",
+      "plain_size": 2901
+    },
+    "config/plasmovoice/server/languages/uk_ua.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/uk_ua.toml.enc",
+      "enc": true,
+      "sha256": "0438e580b5d9cba55716374ceee3c5b0349defc536af46f2069b395d4107d145",
+      "size": 2755,
+      "plain_sha256": "532b19f1f11994022cd7a51cd655a24fdae99fa91c31b1cd5c80f1546abac55a",
+      "plain_size": 2718
+    },
+    "config/plasmovoice/server/languages/vi_vn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/vi_vn.toml.enc",
+      "enc": true,
+      "sha256": "efcd76f0649089dba2275f7aca4dc72c2cf5379107f8be3c5144a2cc625079d1",
+      "size": 2283,
+      "plain_sha256": "61be1df040e997228d9ab523089ec836df18b4c7d73ddfb5d2ea8c46dba74efa",
+      "plain_size": 2246
+    },
+    "config/plasmovoice/server/languages/zh_cn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/zh_cn.toml.enc",
+      "enc": true,
+      "sha256": "ab7cbaa4f07e4654d160f48b7d5c170c7395e0b00cc220fa29849bb201da879d",
+      "size": 1907,
+      "plain_sha256": "53f32195245cbe77c14678e8f7110922dd19bcbb90cfd5c5e9742696da1a6220",
+      "plain_size": 1870
+    },
+    "config/plasmovoice/server/languages/zh_tw.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/plasmovoice/server/languages/zh_tw.toml.enc",
+      "enc": true,
+      "sha256": "4e70b7e8fa8bc67a3255705fe3765f68c56b593c4ba00b3fb347b03d33b32e2c",
+      "size": 1904,
+      "plain_sha256": "3bd383cba134a2baffe26afcf93866259e2b4b1338887cf77495efbcbf0d78d5",
+      "plain_size": 1867
+    },
+    "config/pv-addon-broadcast/config.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/config.toml.enc",
+      "enc": true,
+      "sha256": "ce244993527b9631ce23778b2942926828445bf2c919602d50e841f575de3712",
+      "size": 294,
+      "plain_sha256": "cb48c5436af5576fba55bd00eb32ec1a2fdfe90695bce7a93b171e43286bd8de",
+      "plain_size": 257
+    },
+    "config/pv-addon-broadcast/states.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/states.json.enc",
+      "enc": true,
+      "sha256": "d25c4b2024b8de78a01e543a1968b0e47ddbad56abfeea250213b25264166226",
+      "size": 39,
+      "plain_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "plain_size": 2
+    },
+    "config/pv-addon-broadcast/languages/en_us.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/en_us.toml.enc",
+      "enc": true,
+      "sha256": "a916a9fd61960cc85ca9397ceb6383665d5f554abe672a5784c1ae630b00f7b4",
+      "size": 568,
+      "plain_sha256": "c71444565af45eca1daadee9c0b7bf4430679fdae817f7fdc89781b10b0a66f2",
+      "plain_size": 531
+    },
+    "config/pv-addon-broadcast/languages/es_es.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/es_es.toml.enc",
+      "enc": true,
+      "sha256": "d43a16cba185369c9754091c5ad7c92587522a8bd48d0ab035bad7a076969150",
+      "size": 608,
+      "plain_sha256": "14aaf34834f92e1507832dbb83b3ec556a1ba38f14f4843901393fbb9b2d3528",
+      "plain_size": 571
+    },
+    "config/pv-addon-broadcast/languages/he_il.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/he_il.toml.enc",
+      "enc": true,
+      "sha256": "b7f6f97ae4e02966c1f2e6f6ef943b5a4f6f12aff30f36a78c376efc9f77c27b",
+      "size": 603,
+      "plain_sha256": "1db4a96c6f580aa3f3ce9849833e7c653c51dbb63baefca0bef56236c2875a12",
+      "plain_size": 566
+    },
+    "config/pv-addon-broadcast/languages/ko_kr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/ko_kr.toml.enc",
+      "enc": true,
+      "sha256": "492c93fbf56ea0c9e4bcaa249f7ce29f95fe19d4fa356c18493c9762fccf4b62",
+      "size": 575,
+      "plain_sha256": "02d9bd9b0fd9757a5ca5f8fd5478e753ca9300649f989f155d98d85a8dc78198",
+      "plain_size": 538
+    },
+    "config/pv-addon-broadcast/languages/pl_pl.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/pl_pl.toml.enc",
+      "enc": true,
+      "sha256": "7dc92abbf1ca29dff7973925d66ec8ef3153cfc47df51c501a32434966d4fa95",
+      "size": 621,
+      "plain_sha256": "e0a54b1450e3f71a31c011b73ef9fd4ab518c2e622b5fc9c7d2c728a542c5f80",
+      "plain_size": 584
+    },
+    "config/pv-addon-broadcast/languages/pt_br.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/pt_br.toml.enc",
+      "enc": true,
+      "sha256": "5c5520db9fac58036080c8d5d4e911bea7955c5eb27c871b1820515e834f48fe",
+      "size": 575,
+      "plain_sha256": "f46ec3d47b5bc69b686ab72bf6b83eaff21e7d9713f988e403acd5de243b940c",
+      "plain_size": 538
+    },
+    "config/pv-addon-broadcast/languages/ru_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/ru_ru.toml.enc",
+      "enc": true,
+      "sha256": "8015836932631257a3a9d580a0ee2e1d8dad5da26bc2eb79c8206374b4f66b71",
+      "size": 778,
+      "plain_sha256": "990f9eeee98a6aa65dd5fcecedd6afc1cdea45070d673d7064a865cbd09253c5",
+      "plain_size": 741
+    },
+    "config/pv-addon-broadcast/languages/tt_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/tt_ru.toml.enc",
+      "enc": true,
+      "sha256": "7ac9e1d6dd368f68217dc8ae2d1ca900f25b733236ee3e1b92de66ef9caa3577",
+      "size": 793,
+      "plain_sha256": "9c994fa7a3d1ccf8f067dd84efb0a41dfb66b03f8632457b86c38d365bfb8e0a",
+      "plain_size": 756
+    },
+    "config/pv-addon-broadcast/languages/vi_vn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/vi_vn.toml.enc",
+      "enc": true,
+      "sha256": "c31c8f909a7378cf2ee24f33edc75cf0b50c1cd4d576ff6b7edde4c68d8cff97",
+      "size": 646,
+      "plain_sha256": "9b4358b411c757797230a30e69396316eefc1634eda1fd113a576aeb9c2db793",
+      "plain_size": 609
+    },
+    "config/pv-addon-broadcast/languages/zh_cn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/zh_cn.toml.enc",
+      "enc": true,
+      "sha256": "9c9dddfd038e2516c356acda8be83944d5812b3544c164f3f9d0012b161b387f",
+      "size": 567,
+      "plain_sha256": "67e25144247626fd5c2f44656e3c6ea81d8bb2a3747d2ce6cef41178054dee1d",
+      "plain_size": 530
+    },
+    "config/pv-addon-broadcast/languages/zh_tw.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-broadcast/languages/zh_tw.toml.enc",
+      "enc": true,
+      "sha256": "6190dca1e2fc0c2dd49bad062f1f464164478683411811fb38205cb243d85486",
+      "size": 567,
+      "plain_sha256": "b09cd0f1b7e6a0fdc3337f11f7e54b19543f80b3cd0b6982ed8794cb0dbde250",
+      "plain_size": 530
+    },
+    "config/pv-addon-spectator/config.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/pv-addon-spectator/config.toml.enc",
+      "enc": true,
+      "sha256": "94888928c808120e21fea31c09beb8dc8460b4c33abbc3db02c8c0dc38f27419",
+      "size": 54,
+      "plain_sha256": "d5c5b6e3dd3fc88f6a99079d01610071d23612922921dcfc78ccba2e64aa3ba1",
+      "plain_size": 17
+    },
+    "config/watermedia/custom_vlc_path.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/watermedia/custom_vlc_path.txt.enc",
+      "enc": true,
+      "sha256": "b78f20739fbf7375f8111dcaaad916ac6f3c0860570a212b306dfbe0a90adf45",
+      "size": 37,
+      "plain_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "plain_size": 0
+    },
+    "config/worldedit/worldedit.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/worldedit/worldedit.properties.enc",
+      "enc": true,
+      "sha256": "d63b43e3c39afea8ef4211052392af78a4aba264255a165550c1f2e147972dd8",
+      "size": 2583,
+      "plain_sha256": "d2d414847b771206b371d9e54577075637ce332f1b1f8d7dcc907482e709358b",
+      "plain_size": 2546
+    },
+    "config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json.enc",
+      "enc": true,
+      "sha256": "fbcbdb3c1249298eb7e37382cb981c1dd2f6780e30dae9fdf24d2c39a1992586",
+      "size": 176,
+      "plain_sha256": "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f",
+      "plain_size": 139
+    },
+    "fancymenu_data/last_world.fmdata": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/fancymenu_data/last_world.fmdata.enc",
+      "enc": true,
+      "sha256": "28be6080843c0e567b0b8f19d0b2a156a3b8424ec1b09198c1d13505798ec484",
+      "size": 121,
+      "plain_sha256": "796b285411ca99e502244c45a5efdc1d0cb7877e61c76fd0f915bc625b92a93a",
+      "plain_size": 84
+    },
+    "fancymenu_data/buddy/buddy_leveling.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/fancymenu_data/buddy/buddy_leveling.json.enc",
+      "enc": true,
+      "sha256": "3d8cd705e32eb3cf1ef22ba36394018b1becc75b88bec322fdae2d233841f4b4",
+      "size": 1656,
+      "plain_sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+      "plain_size": 1619
+    },
+    "fancymenu_data/buddy/buddy_save.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgametest/fancymenu_data/buddy/buddy_save.json.enc",
+      "enc": true,
+      "sha256": "fd41251ead181edbcc91956ca08a3114754c780241433778be307489435390a1",
+      "size": 297,
+      "plain_sha256": "5166215a5baa1b0b6746ac0c585e323b69a7de7d6017a25c6226d679ad983566",
+      "plain_size": 260
+    },
+    "options.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgametest/options.txt",
+      "sha256": "f0934d84a55486b3186971f9dc01e18daf4482b154ce6eee51e5ba8890820e4c",
+      "size": 4480
+    }
+  }
+}
