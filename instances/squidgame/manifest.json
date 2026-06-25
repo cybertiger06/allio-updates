@@ -1,5 +1,5 @@
 {
-  "version": "2.0.5",
+  "version": "2.0.6",
   "instance_name": "Squid Games Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -74,10 +74,10 @@
     "mods/dollmod-3.0.11.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.11.jar.enc",
       "enc": true,
-      "sha256": "a320b58544bc1c60b871e249155f6ece95bdc814a33e1ea887470cc39680f8eb",
-      "size": 92713369,
-      "plain_sha256": "a4cb1e77cf9addeec32ac148b40a1ddf3e75307475fbf19a40c448c97fa2d950",
-      "plain_size": 92713332
+      "sha256": "5cbe7f9aec0df2a995bfc0f118722831c0bae1323cc3246a5df85d18451c3df1",
+      "size": 92791939,
+      "plain_sha256": "977a7867684b4d84cdd3d47f8401611c225b6aad2fadb9c859e3f03d6e470d20",
+      "plain_size": 92791902
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar.enc",
@@ -258,9 +258,9 @@
     "config/fabric/indigo-renderer.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/config/fabric/indigo-renderer.properties.enc",
       "enc": true,
-      "sha256": "6f7f5edefeabede105f2eaaf3015321be59e84a108c4cd623a5809cc43bd08d2",
+      "sha256": "47183ca694ee1f75617ea05ae83e858bf318fb8ede6e3fb9af59467f9a52029d",
       "size": 328,
-      "plain_sha256": "947e805a26364c22bd57c293f325f2adf7760b3a37c018bb444b6fc33a390897",
+      "plain_sha256": "631af34c15f78795a9a0692eeefc6591b13decd2a80c9d0db76993a0e9387877",
       "plain_size": 291
     },
     "config/fancymenu/assets/alliologo.png": {
@@ -570,10 +570,10 @@
     "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/pause_screen_hardocrebetrat.txt.enc",
       "enc": true,
-      "sha256": "7e2baeb27a2a5f277dd77c96200c50d4780cba47d8d1e9fa931d8456b161d783",
-      "size": 25172,
-      "plain_sha256": "9d7e5ab724ffacc26b793b3670bee09da67c633fcaa5029ed247b6c4cd34eea9",
-      "plain_size": 25135
+      "sha256": "488a2675cbf6826b475d97bd5e3c31c031ee26abb94ebfe44ad05e03cabbd817",
+      "size": 25175,
+      "plain_sha256": "7e4ebb1bc24c4897df8c62413edf1721558f520449a58450db7998c39ca5fc5a",
+      "plain_size": 25138
     },
     "config/fancymenu/customization/title_screen_layout.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/title_screen_layout.txt.enc",
@@ -802,9 +802,9 @@
     "config/plasmovoice/meta_cache.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/config/plasmovoice/meta_cache.json.enc",
       "enc": true,
-      "sha256": "075d3910624d909af15cbe3066a9f1e2ed9a369e0b479f27cdad034eb23f14fe",
+      "sha256": "f9d327eca45c0eb038a5659f9ed4bdf3c2187d9b2e0cc8ff3d1879566ab049f8",
       "size": 1346,
-      "plain_sha256": "06973c078dac2fac7668ff1c13599d8ed85940391b4e708d8791189a2fc1818c",
+      "plain_sha256": "9fae459ea7ba6df34fc83d434e3e3dac25c224ee69515cafa45c4b9e9335c03f",
       "plain_size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -3546,9 +3546,9 @@
     "fancymenu_data/buddy/buddy_save.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/fancymenu_data/buddy/buddy_save.json.enc",
       "enc": true,
-      "sha256": "5bf461e4d637d0c9ba91aef5df81a0caba544038d7837b8ff1596375a187ec51",
+      "sha256": "9cc01c2ed3805aa8ecf99b322806bf2bc91dd66ce1579abd371070ec7285d0d2",
       "size": 297,
-      "plain_sha256": "e7ecefe59b28c2d656b104360edc05354875a9d2d6606b590771371a28928a3b",
+      "plain_sha256": "238751c9a8027401944629c9f3e5cba6076fc968555b73c006ed9beeac6018b8",
       "plain_size": 260
     },
     "fancymenu_data/last_world.fmdata": {
