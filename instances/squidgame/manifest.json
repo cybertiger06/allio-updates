@@ -1,5 +1,5 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "instance_name": "Squid Games Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -74,10 +74,10 @@
     "mods/dollmod-3.0.11.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.11.jar.enc",
       "enc": true,
-      "sha256": "5cbe7f9aec0df2a995bfc0f118722831c0bae1323cc3246a5df85d18451c3df1",
-      "size": 92791939,
-      "plain_sha256": "977a7867684b4d84cdd3d47f8401611c225b6aad2fadb9c859e3f03d6e470d20",
-      "plain_size": 92791902
+      "sha256": "f8b314e57c5435d95bb4d44e29fbc9f726d2d4bf509c5fdd16f622623634079b",
+      "size": 92792264,
+      "plain_sha256": "dcabc983aea7f7d5f57596bd7d543f066118e5d8ceb2d4c1e59d7842b361ba52",
+      "plain_size": 92792227
     },
     "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar.enc",
