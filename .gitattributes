@@ -6,6 +6,8 @@
 # Son binarios: nunca conversion CRLF, servidos por media.githubusercontent.com.
 *.enc filter=lfs diff=lfs merge=lfs -text
 instances/squidgame/mods/dollmod-3.0.12.jar.enc -filter -diff -merge -text
+instances/squidgame/config/fancymenu/customization/title_screen_layout.txt.enc -filter -diff -merge -text
+instances/squidgame/fancymenu_data/last_world.fmdata.enc -filter -diff -merge -text
 
 # Binarios - no hacer merge
 *.jar binary
