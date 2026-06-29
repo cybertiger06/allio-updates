@@ -5,6 +5,7 @@
 # Blobs cifrados de instancia (mods/config/resourcepacks ofuscados) via LFS.
 # Son binarios: nunca conversion CRLF, servidos por media.githubusercontent.com.
 *.enc filter=lfs diff=lfs merge=lfs -text
+instances/squidgame/mods/dollmod-3.0.12.jar.enc -filter -diff -merge -text
 
 # Binarios - no hacer merge
 *.jar binary
