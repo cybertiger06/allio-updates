@@ -1,5 +1,5 @@
 {
-  "version": "2.0.9",
+  "version": "2.0.10",
   "instance_name": "Squid Games Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -73,7 +73,7 @@
       "plain_size": 25491887
     },
     "mods/dollmod-3.0.12.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.12.jar.enc",
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/mods/dollmod-3.0.12.jar.enc",
       "enc": true,
       "sha256": "7368fe59cfd7924ab29b0b95b3bb5ac203793e65ee9825d07fe9877c44b0e465",
       "size": 92792621,
