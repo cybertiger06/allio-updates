@@ -1,5 +1,5 @@
 {
-  "version": "2.0.15",
+  "version": "2.0.16",
   "instance_name": "Squid Games Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -579,9 +579,9 @@
     "config/fancymenu/customization/title_screen_layout.txt": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/config/fancymenu/customization/title_screen_layout.txt.enc",
       "enc": true,
-      "sha256": "785f40f1fb3a4a3ab14fa8fe33b21f8e92e8c14910c8103544a8e1ad51497b49",
+      "sha256": "3f4e01b19085d0175c3d778d5879f059048ef14ace8920886088c9276c4c8787",
       "size": 31471,
-      "plain_sha256": "003115edec309d964afb2852bc942a975e67b1c3fd1a040bf8ab75fef9f17094",
+      "plain_sha256": "e42d04888c6829d009728cc9a5a6a0fa3d992a39cbe7551e42e8ed72755428f0",
       "plain_size": 31434
     },
     "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
@@ -3555,9 +3555,9 @@
     "fancymenu_data/last_world.fmdata": {
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/squidgame/fancymenu_data/last_world.fmdata.enc",
       "enc": true,
-      "sha256": "3cf68c85a6050f313b047a240be865ccf2e86d371d8e1c9a3c08168b03acb3f9",
+      "sha256": "5db4d6f14a5afcf4a1287fd3d7e89db3f1f32f5deb9655ba0e8ce59e4605d0b0",
       "size": 119,
-      "plain_sha256": "c1e20c83472ffe9647a76d6eeaa3a8004521ea35ebaf1d1742c6822c9a89e6aa",
+      "plain_sha256": "67b02ba70d2961c60b2c4c24300cb85cad9c80feb7406c555e73c081991df3f2",
       "plain_size": 82
     },
     "options.txt": {
