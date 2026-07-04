@@ -1,10 +1,608 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "instance_name": "Golden League Instace",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.18.4",
-  "encrypted": false,
+  "encrypted": true,
   "delete": [],
-  "files": {}
+  "files": {
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/alliovoicechat-fabric-1.21-2.1.8.jar.enc",
+      "enc": true,
+      "sha256": "f106efa418d7622ab5eb5cfb7df2f5d2d38d143edcfc0bdb5a7befa2b0e020bd",
+      "size": 12219044,
+      "plain_sha256": "f7bde81d23c9ce05f277d59d35bce1bc91f2d1b90832431a276d10298b1005e0",
+      "plain_size": 12219007
+    },
+    "mods/brino-evento-futboll-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/brino-evento-futboll-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "ebac2e12b278db1e893b9a3aff2401719afa65c9e27bf8e0aba8a2619434dab6",
+      "size": 28177,
+      "plain_sha256": "cf48f0241dac6dd31b7c2be949d7d1c021c61304875a95ced36ff5a49f9b2919",
+      "plain_size": 28140
+    },
+    "mods/cinematica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/cinematica-fabric-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "d7bff0c49e7d93e8b821f3d3536f498625569eda7ef402a43a8154d5dd0e8158",
+      "size": 21889,
+      "plain_sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
+      "plain_size": 21852
+    },
+    "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "a2468a54b428365e7b57d7fb9f29adcb54bbfc48643fc6a096568cb21683309c",
+      "size": 235309,
+      "plain_sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
+      "plain_size": 235272
+    },
+    "mods/fabric-api-0.116.9+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/fabric-api-0.116.9%2B1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "a5b269e62944e960eaf69ce8d7b1e16571d1d8867a055c8b2f63e16a9d0c4c6c",
+      "size": 2425637,
+      "plain_sha256": "462d688976d93e61658d3045e660db20c2a7c2c912b22a6926db22c8c23321ef",
+      "plain_size": 2425600
+    },
+    "mods/fabric-language-kotlin-1.13.11+kotlin.2.3.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/fabric-language-kotlin-1.13.11%2Bkotlin.2.3.21.jar.enc",
+      "enc": true,
+      "sha256": "ea0257ba0bdc2b9d67a51c497654f37906f741d1fff7d2bcb86079b74462855f",
+      "size": 7813481,
+      "plain_sha256": "c35713ee1da70fde6bf0e9ed26f8e2baf0814e60eb993cd12acb940e57f4fd2f",
+      "plain_size": 7813444
+    },
+    "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "e37f667cf7dc0080738eeb7dd214435ce4c583694acd19f6f9c39c33bfa01de1",
+      "size": 3618669,
+      "plain_sha256": "f069dc8d0fc89f6b321f871eea3ddc333962b9bb225e967fcea35825ee1fe659",
+      "plain_size": 3618632
+    },
+    "mods/geckolib-fabric-1.21.1-4.9.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/geckolib-fabric-1.21.1-4.9.2.jar.enc",
+      "enc": true,
+      "sha256": "36c446a3e6a638740029ca864fedcb779ee89674d8b303703447a92b1468a594",
+      "size": 660453,
+      "plain_sha256": "eac4cf55e1cb99b22cb91ea87c774d2a670c1711a80f4aff50e6ad56b6c58e7e",
+      "plain_size": 660416
+    },
+    "mods/keybindfixplus-2.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/keybindfixplus-2.0.0.jar.enc",
+      "enc": true,
+      "sha256": "eabfa148f7d422139005222f2a681cf128f0da497904203ec9d9eefe6c551b9e",
+      "size": 23523,
+      "plain_sha256": "9ffa897b9ea5d439545bf84d7504fede3c2ed1bf44e2311a226854b24661b3e1",
+      "plain_size": 23486
+    },
+    "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+      "enc": true,
+      "sha256": "12b30ec4bc0070dd7716d47152339b04b274a91968cf49db693ab9bb526aaf6b",
+      "size": 786732,
+      "plain_sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "plain_size": 786695
+    },
+    "mods/melody_fabric_1.0.10_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/melody_fabric_1.0.10_MC_1.21.jar.enc",
+      "enc": true,
+      "sha256": "aec269e202192655617fb3698e734eb79f6f8e412d5794012819c0ec57b010cc",
+      "size": 188072,
+      "plain_sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "plain_size": 188035
+    },
+    "mods/musica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/musica-fabric-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "993a08612dd1dc576656e61534d2beeae6dc4e5c4de2067dc79f8d6471f9552d",
+      "size": 326413,
+      "plain_sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
+      "plain_size": 326376
+    },
+    "mods/NoFog-1.21-1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/NoFog-1.21-1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "e2d313074f45e4b21b9faa27aa916c5a8014dcbd84eee0d87c8454ba13946ef9",
+      "size": 5460,
+      "plain_sha256": "b11a9e771ff424d7439a910c1515611d1921042621bf52ad29ffc061a3731b4d",
+      "plain_size": 5423
+    },
+    "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/offlineskins-1.21.1-v1a-fabric.jar.enc",
+      "enc": true,
+      "sha256": "232e792d6065d7b8481c985023e088f3b2c6d1076e1b0f966af7477167da7219",
+      "size": 101165,
+      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
+      "plain_size": 101128
+    },
+    "mods/pv-addon-broadcast-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/pv-addon-broadcast-1.1.0.jar.enc",
+      "enc": true,
+      "sha256": "dd4e0a2d21e085b28cafd743ed5ac96b727cd476bfdddc80749497dd7c9b6a25",
+      "size": 58498,
+      "plain_sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
+      "plain_size": 58461
+    },
+    "mods/pv-addon-spectator-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/pv-addon-spectator-1.1.0.jar.enc",
+      "enc": true,
+      "sha256": "392bd44298c2b127220c0b579419cc81c768eb2d861926850635a282a9b96b0e",
+      "size": 13225,
+      "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
+      "plain_size": 13188
+    },
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "5f647f80bea7b67bb10c23ba0449188fdc5d60473c7b23114ceda3703ed33817",
+      "size": 1297798,
+      "plain_sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "plain_size": 1297761
+    },
+    "mods/veil-fabric-1.21.1-3.6.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/veil-fabric-1.21.1-3.6.2.jar.enc",
+      "enc": true,
+      "sha256": "b9471763c88d56a71314f0c13919db1dde9733180711cecb8512ece88f1080ce",
+      "size": 15211162,
+      "plain_sha256": "4c3f2bd13259e0ba7da82503025ae9f2dbb18f98c7b3784c3d9cf153851816c9",
+      "plain_size": 15211125
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/mods/worldedit-mod-7.3.8.jar.enc",
+      "enc": true,
+      "sha256": "b662b14b987a8269cf98085fd18f92d179b254c7fcb407372c26d9606829647a",
+      "size": 6222891,
+      "plain_sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "plain_size": 6222854
+    },
+    "config/drippyloadingscreen/options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/drippyloadingscreen/options.txt.enc",
+      "enc": true,
+      "sha256": "198cc6d8b0a0c921cad61162702d8de9ea0e0d73f5d23400a73d1879a48c86ef",
+      "size": 199,
+      "plain_sha256": "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5",
+      "plain_size": 162
+    },
+    "config/fabric/indigo-renderer.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fabric/indigo-renderer.properties.enc",
+      "enc": true,
+      "sha256": "1c73a84e8c720a250ae6ad6abbadd7dbbe9ac4762c489f81bb62d0a518dd1a05",
+      "size": 328,
+      "plain_sha256": "0bf39d1d17db85a6cf3852fc77da966a2fb045f0764afef9e6d88a3ee24c3d7a",
+      "plain_size": 291
+    },
+    "config/fancymenu/assets/alliologo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/alliologo.png.enc",
+      "enc": true,
+      "sha256": "e64384f87939eccfadad07514a1f79cab3807d4f47a8369a10e89a5437fd5724",
+      "size": 86512,
+      "plain_sha256": "e4f63b0a7a1d89cd842068495555806f7de38dc021751ee44f81ee46b69188ea",
+      "plain_size": 86475
+    },
+    "config/fancymenu/assets/alliologosolo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/alliologosolo.png.enc",
+      "enc": true,
+      "sha256": "1bd49600704213664b8c4ffa40d7d92466c2951c13c90e0d3fe000c1cf782e87",
+      "size": 40764,
+      "plain_sha256": "5eccfa5d44a92d9b7573d6cdd581199648e1be6c62c729fbc0f8b6161d177021",
+      "plain_size": 40727
+    },
+    "config/fancymenu/assets/brin.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/brin.png.enc",
+      "enc": true,
+      "sha256": "6cfdaf358fbcc2a96b22484bee91349e66d8152bc932f50686b911482a001c8e",
+      "size": 41000,
+      "plain_sha256": "d8661e9ef0cb34bfc9e5620455fd341e4fff4cdead6ec6d8829267432b163c33",
+      "plain_size": 40963
+    },
+    "config/fancymenu/assets/fondo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/fondo.png.enc",
+      "enc": true,
+      "sha256": "d1a7b91ae6134ba6de7ed88961a1a7500d1e3c0825da5bc6b6248f6d01f41432",
+      "size": 7849,
+      "plain_sha256": "84060964bc0957847c8b03f32a6f7d7c2e9eebd6232645f1b4690ecc3198551b",
+      "plain_size": 7812
+    },
+    "config/fancymenu/assets/fondogla.gif": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/fondogla.gif.enc",
+      "enc": true,
+      "sha256": "c2e6cb49e8c725142cacc4f53f9a94f453ebc51b5278acd7bb18e3553212e470",
+      "size": 31342156,
+      "plain_sha256": "d47e08be4a0e8a32a464323bc6fac9ac1ac4ad943f14d74f2e799afd2152bd4c",
+      "plain_size": 31342119
+    },
+    "config/fancymenu/assets/gl.icns": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/gl.icns.enc",
+      "enc": true,
+      "sha256": "2bafb95d501cc33b2f017be2e448147c4cd8690a90042e01bac250715752fda0",
+      "size": 139339,
+      "plain_sha256": "35e3b68c76112589b3f00ec249e891ae97707769787d8ba8f307570ba06dfe23",
+      "plain_size": 139302
+    },
+    "config/fancymenu/assets/gl.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/gl.png.enc",
+      "enc": true,
+      "sha256": "15f32d4d78ef6151f8ed27ed769e5b7f3b12a4bd3c7274d81a728fad4cba3ed7",
+      "size": 163105,
+      "plain_sha256": "dd6b844ba6f23672dd7277198bf9438e65001a4bf54bd168cae971add31464b7",
+      "plain_size": 163068
+    },
+    "config/fancymenu/assets/gl16.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/gl16.png.enc",
+      "enc": true,
+      "sha256": "1212b758b5a8c2ddd60e19571dc954862ea5cbdf8dd0f2aee3cd1e00694cbdd0",
+      "size": 1127,
+      "plain_sha256": "1b58a304d742dc35090602a85b55139465eee035ba175e3da9aaffec46ecb840",
+      "plain_size": 1090
+    },
+    "config/fancymenu/assets/gl32.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/assets/gl32.png.enc",
+      "enc": true,
+      "sha256": "f87c16ea194367cb4b7d36b64e8c1c499a3b837d4339224e5589d302a5d57672",
+      "size": 1951,
+      "plain_sha256": "799809e770e1e3d7bfda6b53e557521d011d6172d115c01ebd3639ae41fe10f0",
+      "plain_size": 1914
+    },
+    "config/fancymenu/custom_gui_screens.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/custom_gui_screens.txt.enc",
+      "enc": true,
+      "sha256": "08919b3984c6696144f19338b8c78e1e441337db3ff861b262f867d6e8178db6",
+      "size": 88,
+      "plain_sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "plain_size": 51
+    },
+    "config/fancymenu/customizablemenus.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/customizablemenus.txt.enc",
+      "enc": true,
+      "sha256": "9060be00b0567cfe459683977fc8372f542f5a0c6750e81f76173fe5d9cd37c3",
+      "size": 310,
+      "plain_sha256": "a57c2cf4d4aee103df3173a746bd9c16a7a5c7277d3dadccb4fa34cc942af564",
+      "plain_size": 273
+    },
+    "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/customization/drippy_loading_overlay_layout.txt.enc",
+      "enc": true,
+      "sha256": "807100ea5af257c9e24d7b45cd8c5c6fe7639546f70d972ad4d19c56fd3ce103",
+      "size": 6505,
+      "plain_sha256": "bb6b370dff15357754e03d96d0854c5fe7f828d61718c0d832e0e1bf4947d315",
+      "plain_size": 6468
+    },
+    "config/fancymenu/customization/language_select_screen_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/customization/language_select_screen_layout.txt.enc",
+      "enc": true,
+      "sha256": "e1d8ba2e284750ea3ebfac2044199ea9f29ae8d5b6a2430fe06784a2fa7239cb",
+      "size": 8859,
+      "plain_sha256": "b3b41fcfac533bbdfaac52f4e7324f5324aee77bff218e3cbb9cdb952cbc86d2",
+      "plain_size": 8822
+    },
+    "config/fancymenu/customization/options_screen_layout_1.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/customization/options_screen_layout_1.txt.enc",
+      "enc": true,
+      "sha256": "b5f21f7c5a80158ae34d4e453dc22876f0a82b00746c5467d85e62ab60881757",
+      "size": 30594,
+      "plain_sha256": "38c3d6a267d3a5e0031d2d2b4be487d6b3e287fee9f8bedf20a14d7a63d0ce7b",
+      "plain_size": 30557
+    },
+    "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/customization/pause_screen_hardocrebetrat.txt.enc",
+      "enc": true,
+      "sha256": "8c205629e4878b5e4f8d96251c060cb4c61a0fad71e78ecd8742fb16fc99ffc7",
+      "size": 25163,
+      "plain_sha256": "adcda0af826a1b8eb2d3d52dd889f669812acd9b527cbfe94dc655d2acdf90b3",
+      "plain_size": 25126
+    },
+    "config/fancymenu/customization/title_screen_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/customization/title_screen_layout.txt.enc",
+      "enc": true,
+      "sha256": "810be75454775e64a6e90cd24cfe637657d8ea3f831b5667fe3d9582597817d4",
+      "size": 31458,
+      "plain_sha256": "7f14135997e2c5765a9ee3c85227fdeddc893f12d6d4d50a6db717bb6cc7964e",
+      "plain_size": 31421
+    },
+    "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget.enc",
+      "enc": true,
+      "sha256": "d0109dc56eb6185e8eb527088b2b34225f4eab46d6f2203497caee6902c0544b",
+      "size": 234,
+      "plain_sha256": "64e9149d8f237526f7a839e76793897f12281dcb9174ff0545bbcff7c5586e02",
+      "plain_size": 197
+    },
+    "config/fancymenu/legacy_checklist.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/legacy_checklist.txt.enc",
+      "enc": true,
+      "sha256": "a77bc0b99f9f28ba0664704f8fa5ee13c0af8664d2a029e6e6b5a21c5921c3fd",
+      "size": 79,
+      "plain_sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "plain_size": 42
+    },
+    "config/fancymenu/normalized_scroll_screens.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/normalized_scroll_screens.json.enc",
+      "enc": true,
+      "sha256": "81e3f1040247b281bb6bd7c27574720877959277b5dc4e65d2c2b0c315390618",
+      "size": 64,
+      "plain_sha256": "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1",
+      "plain_size": 27
+    },
+    "config/fancymenu/options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/options.txt.enc",
+      "enc": true,
+      "sha256": "d480a97a81ad8a15494bbb7748af337b57d6b4cc8da986ccc004a12905c1988a",
+      "size": 2187,
+      "plain_sha256": "e46cf39f91e34f6cbb9833d550f373a7915b6adfc3501f550539347ad548d44d",
+      "plain_size": 2150
+    },
+    "config/fancymenu/ui_themes/dark.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/ui_themes/dark.json.enc",
+      "enc": true,
+      "sha256": "09b4566ed48e1c90c270620c808ca42e7495515ff486aa07b750fc7ec0c1b668",
+      "size": 4170,
+      "plain_sha256": "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+      "plain_size": 4133
+    },
+    "config/fancymenu/ui_themes/light.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/ui_themes/light.json.enc",
+      "enc": true,
+      "sha256": "ad57d31d97b13e9580dfc0175cad739536d09bed093cf6d31013a16252f05b6d",
+      "size": 4172,
+      "plain_sha256": "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "plain_size": 4135
+    },
+    "config/fancymenu/user_variables.db": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/user_variables.db.enc",
+      "enc": true,
+      "sha256": "66aecb273ca50dcf77a4348d465a430590dbbf1d697da9ccb8dc97005e6b01d3",
+      "size": 60,
+      "plain_sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "plain_size": 23
+    },
+    "config/fancymenu/video_element_controller_metas.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/fancymenu/video_element_controller_metas.json.enc",
+      "enc": true,
+      "sha256": "a5fc98c4ce4b52cf096142a16f507ac90d935fa5280d6087225bb776fe302b9e",
+      "size": 138,
+      "plain_sha256": "9fd0487f7ad569677ba9206040e2b4ba00fcc28608a5705ff4c4bddf47c833fa",
+      "plain_size": 101
+    },
+    "config/konkrete/locals/de_de.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/konkrete/locals/de_de.local.enc",
+      "enc": true,
+      "sha256": "149eb11ff82b6841b96f1b8dcd8423c5856c298e6d5f1711540c0cf3682d58db",
+      "size": 406,
+      "plain_sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "plain_size": 369
+    },
+    "config/konkrete/locals/en_us.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/konkrete/locals/en_us.local.enc",
+      "enc": true,
+      "sha256": "d2d3fc9d237e28bbfd484379126e4d60e9c156733390603fbcb687998de4ef38",
+      "size": 463,
+      "plain_sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "plain_size": 426
+    },
+    "config/konkrete/locals/pl_pl.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/konkrete/locals/pl_pl.local.enc",
+      "enc": true,
+      "sha256": "053d919a1c3af2b2be3cedff599d0a464cee9c0693eb74cefbb0633512dd5a37",
+      "size": 350,
+      "plain_sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "plain_size": 313
+    },
+    "config/konkrete/locals/pt_br.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/konkrete/locals/pt_br.local.enc",
+      "enc": true,
+      "sha256": "9aef122771b48e8b577cd076b0328dbc1031184ff35628220c5535e24a179e21",
+      "size": 359,
+      "plain_sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "plain_size": 322
+    },
+    "config/offlineskins.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/offlineskins.json.enc",
+      "enc": true,
+      "sha256": "6ae204e4d7ff13049dbc86b4b91d9034dfb2cd94c3790c1a7bae5fb3302f2aca",
+      "size": 339,
+      "plain_sha256": "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1",
+      "plain_size": 302
+    },
+    "config/plasmovoice/.crowdin/de_de.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/de_de.json.enc",
+      "enc": true,
+      "sha256": "b226e07742ee02d444aef0934ca8158a7bcbc6bc4f6594b0d4d58a048541a09e",
+      "size": 8547,
+      "plain_sha256": "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d",
+      "plain_size": 8510
+    },
+    "config/plasmovoice/.crowdin/es_es.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/es_es.json.enc",
+      "enc": true,
+      "sha256": "c62cc06b6a7dbd06a7e72e979e2f642ee29c6e06930485af4960a13b346e4612",
+      "size": 9152,
+      "plain_sha256": "bcd62f8b59b77ed388231cbd6cd479f58aa82309788ba2a26410cb21e514adfa",
+      "plain_size": 9115
+    },
+    "config/plasmovoice/.crowdin/fr_fr.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/fr_fr.json.enc",
+      "enc": true,
+      "sha256": "56d3f79bf91790a8727e9faaf5c668e9343f1e69c1a294ab23e440c4770d18fd",
+      "size": 9191,
+      "plain_sha256": "6c2e91b1a964e5dd4511702fd554ac8094c4f862ab4679b7dbd54af18c128db0",
+      "plain_size": 9154
+    },
+    "config/plasmovoice/.crowdin/he_il.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/he_il.json.enc",
+      "enc": true,
+      "sha256": "3b9d1aa488ff1ea34e25af832b51bbf473b0aab30199d0246875f7806611f8d2",
+      "size": 9327,
+      "plain_sha256": "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29",
+      "plain_size": 9290
+    },
+    "config/plasmovoice/.crowdin/ja_jp.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/ja_jp.json.enc",
+      "enc": true,
+      "sha256": "7d038caca900c0908bbbd2d63509c0b2070dfb1c0721109021ce1a07ae42c2af",
+      "size": 9504,
+      "plain_sha256": "0db355eb21a7795e9e57bb94ae925a28efdbdec49b0704476dcf9c9dc2ed5566",
+      "plain_size": 9467
+    },
+    "config/plasmovoice/.crowdin/ko_kr.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/ko_kr.json.enc",
+      "enc": true,
+      "sha256": "e9b7caf4fcdc28380a08b75b802e1bc2602a93fedef336403c061e9e3a1cf068",
+      "size": 9245,
+      "plain_sha256": "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346",
+      "plain_size": 9208
+    },
+    "config/plasmovoice/.crowdin/pl_pl.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/pl_pl.json.enc",
+      "enc": true,
+      "sha256": "f2d376408a3556b27fd78f8ae863d23e99cfd191271dd75cb1a52e1c70a60b8e",
+      "size": 8927,
+      "plain_sha256": "62a43c9f3d46b1e1630b1988ee07413139da25a57dc49265b8cc9450cbae0cfb",
+      "plain_size": 8890
+    },
+    "config/plasmovoice/.crowdin/pt_br.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/pt_br.json.enc",
+      "enc": true,
+      "sha256": "ecaa5c7d096f0f772a365fdc04d1cb0c795bf5de167b416265f0a47350ebce77",
+      "size": 9083,
+      "plain_sha256": "b0e75ebd3798bdbe416ffb3ea3ac0bda766e3bcf92864821bab5a1f34e434a18",
+      "plain_size": 9046
+    },
+    "config/plasmovoice/.crowdin/ru_ru.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/ru_ru.json.enc",
+      "enc": true,
+      "sha256": "9bc40d92fd89ba619fa449bdf9c9b01d2d58b70d372b980f6f2887657618ede1",
+      "size": 11483,
+      "plain_sha256": "d968868df22341f8b07a1b35c2dbbeaee2c14a866037a00fdd6a0521b9d0e01b",
+      "plain_size": 11446
+    },
+    "config/plasmovoice/.crowdin/timestamp": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/timestamp.enc",
+      "enc": true,
+      "sha256": "5df4ced3d4a0535559bf57bb978a02897d7babc6f6a4383671dc3f8466a28bdd",
+      "size": 50,
+      "plain_sha256": "97bb298fce627d58bc6b9720560457e7e51e006e6001914a9daae63d885832bf",
+      "plain_size": 13
+    },
+    "config/plasmovoice/.crowdin/tr_tr.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/tr_tr.json.enc",
+      "enc": true,
+      "sha256": "2b21c2bd4ff6e4baaf5d95eec0abfe40e75c386295eb018b3524e04e553de6a7",
+      "size": 1582,
+      "plain_sha256": "737689d0d384a71a45e6e7a96977ab36cba9f417f3ca43863cdcf0215779754d",
+      "plain_size": 1545
+    },
+    "config/plasmovoice/.crowdin/tt_ru.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/tt_ru.json.enc",
+      "enc": true,
+      "sha256": "b018ab22c2981f61bf3ef4ea1ac573efbc201e1cb33787dce186076c515c8aa3",
+      "size": 11349,
+      "plain_sha256": "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157",
+      "plain_size": 11312
+    },
+    "config/plasmovoice/.crowdin/uk_ua.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/uk_ua.json.enc",
+      "enc": true,
+      "sha256": "2a331d946d1864a429af570c15a6fe303e943710022696f156cfcef0ff38d79f",
+      "size": 10865,
+      "plain_sha256": "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60",
+      "plain_size": 10828
+    },
+    "config/plasmovoice/.crowdin/vi_vn.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/vi_vn.json.enc",
+      "enc": true,
+      "sha256": "dd068bbf90f6389eb18b6618c66fe364baf430642102e3f8c5e209b55667ded7",
+      "size": 10139,
+      "plain_sha256": "9fc7b9669868da19f237629ff536155135e17e6c3a42f978bec98fb514aa0c25",
+      "plain_size": 10102
+    },
+    "config/plasmovoice/.crowdin/zh_cn.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/zh_cn.json.enc",
+      "enc": true,
+      "sha256": "52accdf8cbb63bf06b3b3a5e24ab4de7cbc7f403ee6964cdc854cac3cbd272bc",
+      "size": 8160,
+      "plain_sha256": "b92d52b8ffbc46de6da360f5a785bc920cfc3c3885de6f373257110fc3ebc94c",
+      "plain_size": 8123
+    },
+    "config/plasmovoice/.crowdin/zh_tw.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/.crowdin/zh_tw.json.enc",
+      "enc": true,
+      "sha256": "f9ef76505b8e1082aa163c2b60e40332b85b0b98ff4364f78da35145e2293a10",
+      "size": 8156,
+      "plain_sha256": "14870f7731fe7381871e17a10d3cb962a041f31ae613cf6872e9debd20775a8c",
+      "plain_size": 8119
+    },
+    "config/plasmovoice/client.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/client.toml.enc",
+      "enc": true,
+      "sha256": "80614a9c4798119384ad68b19ad791b2e78dd5e3171d7fd93406902fd87f7ef4",
+      "size": 1577,
+      "plain_sha256": "a3506c0069284c6104c89d352ebee418ab985321d58429287037f48f0856548f",
+      "plain_size": 1540
+    },
+    "config/plasmovoice/meta_cache.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/plasmovoice/meta_cache.json.enc",
+      "enc": true,
+      "sha256": "af1e1b09a66b89969da775a2a36ec6b483d6e10f1fd2e3727b00d263bbae5ef1",
+      "size": 692,
+      "plain_sha256": "78f6e5a278014d9bc492ba61724f4ea51abc84959af09aea5228ad4e7ccc1665",
+      "plain_size": 655
+    },
+    "config/sodium-fingerprint.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/sodium-fingerprint.json.enc",
+      "enc": true,
+      "sha256": "bdde46c5d348859d42cfff3f0339f2f970f853a8da182f8bc1eeafd026a19258",
+      "size": 464,
+      "plain_sha256": "0baa51d3b765a4234e8ffc6caba5cb824d6af2109dbb3abe3a64709fa0d2ce1d",
+      "plain_size": 427
+    },
+    "config/sodium-mixins.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/sodium-mixins.properties.enc",
+      "enc": true,
+      "sha256": "07c9d914e0de85ef3cca42345d85e05e096c9c078dbbcd7e0f9e03fce9e38e79",
+      "size": 295,
+      "plain_sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "plain_size": 258
+    },
+    "config/sodium-options.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/config/sodium-options.json.enc",
+      "enc": true,
+      "sha256": "47400314e335af334f8fe43b923c3b716be36a611d42bc132bbd8bd01bd9f337",
+      "size": 722,
+      "plain_sha256": "4e64ca54fd14c86297e5cf90646e422c2b87cd2476dec1e3629a379bce3d50e5",
+      "plain_size": 685
+    },
+    "fancymenu_data/buddy/buddy_leveling.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/fancymenu_data/buddy/buddy_leveling.json.enc",
+      "enc": true,
+      "sha256": "fec08f385d9763f78ff56c8b28902f796ad66415b670b69029159dd7193836e2",
+      "size": 1656,
+      "plain_sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+      "plain_size": 1619
+    },
+    "fancymenu_data/buddy/buddy_save.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/fancymenu_data/buddy/buddy_save.json.enc",
+      "enc": true,
+      "sha256": "78a8a0fabfa97c2c3ac1674fad2a7935593e7978d51bde049294492bea44d090",
+      "size": 297,
+      "plain_sha256": "6b82e438b7679bc6a47c003e9cba81aa66e0ad038047fc7964ea3dc150575e68",
+      "plain_size": 260
+    },
+    "fancymenu_data/last_world.fmdata": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/goldenleague/fancymenu_data/last_world.fmdata.enc",
+      "enc": true,
+      "sha256": "84c2634edaea979ecbbb9c72889fbf4122faa1405c48b8d87d52a70d0eefeb32",
+      "size": 120,
+      "plain_sha256": "bef595ae0be67fee908d0ddcc9e31be247fef6ce720e199ff8731827a7a98a11",
+      "plain_size": 83
+    },
+    "options.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/goldenleague/options.txt",
+      "sha256": "03c06242c5c9493641b581992754d65534a1327a0fbbcdb116752b24cacb81b9",
+      "size": 3783
+    }
+  }
 }
