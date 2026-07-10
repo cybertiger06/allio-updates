@@ -1,0 +1,2944 @@
+{
+  "version": "1.0.0",
+  "instance_name": "DerivaLand Instance",
+  "minecraft_version": "1.21.1",
+  "loader": "fabric",
+  "loader_version": "0.18.4",
+  "encrypted": true,
+  "delete": [],
+  "files": {
+    "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "f1744a1296c7f2719c12e647257c59ac664668e5e73975dd19b43635f9d6bdd3",
+      "size": 1095839,
+      "plain_sha256": "51e6f6d52cb2523199ad36e5bc04802230f86904c35ac3dbf36e59c86b2c30d1",
+      "plain_size": 1095802
+    },
+    "mods/aether-1.21.1-1.5.11-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/aether-1.21.1-1.5.11-fabric.jar.enc",
+      "enc": true,
+      "sha256": "a88572c4b8609385afbba5f707e0226241c7219ce90f611074fd9e91affb5498",
+      "size": 40931132,
+      "plain_sha256": "5909f195eb995f3760de5acff197e4c32029c5941d32320bc4a84c90bee79faf",
+      "plain_size": 40931095
+    },
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/alliovoicechat-fabric-1.21-2.1.8.jar.enc",
+      "enc": true,
+      "sha256": "1b53b116cd8314f1100b8eebe0b856259d35c520ce9f81b07e6873466bb7b2e9",
+      "size": 12219044,
+      "plain_sha256": "f7bde81d23c9ce05f277d59d35bce1bc91f2d1b90832431a276d10298b1005e0",
+      "plain_size": 12219007
+    },
+    "mods/architectury-13.0.8-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/architectury-13.0.8-fabric.jar.enc",
+      "enc": true,
+      "sha256": "a8c04fd3a349072a8924e1aff629e08060ac0212c3947590443e0294f501e510",
+      "size": 600952,
+      "plain_sha256": "10cbbb6f5f96a2f1853b0cc68428424cec8903409517b299ff02350756b6399d",
+      "plain_size": 600915
+    },
+    "mods/Chunky-Fabric-1.4.23.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/Chunky-Fabric-1.4.23.jar.enc",
+      "enc": true,
+      "sha256": "ceb36cb620b91a93d35fb51fa815ba7c0962ad18938d790361f3d0ba9b53b4b5",
+      "size": 343016,
+      "plain_sha256": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e",
+      "plain_size": 342979
+    },
+    "mods/cinematica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/cinematica-fabric-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "cdc4fad501bda74ff281572b2f1538c631a2c61792bc64ebbad86cd50efef6b5",
+      "size": 21889,
+      "plain_sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
+      "plain_size": 21852
+    },
+    "mods/cloth-config-15.0.140-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/cloth-config-15.0.140-fabric.jar.enc",
+      "enc": true,
+      "sha256": "9d928c6e0dc32a47e74aa620522c35cb41b29dd1b79d9d2048e61d98a917d34d",
+      "size": 1157203,
+      "plain_sha256": "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f",
+      "plain_size": 1157166
+    },
+    "mods/cumulus_menus-1.21.1-2.0.7-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/cumulus_menus-1.21.1-2.0.7-fabric.jar.enc",
+      "enc": true,
+      "sha256": "f1996f48de0acd23ce281f53bf4ce5fbabe08cca956b15ae424eb01e1078306f",
+      "size": 425908,
+      "plain_sha256": "6450fd6829eb8a13ed5e9f6b8245964f93e2653574d64b6aebab9e3d84a6e163",
+      "plain_size": 425871
+    },
+    "mods/disable-dimensions-0.8.0+mod.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/disable-dimensions-0.8.0%2Bmod.jar.enc",
+      "enc": true,
+      "sha256": "ac1905a1b28adc40eee866e61d6ce78ed75d3ebd6ea6c0d8926d27dfd4db5d5f",
+      "size": 242696,
+      "plain_sha256": "0fd68a1ae7097e96c9ae643fd232152124f3cd9248eb7e0024291d9798ee715e",
+      "plain_size": 242659
+    },
+    "mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/drippyloadingscreen_fabric_3.0.12_MC_1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "8eeddf2d2d8d51f4b290da933c54c99447b6bce519c3c402251987192c16bcf9",
+      "size": 235309,
+      "plain_sha256": "44784c6b8423ba5fcffd8ba81dff27479a39bc8eb6e48bb4ef04126a0d9d4086",
+      "plain_size": 235272
+    },
+    "mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar.enc",
+      "enc": true,
+      "sha256": "89b5df18165ca87dd2ac9bcf46418f659576a0002b14e6b54f8aab3e175c0878",
+      "size": 11864989,
+      "plain_sha256": "914190f6f899fca0f4b67595c6f7c53f8c736f6d1049a48fef8cfba46871d865",
+      "plain_size": 11864952
+    },
+    "mods/emi-1.1.24+1.21.1+fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/emi-1.1.24%2B1.21.1%2Bfabric.jar.enc",
+      "enc": true,
+      "sha256": "01bb40a19dec4b8eb3da9497be8097b40eb3c0267dc9d65e461b223dd02121cd",
+      "size": 1098260,
+      "plain_sha256": "56ecd418e988cba23dd653d498309fd7b886265708253d5ca7a8fb621dcc5db4",
+      "plain_size": 1098223
+    },
+    "mods/entityculling-fabric-1.9.4-mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/entityculling-fabric-1.9.4-mc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "9635b203a117d72a127d77444ce1f8e98074cbce6cc90c0337597c3ebc564997",
+      "size": 1559457,
+      "plain_sha256": "823ff81af0a07826b3f44320a0c51a816970053911e8edb4e68824245d87fceb",
+      "plain_size": 1559420
+    },
+    "mods/fabric-api-0.116.9+1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/fabric-api-0.116.9%2B1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "9292cf0650901dd29d817a0ac6e36c2cbf65421eb8a43e3c0fe68dca9b6f0b66",
+      "size": 2425637,
+      "plain_sha256": "462d688976d93e61658d3045e660db20c2a7c2c912b22a6926db22c8c23321ef",
+      "plain_size": 2425600
+    },
+    "mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/fancymenu_fabric_3.7.0_MC_1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "9851cf093e12e6616162460659ea195cb0107158c3d1b8023236548e206acc1b",
+      "size": 3618669,
+      "plain_sha256": "f069dc8d0fc89f6b321f871eea3ddc333962b9bb225e967fcea35825ee1fe659",
+      "plain_size": 3618632
+    },
+    "mods/geckolib-fabric-1.21.1-4.8.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/geckolib-fabric-1.21.1-4.8.2.jar.enc",
+      "enc": true,
+      "sha256": "1b3181c63c18ac0c7c5e7db17a5a712ba98e2fafcd527185be8567be68aaf1eb",
+      "size": 653036,
+      "plain_sha256": "a70c334830decbb9d7cb88478a49d19d6ce823ba3356ca62034a445fef3c2d04",
+      "plain_size": 652999
+    },
+    "mods/Incendium_1.21.x_v5.4.4.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/Incendium_1.21.x_v5.4.4.jar.enc",
+      "enc": true,
+      "sha256": "d49901486682d0d6e03c7c21107d0441170aa5f6a4cd9bce67c615c5bcfddee2",
+      "size": 4267565,
+      "plain_sha256": "285a4f69fe2391f2175f7fc9316d727a39c79bdd214923c59284d569bce656f4",
+      "plain_size": 4267528
+    },
+    "mods/iris-fabric-1.8.7+mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/iris-fabric-1.8.7%2Bmc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "ed08700e5eae7e4a698d337f8f507b0f08fd98a19de50f33f6b31ddcb631c2cf",
+      "size": 2690208,
+      "plain_sha256": "d7d8e29d62493611a8b1f151bb12bc109e37d2770910d11b18d84eedd61d3bc5",
+      "plain_size": 2690171
+    },
+    "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/konkrete_fabric_1.9.9_MC_1.21.jar.enc",
+      "enc": true,
+      "sha256": "e6a2dde016cde60340a3a87769baebcf3aba22bd1713b1f64ec4f194a4e76875",
+      "size": 786732,
+      "plain_sha256": "06e912f99d59bf81c0676f1db936150ad4443d5674f59b3c55604540ba620841",
+      "plain_size": 786695
+    },
+    "mods/krypton-0.2.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/krypton-0.2.8.jar.enc",
+      "enc": true,
+      "sha256": "61dec7a020ccb3971cdd458409668befbdd2f09a57859eb9dbe02b19136fa2e0",
+      "size": 161082,
+      "plain_sha256": "94f195819b24e5da64effdc9da15cdd84836cc75e8ff0fd098bab6bc2f49e3fe",
+      "plain_size": 161045
+    },
+    "mods/laislamodzainzere-0.18.4.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/laislamodzainzere-0.18.4.jar.enc",
+      "enc": true,
+      "sha256": "d17eba582925a23fd0d64145f918321db2ae5623b3a9710cb6773102c0c8d5bb",
+      "size": 5053466,
+      "plain_sha256": "44f8e879fcb6b67d40e2dab7e4b5bbdf9cb60c1589992bb5a835f292c1bb0dae",
+      "plain_size": 5053429
+    },
+    "mods/litematica-fabric-1.21-0.19.60.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/litematica-fabric-1.21-0.19.60.jar.enc",
+      "enc": true,
+      "sha256": "ba67421aa01b91e7f7e3926f1896c2327cfc2185357b95d998962390c9bbe32e",
+      "size": 1578491,
+      "plain_sha256": "0248b259fe9370fc848e1154fd8441014f99f44167c9261adcdef44ef75541e7",
+      "plain_size": 1578454
+    },
+    "mods/lithium-fabric-mc1.21.1-0.13.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/lithium-fabric-mc1.21.1-0.13.1.jar.enc",
+      "enc": true,
+      "sha256": "897ec4721b3048013bbde7a0b8749ab060e0f98c65b5fb6c252cf122c7e54418",
+      "size": 752841,
+      "plain_sha256": "1f4385a8ee2c04e46fdacdfa3f751d17f53d1f4c2332f88942308e6dc2b694f6",
+      "plain_size": 752804
+    },
+    "mods/lithostitched-1.7.12-fabric-21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/lithostitched-1.7.12-fabric-21.1.jar.enc",
+      "enc": true,
+      "sha256": "350eca9d3a9a3c9c2a70085ca6ebbd26048896afe399339be86e36fb7e6bc97f",
+      "size": 827258,
+      "plain_sha256": "5ccc3cd456ae19e1121c8e8a1c0b30664824f927fcb73b9fe61539dd04e7efde",
+      "plain_size": 827221
+    },
+    "mods/malilib-fabric-1.21-0.21.10.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/malilib-fabric-1.21-0.21.10.jar.enc",
+      "enc": true,
+      "sha256": "201d148effe66b9b7b5f5d81930ab50559a3623693ad230fc1531686a4da8013",
+      "size": 1411237,
+      "plain_sha256": "fed24701279ed7d55ea9e1bce9d4528e3f679ef9883c1ab7fb7a8c6a3fcd2915",
+      "plain_size": 1411200
+    },
+    "mods/melody_fabric_1.0.10_MC_1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/melody_fabric_1.0.10_MC_1.21.jar.enc",
+      "enc": true,
+      "sha256": "18f7cf91db84d249fe21225d3e9e5ad5ced8a6d3bb388c1b3fabd5bb9cbaa873",
+      "size": 188072,
+      "plain_sha256": "223ab859b9cc246d8d6e5cec5e734f97be3aac545de6cda7743750262428ed83",
+      "plain_size": 188035
+    },
+    "mods/modernfix-fabric-5.21.0+mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/modernfix-fabric-5.21.0%2Bmc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "14da9ee93f2855d295c8351a50f1dbba0a2f55133481d18a0b396ba789e280fa",
+      "size": 437571,
+      "plain_sha256": "06f613de68761f888f5013ab0a8cb572d8836616eb8ea2aa4ca04b8eab1e5de9",
+      "plain_size": 437534
+    },
+    "mods/modmenu-11.0.3.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/modmenu-11.0.3.jar.enc",
+      "enc": true,
+      "sha256": "d15e77d339e732e7113813f6f9633c6fbcfb29c7507572ede8596c69c975b200",
+      "size": 973103,
+      "plain_sha256": "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428",
+      "plain_size": 973066
+    },
+    "mods/musica-fabric-1.0.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/musica-fabric-1.0.0.jar.enc",
+      "enc": true,
+      "sha256": "6fa51ef1ebf32fb42a100c7a15cd31d12119fbaa7fdd691311c81ec081373bc9",
+      "size": 326413,
+      "plain_sha256": "a1cabd5c03fd5be3e1aafc3d387c05c713c39a89202eba84d354ab953375d601",
+      "plain_size": 326376
+    },
+    "mods/Nullscape_1.21.x_v1.2.14.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/Nullscape_1.21.x_v1.2.14.jar.enc",
+      "enc": true,
+      "sha256": "f91e81b18c50a8328ddb5bc49dfbd0311c1c679331b8d03106b7c62c3352e171",
+      "size": 355785,
+      "plain_sha256": "8749c6fdda659335e50116c18e012cdf8699b3789859c82559af2c6f425c93ae",
+      "plain_size": 355748
+    },
+    "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/offlineskins-1.21.1-v1a-fabric.jar.enc",
+      "enc": true,
+      "sha256": "8a6bffbcdf1a8beeeee3d8b8b2a9eba37439c28d59de1ecb5c1aa7506c34e93b",
+      "size": 101165,
+      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
+      "plain_size": 101128
+    },
+    "mods/owo-lib-0.12.15.4+1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/owo-lib-0.12.15.4%2B1.21.jar.enc",
+      "enc": true,
+      "sha256": "45677d1205b749b80f960be70d736017ee0cb80438c18c65d538dc3ad17df3cd",
+      "size": 1183596,
+      "plain_sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
+      "plain_size": 1183559
+    },
+    "mods/placeholder-api-2.4.2+1.21.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/placeholder-api-2.4.2%2B1.21.jar.enc",
+      "enc": true,
+      "sha256": "646fc5637534a42846f6b4b433e064a33337e2144c206c545c78c356a48dc61b",
+      "size": 232362,
+      "plain_sha256": "c0187ee299527ac7a3e0b1e83601dcdc0de631e286fe41e6be1a75958ea8e443",
+      "plain_size": 232325
+    },
+    "mods/pv-addon-broadcast-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/pv-addon-broadcast-1.1.0.jar.enc",
+      "enc": true,
+      "sha256": "c04e35cf217e543a38d201cf9b5392aa554a2d50c4fceca1c32fdc2ef00841b3",
+      "size": 58498,
+      "plain_sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
+      "plain_size": 58461
+    },
+    "mods/pv-addon-spectator-1.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/pv-addon-spectator-1.1.0.jar.enc",
+      "enc": true,
+      "sha256": "8a079bbd801f6a422676f2e9f884623f908f35a1947219396812c14e48279b6c",
+      "size": 13225,
+      "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
+      "plain_size": 13188
+    },
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "917ea62c849491de30cf9ce272bc58e19601be7b446052a56fdc4af6386637d7",
+      "size": 1297798,
+      "plain_sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "plain_size": 1297761
+    },
+    "mods/tectonic-3.0.0-fabric-1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/tectonic-3.0.0-fabric-1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "82e2b84f84baf46173ba419a4c493360aee7ad9c932fa9eb6ce741744e15b605",
+      "size": 287926,
+      "plain_sha256": "dda0e213b6ac87d6cecdbf27bf1f915f4a7ab6e8a1353ac013ef1ca5477a53eb",
+      "plain_size": 287889
+    },
+    "mods/Terralith_1.21.x_v2.6.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/Terralith_1.21.x_v2.6.2.jar.enc",
+      "enc": true,
+      "sha256": "74a5611f9096968e2e5b3f0742edf45eef1874100bb226e5c0276ab1c28d3409",
+      "size": 2813854,
+      "plain_sha256": "9cd4d402fde0f523e5b430ac8fd479ce05aea7a50fe0c8c26901f5f769272214",
+      "plain_size": 2813817
+    },
+    "mods/veil-fabric-1.21.1-3.6.2.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/veil-fabric-1.21.1-3.6.2.jar.enc",
+      "enc": true,
+      "sha256": "7a25f33936f6f7b76ab8ac6377657ef520baea3e6a29c41736d2c5299e50d66f",
+      "size": 15211162,
+      "plain_sha256": "4c3f2bd13259e0ba7da82503025ae9f2dbb18f98c7b3784c3d9cf153851816c9",
+      "plain_size": 15211125
+    },
+    "mods/worldedit-mod-7.3.8.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/worldedit-mod-7.3.8.jar.enc",
+      "enc": true,
+      "sha256": "d095fb81645fbc7b9aeb8ffe0be8199269ee6b7a74cea06e23e7826620c85e42",
+      "size": 6222891,
+      "plain_sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
+      "plain_size": 6222854
+    },
+    "mods/xaerominimap-fabric-1.21.1-26.1.0.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/xaerominimap-fabric-1.21.1-26.1.0.jar.enc",
+      "enc": true,
+      "sha256": "1c8b39613458ac3757c52fc1be9a2f5a5f377fd00398003518396619c7172a48",
+      "size": 2177969,
+      "plain_sha256": "0d3a3f53e33423fb2cd22736c731905adc06ea26b2a77300c620be9efe863e8a",
+      "plain_size": 2177932
+    },
+    "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar.enc",
+      "enc": true,
+      "sha256": "29eebb72426a319dd52d3d58605f358e99271d486cea3c8859ba2ce27d30ed52",
+      "size": 1406767,
+      "plain_sha256": "89bcd5191206687ceabe4e083647d6d7713c846f64556738c37028c830890003",
+      "plain_size": 1406730
+    },
+    "mods/YungsApi-1.21.1-Fabric-5.1.6.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/YungsApi-1.21.1-Fabric-5.1.6.jar.enc",
+      "enc": true,
+      "sha256": "99da10e47b6c317bbc53509d4ed7bc8f9b1e6b6cf2d4104a3664614430b7889f",
+      "size": 1257529,
+      "plain_sha256": "36fb903a1ebcf1511745be2da9e5144f1d2465bff7a5c17beffd347399acd1ba",
+      "plain_size": 1257492
+    },
+    "mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/YungsBetterDungeons-1.21.1-Fabric-5.1.4.jar.enc",
+      "enc": true,
+      "sha256": "9439d8101e518bc76aa1b7542f2249faf2334f1c79b493dc4a83140ee2245b5c",
+      "size": 909697,
+      "plain_sha256": "69fe7d93afa1803d7658df3f861213f8255f68d4e976d66ddce66fba08d120bc",
+      "plain_size": 909660
+    },
+    "mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/YungsBetterMineshafts-1.21.1-Fabric-5.1.1.jar.enc",
+      "enc": true,
+      "sha256": "7597cd8ccc1adb03860943a5cce696d6fb4a4d2ff4cd7d8171536b6cdfd32a02",
+      "size": 615964,
+      "plain_sha256": "27949f5bae0afeff457711a5b42482be301b76bc8b1136f1120f848489bb5fa6",
+      "plain_size": 615927
+    },
+    "mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/YungsBetterNetherFortresses-1.21.1-Fabric-3.1.5.jar.enc",
+      "enc": true,
+      "sha256": "eb0a0450b7b3fca90bb24ec03122d225a9e771538dea1c733ca8b8cbff93a5da",
+      "size": 736455,
+      "plain_sha256": "77a258e499559f1190c872277f8eecf202dd4ef0681674dce941003fa4367f78",
+      "plain_size": 736418
+    },
+    "mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/YungsBetterStrongholds-1.21.1-Fabric-5.1.3.jar.enc",
+      "enc": true,
+      "sha256": "de00a1aa744a3f4644b7d66046365395abaf388a36c8c1560c008fb930bb86c8",
+      "size": 587892,
+      "plain_sha256": "1cb412c83aa0e8273d29a1122c5799eb15a48acc8f0b770efe451c516647f5f8",
+      "plain_size": 587855
+    },
+    "config/accessories.json5": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/accessories.json5.enc",
+      "enc": true,
+      "sha256": "6876f68d1b164e0a27ad7e326b6d95904fa48b8c7b2efa647014affd01a1e317",
+      "size": 956,
+      "plain_sha256": "ff022e02369fe7d87db4eda00e38ea723e9867b200cb2f56bc25cec5db1d58c7",
+      "plain_size": 919
+    },
+    "config/aether/aether_customizations.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/aether/aether_customizations.txt.enc",
+      "enc": true,
+      "sha256": "f6f532c8b39f9f01f9659a7f7676f8e5d1f82f148f3cb7fbd6a3fdb6affbc95c",
+      "size": 121,
+      "plain_sha256": "113f7dfc56b7b2efdc782e45356c87c47174bb76dc34dcef24ca2ec32c7908e1",
+      "plain_size": 84
+    },
+    "config/aether/sun_altar_whitelist.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/aether/sun_altar_whitelist.json.enc",
+      "enc": true,
+      "sha256": "b3f6f62d86cbd7a8d3f93f3a8bf02fcc8642527eea1a0533e3601021d61f3706",
+      "size": 39,
+      "plain_sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+      "plain_size": 2
+    },
+    "config/aether-client.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/aether-client.toml.enc",
+      "enc": true,
+      "sha256": "094e645ce6fbe72a2a3fd64cbc9a0e679fcc57f81c5a7d38dce341189e53b045",
+      "size": 4295,
+      "plain_sha256": "a5cd133520a74852454b07ceed94fcc4cdb42f30d44e8c905a06edbc13f71128",
+      "plain_size": 4258
+    },
+    "config/aether-common.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/aether-common.toml.enc",
+      "enc": true,
+      "sha256": "0facdb2b5aa7583af7be296c6260ddda26e063b81a4dad9086a5155990b55b86",
+      "size": 1439,
+      "plain_sha256": "87cff44fd6dcadcbe15ed346faba65afe90a4a0b948e4758a805753ae2475340",
+      "plain_size": 1402
+    },
+    "config/aether-server.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/aether-server.toml.enc",
+      "enc": true,
+      "sha256": "909fee4d961a65a863371034352ed81972fea65352a4de3e572ab676a9e290f8",
+      "size": 3830,
+      "plain_sha256": "054dabc1c3d2765309fd589127800f61ef04f6368bc5a98b9e4a9efdd35c36ba",
+      "plain_size": 3793
+    },
+    "config/aether-startup.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/aether-startup.toml.enc",
+      "enc": true,
+      "sha256": "51e6b80f818e114f678c28aec9ae25cebc0b2f5d79e16660b1e56aa663a1ed52",
+      "size": 141,
+      "plain_sha256": "7540bee0eb77cd177eb6b550563709ca123b0b9ed77f9198d127340dcc528799",
+      "plain_size": 104
+    },
+    "config/betterdungeons-fabric-1_21.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterdungeons-fabric-1_21.toml.enc",
+      "enc": true,
+      "sha256": "573af2f85c8e515fba57f15e544da04536f9af01718dc365b0bf8bba95039e23",
+      "size": 455,
+      "plain_sha256": "c0809814af173f138d83495d36aabcccda93ba2f2a49ec5b7e1c87a201efee77",
+      "plain_size": 418
+    },
+    "config/betterfortresses/fabric-1_21/itemframes.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterfortresses/fabric-1_21/itemframes.json.enc",
+      "enc": true,
+      "sha256": "f1a1373c9afb9aa1bc6d2d66bd1bf649e83f0495269b7d490735e2316b3e96a1",
+      "size": 1198,
+      "plain_sha256": "9a60d8945debe207b4dd8f8c3d8775f7eb455cad5ac585dd2a0456a1bdba2dda",
+      "plain_size": 1161
+    },
+    "config/betterfortresses/fabric-1_21/README.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterfortresses/fabric-1_21/README.txt.enc",
+      "enc": true,
+      "sha256": "b436352385c0d66c79014af168ca5c4d7af094f45e000247f7fa51cc3a7a63e4",
+      "size": 1376,
+      "plain_sha256": "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864",
+      "plain_size": 1339
+    },
+    "config/betterfortresses/README.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterfortresses/README.txt.enc",
+      "enc": true,
+      "sha256": "ced56fc23823fc03416e6c8f1df723b8084a2531aeee254436689ea884f9ea95",
+      "size": 908,
+      "plain_sha256": "3efc54726c0702d0a4d4a91eb6436acdd3842598460e5781ffe365353ee36cc2",
+      "plain_size": 871
+    },
+    "config/betterfortresses-fabric-1_21.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterfortresses-fabric-1_21.toml.enc",
+      "enc": true,
+      "sha256": "80cefbb1ceeed35b82b9d5704d299cf8bfbc80ca11872f54a6ea2845f0251637",
+      "size": 79,
+      "plain_sha256": "c6f718e24389dd618b788ea1ef0c64d3689e9408fd9a482e67ecece0dc392ece",
+      "plain_size": 42
+    },
+    "config/bettermineshafts-fabric-1_21.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/bettermineshafts-fabric-1_21.toml.enc",
+      "enc": true,
+      "sha256": "5464947a14f275eb50b04b6fe7cf40b4e707f088f44a69cd662193b69e4b5c57",
+      "size": 632,
+      "plain_sha256": "d486f4672659b59f9a855d9ebce345d8a983c504d24b99613ce280db657c40f5",
+      "plain_size": 595
+    },
+    "config/betterstrongholds/fabric-1_21/armorstands.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds/fabric-1_21/armorstands.json.enc",
+      "enc": true,
+      "sha256": "09e2c1939428a9c125b451a52e61462112fe279694ab31f073abd14ce30dc83c",
+      "size": 1428,
+      "plain_sha256": "cfeb9c32c16f01482fdb644fabd36312e234f5093a29931ad2d4f9354d74f073",
+      "plain_size": 1391
+    },
+    "config/betterstrongholds/fabric-1_21/itemframes.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds/fabric-1_21/itemframes.json.enc",
+      "enc": true,
+      "sha256": "cbca1fd8802c378ecc3ba51918887fabd273b1bfc4e5cab793577d2505488467",
+      "size": 957,
+      "plain_sha256": "325e5c11b3b4f409e118492ec2c6a0ce8c8d36d3484789caf84f3faf7af8f228",
+      "plain_size": 920
+    },
+    "config/betterstrongholds/fabric-1_21/ores.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds/fabric-1_21/ores.json.enc",
+      "enc": true,
+      "sha256": "f6fcefb9f77fe171f3242e36d1a2208d79c385a6f4e9d2525803aff1a7872322",
+      "size": 383,
+      "plain_sha256": "e86d4830a4453ae08f30aee0421baba717774394f13bead8d6317e5d2d13b539",
+      "plain_size": 346
+    },
+    "config/betterstrongholds/fabric-1_21/rareblocks.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds/fabric-1_21/rareblocks.json.enc",
+      "enc": true,
+      "sha256": "c6efb24495d26ee506dede827dcc4ae31f1c5d5360824829ec151de00c7eef61",
+      "size": 275,
+      "plain_sha256": "0a5208b0a1f52577721ea6e169ae40edd2d78269a673b89641b3a2b4ea956bc8",
+      "plain_size": 238
+    },
+    "config/betterstrongholds/fabric-1_21/README.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds/fabric-1_21/README.txt.enc",
+      "enc": true,
+      "sha256": "1f504d46d820bd5b6f74eff6184e6002d615d23185d3f15667c042bb5164e74e",
+      "size": 2854,
+      "plain_sha256": "c857bda54ab01ca5db21cfe085dc75dcbb13d26054463cf301c74023783612fc",
+      "plain_size": 2817
+    },
+    "config/betterstrongholds/README.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds/README.txt.enc",
+      "enc": true,
+      "sha256": "8aa29fc8fdff086471c4fd0208e3780f3644d3b036890a47136842e45b2430d7",
+      "size": 747,
+      "plain_sha256": "80929d21617faef8983985d92096ad903602a6d82106b5e845562814872da6c7",
+      "plain_size": 710
+    },
+    "config/betterstrongholds-fabric-1_21.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/betterstrongholds-fabric-1_21.toml.enc",
+      "enc": true,
+      "sha256": "b5668cacf2b48933a7298031cb1d1a20bdfd123467955625f92c20d347c08295",
+      "size": 123,
+      "plain_sha256": "6884b0d763e06d77fe7a2e8e9acbc201014fc8135c7dcba47be30fab9a634a11",
+      "plain_size": 86
+    },
+    "config/chunky/config.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/chunky/config.json.enc",
+      "enc": true,
+      "sha256": "6136d8f5cc9e2fea49ab8d7037ec134ec0dd66dbbc5693f5d28832d19cb054e3",
+      "size": 183,
+      "plain_sha256": "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8",
+      "plain_size": 146
+    },
+    "config/cumulus_menus-client.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/cumulus_menus-client.toml.enc",
+      "enc": true,
+      "sha256": "a696f7596cb4e6f50bce399fb2181d818678f0bd730bcad11773f0d1911a6952",
+      "size": 786,
+      "plain_sha256": "e7d3bcb15179eb4e3e46da5483d61dd7a5222abfeaa9cecdc84da5dccc4331fa",
+      "plain_size": 749
+    },
+    "config/drippyloadingscreen/options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/drippyloadingscreen/options.txt.enc",
+      "enc": true,
+      "sha256": "fcdc34bf31d6f50c83e770c315e85c4347fc7e3bfba670b8a7e154559f54d798",
+      "size": 199,
+      "plain_sha256": "80ed128a0e856c1d2cf85164d65366dc0c3d14813009401f030ed29143be48e5",
+      "plain_size": 162
+    },
+    "config/emi.css": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/emi.css.enc",
+      "enc": true,
+      "sha256": "8b336d330d46d0359c31e6edfbd01a2172cb90a01c4f05aa495ea064e74161cc",
+      "size": 10220,
+      "plain_sha256": "1b149cd175b2bd85417ae3bf162c4f5169505129c4a811387c4c02ae90bec4cb",
+      "plain_size": 10183
+    },
+    "config/entityculling.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/entityculling.json.enc",
+      "enc": true,
+      "sha256": "f2caeec49102ef5a7e6bf834f44158459f3479c1f34c454ce827a14bc8134606",
+      "size": 1902,
+      "plain_sha256": "5110d83fa12df053d48eb3bcfded9d174e617910ce3e6c72f01dfc248c4e6abb",
+      "plain_size": 1865
+    },
+    "config/fabric/indigo-renderer.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
+      "enc": true,
+      "sha256": "946e9a9ef7bf611a705b2c21c3e0592dc12afdc4d5519be4be97d8f43a3e931e",
+      "size": 328,
+      "plain_sha256": "3ff86f16c1260e4d73fb0ef96fb3d9e41a5514ba49a83297ccf2eb99dbce114c",
+      "plain_size": 291
+    },
+    "config/fancymenu/assets/alliologo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/alliologo.png.enc",
+      "enc": true,
+      "sha256": "559da93c003a3de9dd88d19db81572dc94e94ac321c396c844aa07c0ff80e5e4",
+      "size": 86512,
+      "plain_sha256": "e4f63b0a7a1d89cd842068495555806f7de38dc021751ee44f81ee46b69188ea",
+      "plain_size": 86475
+    },
+    "config/fancymenu/assets/alliologosolo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/alliologosolo.png.enc",
+      "enc": true,
+      "sha256": "b75622218dc0201f72ba211553abe11ff7415edeb2a28c9a09a4a28a81c83c03",
+      "size": 40764,
+      "plain_sha256": "5eccfa5d44a92d9b7573d6cdd581199648e1be6c62c729fbc0f8b6161d177021",
+      "plain_size": 40727
+    },
+    "config/fancymenu/assets/dllogo.icns": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/dllogo.icns.enc",
+      "enc": true,
+      "sha256": "5b2dbee2d6e737bcb884e4de5a393f626e8150e7f26f389ed285cc24f885c402",
+      "size": 25367,
+      "plain_sha256": "2e6e0c99bbf622099f74901aee1a1fbd43dfc2a29e3c8a19f69a51f0bcbcfd9b",
+      "plain_size": 25330
+    },
+    "config/fancymenu/assets/dllogo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/dllogo.png.enc",
+      "enc": true,
+      "sha256": "42b5c73d7cd7173fc6ef28583212809ad7b07edb43057c251ed2a40c7ec9edf9",
+      "size": 9684,
+      "plain_sha256": "4d27ce0658f5c52b48aa108cb007ce360fdee200818c752a7c7e67ed7c974b60",
+      "plain_size": 9647
+    },
+    "config/fancymenu/assets/dllogo16.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/dllogo16.png.enc",
+      "enc": true,
+      "sha256": "8b6189f23ede95ade7b52f704634ec9a949d0c81572b9f7401dd70a9dd2a827f",
+      "size": 3099,
+      "plain_sha256": "7e7ffdf126c10f1bc3b54dc01906e8fa2785fa9a1c50087f26d0bcf75ee37b06",
+      "plain_size": 3062
+    },
+    "config/fancymenu/assets/dllogo32.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/dllogo32.png.enc",
+      "enc": true,
+      "sha256": "d100396b0c97a30985b1d04af28a731ceb2edb8cfc1d15d068f8bb409e7eed8d",
+      "size": 2686,
+      "plain_sha256": "b1940e408fbeb062ab33c3d35381168fc4990d53324ee16cbc39984e13701132",
+      "plain_size": 2649
+    },
+    "config/fancymenu/assets/fondo.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/fondo.png.enc",
+      "enc": true,
+      "sha256": "132962e991d5df19cf7474b6dd1334a6a9adf17024e39e92bb285d4c83350adf",
+      "size": 7849,
+      "plain_sha256": "84060964bc0957847c8b03f32a6f7d7c2e9eebd6232645f1b4690ecc3198551b",
+      "plain_size": 7812
+    },
+    "config/fancymenu/assets/fondodl.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/fondodl.png.enc",
+      "enc": true,
+      "sha256": "de2d358cf2ab01428450ad7a3bd1d7166fd96665a45495f1f9f94fb278a4b3e9",
+      "size": 724707,
+      "plain_sha256": "a1a898fdfb92e80fb5c34166b7134ba157965f8417b6c7d57f27e525a9aefad2",
+      "plain_size": 724670
+    },
+    "config/fancymenu/assets/logodl.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/logodl.png.enc",
+      "enc": true,
+      "sha256": "cc83b93d7f27bd3970229440759d22b0cde99d989aebf3758126593a5cb8c54e",
+      "size": 646913,
+      "plain_sha256": "c1b35d98a1638b5c0728c76cc78b4c79720b3c9207476f79f734f62c9d720bd2",
+      "plain_size": 646876
+    },
+    "config/fancymenu/assets/zaindl.png": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/assets/zaindl.png.enc",
+      "enc": true,
+      "sha256": "3f5d0012c829135ca26384dc0edc1958b083f65b67c0b80f8aa10e16adeb9b3f",
+      "size": 127927,
+      "plain_sha256": "c5312e07a76fdc4b0fb24808f5ff94ae5751e508005bb1c5f6a18938f3ae0222",
+      "plain_size": 127890
+    },
+    "config/fancymenu/custom_gui_screens.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/custom_gui_screens.txt.enc",
+      "enc": true,
+      "sha256": "fc3b98848df4b434a0bb7973f2810233f912f6460fbbb6bcf6409f291798bb11",
+      "size": 88,
+      "plain_sha256": "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "plain_size": 51
+    },
+    "config/fancymenu/customizablemenus.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/customizablemenus.txt.enc",
+      "enc": true,
+      "sha256": "357699bbcc05abf779c58f5243fca62d6a3ea4f9daa7b77a1f759c11a1f81d52",
+      "size": 310,
+      "plain_sha256": "2f8fa4a8d58fbf7eb5eda2e4bd6e636f84240051a8de73c67777f05a14641daf",
+      "plain_size": 273
+    },
+    "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/customization/drippy_loading_overlay_layout.txt.enc",
+      "enc": true,
+      "sha256": "d97cd270cc604d43bdcfe5c20021aa5276c38178b9bd81e9c83d19cdb06c6157",
+      "size": 6505,
+      "plain_sha256": "bb6b370dff15357754e03d96d0854c5fe7f828d61718c0d832e0e1bf4947d315",
+      "plain_size": 6468
+    },
+    "config/fancymenu/customization/language_select_screen_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/customization/language_select_screen_layout.txt.enc",
+      "enc": true,
+      "sha256": "55404f8adcbe128144d8b169fdd74ab3b50142ac44b93c7d872b460df37b4f56",
+      "size": 8859,
+      "plain_sha256": "b3b41fcfac533bbdfaac52f4e7324f5324aee77bff218e3cbb9cdb952cbc86d2",
+      "plain_size": 8822
+    },
+    "config/fancymenu/customization/options_screen_layout_1.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/customization/options_screen_layout_1.txt.enc",
+      "enc": true,
+      "sha256": "e956876a82d2c54259f9b97d914cc74d2778a132395c16cb8bffed1e1a18aa56",
+      "size": 30594,
+      "plain_sha256": "38c3d6a267d3a5e0031d2d2b4be487d6b3e287fee9f8bedf20a14d7a63d0ce7b",
+      "plain_size": 30557
+    },
+    "config/fancymenu/customization/pause_screen_hardocrebetrat.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/customization/pause_screen_hardocrebetrat.txt.enc",
+      "enc": true,
+      "sha256": "dd3c0f4e859b6d9ae412d7c0bc9d6ee65e609003bb695b8b34352231d322727b",
+      "size": 25142,
+      "plain_sha256": "eb67df3620a3e434e554401555a66c3105f8c70c1283a03b2d30f3eb3e29e364",
+      "plain_size": 25105
+    },
+    "config/fancymenu/customization/title_screen_layout.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/customization/title_screen_layout.txt.enc",
+      "enc": true,
+      "sha256": "740981dbc824d11a25a4ecb191f6437611ae6d2369653f1f0185c7177e9054ac",
+      "size": 39385,
+      "plain_sha256": "964d42d4571cd74dc877f6d917a70620033d632c2116e351517d7d070d3974cb",
+      "plain_size": 39348
+    },
+    "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget.enc",
+      "enc": true,
+      "sha256": "b06b5fc629650d9e2175c43a588cb6acfadf80466662e90bf5aa88576e0da679",
+      "size": 234,
+      "plain_sha256": "65be4e4a7a735f9d2200c05f4b9ba1d690b8bb509c94b890db57e53d35428e0c",
+      "plain_size": 197
+    },
+    "config/fancymenu/legacy_checklist.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/legacy_checklist.txt.enc",
+      "enc": true,
+      "sha256": "2fc9748621c15e463a692865e77ccf7c416cc38ebd5aea9e816b53923c477415",
+      "size": 79,
+      "plain_sha256": "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "plain_size": 42
+    },
+    "config/fancymenu/normalized_scroll_screens.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/normalized_scroll_screens.json.enc",
+      "enc": true,
+      "sha256": "88af17998ac058a117f0605a697b516d82259e0dbc6bd412506b6af3b08f52da",
+      "size": 64,
+      "plain_sha256": "9bdd808b0e3e8a7fa3f0f3b543da5905e53cf20b5bceff2a8eac542d5fec56e1",
+      "plain_size": 27
+    },
+    "config/fancymenu/options.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/options.txt.enc",
+      "enc": true,
+      "sha256": "b1d6a4208c533d7f08c7b68575a180d1e4d7ca359a3aa3e48c00ca42d22128f4",
+      "size": 2196,
+      "plain_sha256": "8a716d5b182132946583777eecf86afbe3de7d7bf736d593dc775650fa3b61de",
+      "plain_size": 2159
+    },
+    "config/fancymenu/ui_themes/dark.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/ui_themes/dark.json.enc",
+      "enc": true,
+      "sha256": "d9df9682d9cd76548ab5faa00c285f6ce6f9a707a2580b5b6ee1c21cba213117",
+      "size": 4170,
+      "plain_sha256": "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4",
+      "plain_size": 4133
+    },
+    "config/fancymenu/ui_themes/light.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/ui_themes/light.json.enc",
+      "enc": true,
+      "sha256": "6db24b5a3e292f98870170333331cf512c125e500e6d4e90c2b490ebcf1013de",
+      "size": 4172,
+      "plain_sha256": "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "plain_size": 4135
+    },
+    "config/fancymenu/user_variables.db": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/user_variables.db.enc",
+      "enc": true,
+      "sha256": "2cb176701c87e08d869cba828a9c18948d9b211ee2e12d25ee86ae35cdf6d7a8",
+      "size": 60,
+      "plain_sha256": "3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "plain_size": 23
+    },
+    "config/fancymenu/video_element_controller_metas.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/video_element_controller_metas.json.enc",
+      "enc": true,
+      "sha256": "496b812f042d454891c0aa5261f6a7b6a51e670950337721196d0e317a459853",
+      "size": 138,
+      "plain_sha256": "9fd0487f7ad569677ba9206040e2b4ba00fcc28608a5705ff4c4bddf47c833fa",
+      "plain_size": 101
+    },
+    "config/forgeconfigapiport.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/forgeconfigapiport.toml.enc",
+      "enc": true,
+      "sha256": "f1caf4af4ef904f7c3d705662a7d1424d62b414104f9ed4f3d52cca9a3a558fd",
+      "size": 560,
+      "plain_sha256": "40dbe5b348f89b8ded62bcdfe32807ffc3e78fa8e0f81607a739580019fe5450",
+      "plain_size": 523
+    },
+    "config/iris-excluded.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/iris-excluded.json.enc",
+      "enc": true,
+      "sha256": "123d5b8196d4dc3a75a98b31a61f33e18f19a1882e10cc9b50a1523f039ed2d0",
+      "size": 68,
+      "plain_sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "plain_size": 31
+    },
+    "config/iris.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/iris.properties.enc",
+      "enc": true,
+      "sha256": "62eb5550b2e15a46119f6e12011a208458a3060ca6060c5e7eb95b442a582842",
+      "size": 320,
+      "plain_sha256": "5892451065a4adc38f4b3f85d9cf96c7db396c0522be2fe763f81729d084763b",
+      "plain_size": 283
+    },
+    "config/konkrete/locals/de_de.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/konkrete/locals/de_de.local.enc",
+      "enc": true,
+      "sha256": "9fb38620dac7bfdf414af11c3093011f80609a42a04e257a5f41cad618776c7f",
+      "size": 406,
+      "plain_sha256": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+      "plain_size": 369
+    },
+    "config/konkrete/locals/en_us.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/konkrete/locals/en_us.local.enc",
+      "enc": true,
+      "sha256": "b586d721a4bcf28eb89c5e4ffab307aa375361e1922b546904cda44b7f537d9d",
+      "size": 463,
+      "plain_sha256": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+      "plain_size": 426
+    },
+    "config/konkrete/locals/pl_pl.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/konkrete/locals/pl_pl.local.enc",
+      "enc": true,
+      "sha256": "c8e4e4e5ea777452e6f632bff8e36d4f059d36e4b93cf7716124e36685354513",
+      "size": 350,
+      "plain_sha256": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+      "plain_size": 313
+    },
+    "config/konkrete/locals/pt_br.local": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/konkrete/locals/pt_br.local.enc",
+      "enc": true,
+      "sha256": "ce091f43daf0360fe4f972be035cc65659dd98d422a2bd9b94142710472409fb",
+      "size": 359,
+      "plain_sha256": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+      "plain_size": 322
+    },
+    "config/litematica/litematica_64.95.151.98_25572.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_64.95.151.98_25572.json.enc",
+      "enc": true,
+      "sha256": "2a40b3d5a62aad9dec82d547b3285dc236db08c4c9d457d75c8803618e020663",
+      "size": 132,
+      "plain_sha256": "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e",
+      "plain_size": 95
+    },
+    "config/litematica/litematica_64.95.151.98_25572_dim_minecraft_overworld.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_64.95.151.98_25572_dim_minecraft_overworld.json.enc",
+      "enc": true,
+      "sha256": "a36b4499b81ff0aba690545996e6c1732c756394dacc92e3140c2934a9179e3a",
+      "size": 791,
+      "plain_sha256": "47a9943d32f2622b395060feabcaa13f59b77c5a29975d514c1d0e6cceeeeb22",
+      "plain_size": 754
+    },
+    "config/litematica/litematica_DerivaLand1.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_DerivaLand1.json.enc",
+      "enc": true,
+      "sha256": "7ad32d9cb040164421f24db2655bfe7d53ca94f30e29f43aa0e3cedefc50a02c",
+      "size": 132,
+      "plain_sha256": "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a",
+      "plain_size": 95
+    },
+    "config/litematica/litematica_DerivaLand1_dim_minecraft_overworld.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_DerivaLand1_dim_minecraft_overworld.json.enc",
+      "enc": true,
+      "sha256": "878b423bea83122c9229723932a7ff5d9484b6ace378a062365ed068ab58b974",
+      "size": 801,
+      "plain_sha256": "ab64c298514e585669eb370f7cbf22bbc84c8cfc6a39bffe77c1b5817248b6ec",
+      "plain_size": 764
+    },
+    "config/litematica/litematica_ISLA.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_ISLA.json.enc",
+      "enc": true,
+      "sha256": "3c49039d49be3a00151c2af392ace16af591623a72b694af704f00c5cb740e24",
+      "size": 132,
+      "plain_sha256": "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e",
+      "plain_size": 95
+    },
+    "config/litematica/litematica_ISLA_dim_minecraft_overworld.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_ISLA_dim_minecraft_overworld.json.enc",
+      "enc": true,
+      "sha256": "4cd5236525d6a2c7b097fc95361b7970a8209c8662d31b8adf3105a2dfe2e1f5",
+      "size": 2014,
+      "plain_sha256": "3ceea357365d90fd407f1cbf05fdcf325bada55e51032e72eb3e4bb07b9609e3",
+      "plain_size": 1977
+    },
+    "config/litematica/litematica_New World.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_New%20World.json.enc",
+      "enc": true,
+      "sha256": "c5384e91c8733cf41fa6b1619f040a6c7131206c94a8ab61ae0c76f9feaac6e4",
+      "size": 132,
+      "plain_sha256": "c5084e511824ed9f2f38764243b970bd4c7d1047c5fa450b4f4e1c6a2cf9622e",
+      "plain_size": 95
+    },
+    "config/litematica/litematica_New World_dim_minecraft_overworld.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica/litematica_New%20World_dim_minecraft_overworld.json.enc",
+      "enc": true,
+      "sha256": "155e2d0b68492812b2b32062782ad82ca7cac5fbff5dbeef77213ec23056a6c9",
+      "size": 791,
+      "plain_sha256": "47a9943d32f2622b395060feabcaa13f59b77c5a29975d514c1d0e6cceeeeb22",
+      "plain_size": 754
+    },
+    "config/litematica.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/litematica.json.enc",
+      "enc": true,
+      "sha256": "464e151a571bbbd51090aeae99e5eb5dddf006b410176865c27dc0d87b04cead",
+      "size": 10728,
+      "plain_sha256": "256dc517dbf4bee15357b81f883965d76c08510b4fbb8e3f60b7d9d50bdaab1f",
+      "plain_size": 10691
+    },
+    "config/lithium.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/lithium.properties.enc",
+      "enc": true,
+      "sha256": "7f2647cfae7c4df5ef33dd7933aaa1a5b91f4add0eea0b98d6c898ed7431b997",
+      "size": 467,
+      "plain_sha256": "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e",
+      "plain_size": 430
+    },
+    "config/lithostitched.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/lithostitched.json.enc",
+      "enc": true,
+      "sha256": "8ca797ec50c76d86f777a56103b8e42f16472a9a18053ea4c5a9730afb6e78cb",
+      "size": 321,
+      "plain_sha256": "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df",
+      "plain_size": 284
+    },
+    "config/malilib.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/malilib.json.enc",
+      "enc": true,
+      "sha256": "e80fb906cf83dc2b093a701f66fa5a041e6ef211bbf6aca8d68275bf44637733",
+      "size": 712,
+      "plain_sha256": "d375c3c93c77e4b9b871477009c2ab6a3564470e839597ee2cf5a0a5218eb9e0",
+      "plain_size": 675
+    },
+    "config/modernfix-mixins.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/modernfix-mixins.properties.enc",
+      "enc": true,
+      "sha256": "294f11cdf0176a14fa13884ae1f3939bb36bba32f9184bdf517de9a151dcd73e",
+      "size": 3712,
+      "plain_sha256": "6ed649c54ef06321cce2cb4c8572c85c67a1aae9a21f7392dc9262c25f2fd9d4",
+      "plain_size": 3675
+    },
+    "config/modmenu.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/modmenu.json.enc",
+      "enc": true,
+      "sha256": "959fff326c5e90ea3257e98a299d7777ca6ffca7945fd2b804d4c1e84f5a2d87",
+      "size": 877,
+      "plain_sha256": "16d20c40cc6c114faff5493b561873fe160a65047720bc19fb3a3dd64aa67f3b",
+      "plain_size": 840
+    },
+    "config/offlineskins.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/offlineskins.json.enc",
+      "enc": true,
+      "sha256": "be5a8eb7ff044559ecfa83b4b92f548ffafcdb263442f55123758bb13096bf91",
+      "size": 339,
+      "plain_sha256": "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1",
+      "plain_size": 302
+    },
+    "config/plasmovoice/.crowdin/de_de.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/de_de.json.enc",
+      "enc": true,
+      "sha256": "b47cefa7caff4f64f268d36fc5fe95ceed4cd8659d859076ab2b84b2615f418c",
+      "size": 8547,
+      "plain_sha256": "1fe30625fb96f11e1513d848a04bc4fbad707f4ad0ba61849a388a9e7a33ca9d",
+      "plain_size": 8510
+    },
+    "config/plasmovoice/.crowdin/es_es.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/es_es.json.enc",
+      "enc": true,
+      "sha256": "2da04c0f7accc3d28f78ce8df1caf45f43842209af1eabbb41a2958ee8fc1c0b",
+      "size": 9152,
+      "plain_sha256": "bcd62f8b59b77ed388231cbd6cd479f58aa82309788ba2a26410cb21e514adfa",
+      "plain_size": 9115
+    },
+    "config/plasmovoice/.crowdin/fr_fr.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/fr_fr.json.enc",
+      "enc": true,
+      "sha256": "5ab43a9e41d15e765187d09e1b3e182f8ec67ef6baed8a45b9bedc2a2ccaee4c",
+      "size": 9191,
+      "plain_sha256": "6c2e91b1a964e5dd4511702fd554ac8094c4f862ab4679b7dbd54af18c128db0",
+      "plain_size": 9154
+    },
+    "config/plasmovoice/.crowdin/he_il.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/he_il.json.enc",
+      "enc": true,
+      "sha256": "dabc64416b7433df5cb5913f62ad62df1e3cfc2aced8eaeda24b9c35ed7a307d",
+      "size": 9327,
+      "plain_sha256": "81af917b226159198f9a76cb9caa4ffa5ba108684106d0a7d7a46a0e756f4a29",
+      "plain_size": 9290
+    },
+    "config/plasmovoice/.crowdin/ja_jp.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/ja_jp.json.enc",
+      "enc": true,
+      "sha256": "4729ff6d7f436a648c7d74ea15dc962fffa74bd3ac4941293bb24086ec01dca4",
+      "size": 9504,
+      "plain_sha256": "0db355eb21a7795e9e57bb94ae925a28efdbdec49b0704476dcf9c9dc2ed5566",
+      "plain_size": 9467
+    },
+    "config/plasmovoice/.crowdin/ko_kr.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/ko_kr.json.enc",
+      "enc": true,
+      "sha256": "129e7f353edd82032f5abe4426198c3bf841224d5543829b5d3c1373d7a6bfe0",
+      "size": 9245,
+      "plain_sha256": "8e0d47316caee0b490f6bedabb5532da30567094b6438deead1f3f0f85e66346",
+      "plain_size": 9208
+    },
+    "config/plasmovoice/.crowdin/pl_pl.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/pl_pl.json.enc",
+      "enc": true,
+      "sha256": "db5fe9339c64bd7651e54b251854a84f648e51b8e91e6748f27921220834ac72",
+      "size": 8927,
+      "plain_sha256": "62a43c9f3d46b1e1630b1988ee07413139da25a57dc49265b8cc9450cbae0cfb",
+      "plain_size": 8890
+    },
+    "config/plasmovoice/.crowdin/pt_br.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/pt_br.json.enc",
+      "enc": true,
+      "sha256": "63b275d967ff704933f554e3aa366e06281fc1a28ca74f3b96acbeb68b855a34",
+      "size": 9083,
+      "plain_sha256": "b0e75ebd3798bdbe416ffb3ea3ac0bda766e3bcf92864821bab5a1f34e434a18",
+      "plain_size": 9046
+    },
+    "config/plasmovoice/.crowdin/ru_ru.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/ru_ru.json.enc",
+      "enc": true,
+      "sha256": "8e67168f1792863e8e1cc22640bbd81d645bf09ba772a83d460fb01a75584376",
+      "size": 11483,
+      "plain_sha256": "d968868df22341f8b07a1b35c2dbbeaee2c14a866037a00fdd6a0521b9d0e01b",
+      "plain_size": 11446
+    },
+    "config/plasmovoice/.crowdin/timestamp": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/timestamp.enc",
+      "enc": true,
+      "sha256": "b1d442f02a7fa2c67dfed4896873887d9ec815177b88811f7f8cc90f274b5542",
+      "size": 50,
+      "plain_sha256": "5809e07d3b8a342b13eeb8031d3bb6194ee9572dc6c7e3f5135bdd3978af0295",
+      "plain_size": 13
+    },
+    "config/plasmovoice/.crowdin/tr_tr.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/tr_tr.json.enc",
+      "enc": true,
+      "sha256": "8b8a0b9694d4d29a5735e7541f4c4fe6b3b109c2e0aebda2be9dd9f330dccff4",
+      "size": 1582,
+      "plain_sha256": "737689d0d384a71a45e6e7a96977ab36cba9f417f3ca43863cdcf0215779754d",
+      "plain_size": 1545
+    },
+    "config/plasmovoice/.crowdin/tt_ru.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/tt_ru.json.enc",
+      "enc": true,
+      "sha256": "ab606932930880149d4556ef78cd74c2ee2c40d5bc17eb17dd0906191bd2aa26",
+      "size": 11349,
+      "plain_sha256": "4437e99ad9a5a3c95a7522a149c97d83ed5755228e1a2ce6478cc6c447351157",
+      "plain_size": 11312
+    },
+    "config/plasmovoice/.crowdin/uk_ua.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/uk_ua.json.enc",
+      "enc": true,
+      "sha256": "ca553aa556f7c9c69bcfb751185f2056fc6d9c703911759f5aabe4de1c0e3b5d",
+      "size": 10865,
+      "plain_sha256": "3348f1728d61f8a274f99a73d03a6dbd3b43fa47662cce41035a8cad6cb36b60",
+      "plain_size": 10828
+    },
+    "config/plasmovoice/.crowdin/vi_vn.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/vi_vn.json.enc",
+      "enc": true,
+      "sha256": "d7d24028b74785f0be05bf757ded05912aab520752913ffa9bfebaea61fb1a59",
+      "size": 10139,
+      "plain_sha256": "9fc7b9669868da19f237629ff536155135e17e6c3a42f978bec98fb514aa0c25",
+      "plain_size": 10102
+    },
+    "config/plasmovoice/.crowdin/zh_cn.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/zh_cn.json.enc",
+      "enc": true,
+      "sha256": "8671d8706766464f1bd336496f0f3991e2becf92126717139ca6d1bf125c3676",
+      "size": 8160,
+      "plain_sha256": "b92d52b8ffbc46de6da360f5a785bc920cfc3c3885de6f373257110fc3ebc94c",
+      "plain_size": 8123
+    },
+    "config/plasmovoice/.crowdin/zh_tw.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/.crowdin/zh_tw.json.enc",
+      "enc": true,
+      "sha256": "08e0f6d5de82475eabea8617170c4034d2985c19e2fd3b4b46b6e2f3d28a77d8",
+      "size": 8156,
+      "plain_sha256": "14870f7731fe7381871e17a10d3cb962a041f31ae613cf6872e9debd20775a8c",
+      "plain_size": 8119
+    },
+    "config/plasmovoice/client.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/client.toml.enc",
+      "enc": true,
+      "sha256": "a8f87d62777dfb6d864a042cccf1fb57914a2436333c8d5fbd991fcba2caaa86",
+      "size": 1577,
+      "plain_sha256": "a3506c0069284c6104c89d352ebee418ab985321d58429287037f48f0856548f",
+      "plain_size": 1540
+    },
+    "config/plasmovoice/meta_cache.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/meta_cache.json.enc",
+      "enc": true,
+      "sha256": "88b212f38b66682eb1729aadaff56357b4e9097a0fb132a0e0f0ef8ddcdfbe08",
+      "size": 692,
+      "plain_sha256": "c20d9f698fd6ad1d0bb85506e580bc08fccddb33cfcceb2a42cd0c1e4faed8e9",
+      "plain_size": 655
+    },
+    "config/plasmovoice/server/config.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/config.toml.enc",
+      "enc": true,
+      "sha256": "ca31d289022b58cf85c19065e3f1d24cc0362900cba3446f5ebf3c75a8744705",
+      "size": 3642,
+      "plain_sha256": "e12c0e2cfe23d4adad6f7abaada0f93b34e7378947209820605f7dfb3dde033b",
+      "plain_size": 3605
+    },
+    "config/plasmovoice/server/languages/.crowdin/de_de.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/de_de.toml.enc",
+      "enc": true,
+      "sha256": "bcfdebff715d07701bfd10b40aed864ae773abe98a371ac80254c4e05ba1bcbf",
+      "size": 2224,
+      "plain_sha256": "29fab82d4a3280d63e9df7a0f02473b0098f3b5312979ea61aaf8f4b187eaa19",
+      "plain_size": 2187
+    },
+    "config/plasmovoice/server/languages/.crowdin/es_es.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/es_es.toml.enc",
+      "enc": true,
+      "sha256": "f82d950369c4f3024b128b6b2ae7c06a05dac1a27c0c46612296e1f335089abe",
+      "size": 2160,
+      "plain_sha256": "f434de429907bd810d018ba0db4584eb63f3a1dfbd8fa0d374ca8342416a0017",
+      "plain_size": 2123
+    },
+    "config/plasmovoice/server/languages/.crowdin/fr_fr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/fr_fr.toml.enc",
+      "enc": true,
+      "sha256": "5e37a505c52b986766bc9c0d0a1f98bdcaa1d8f6e257a99fd52f05a2a7bb9d0a",
+      "size": 2136,
+      "plain_sha256": "59931182a23c8691011180014ab5cdf8d676a64d129b55175a8521e24d67ffb7",
+      "plain_size": 2099
+    },
+    "config/plasmovoice/server/languages/.crowdin/he_il.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/he_il.toml.enc",
+      "enc": true,
+      "sha256": "94ea818d03b98a339ccfa749692819f05705aae0184dd0bb6f201c07627525a3",
+      "size": 2265,
+      "plain_sha256": "fa6fded3bbb26f21f9e7ef521370c6d4ce368529cbe927eee741467e75e04817",
+      "plain_size": 2228
+    },
+    "config/plasmovoice/server/languages/.crowdin/ja_jp.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/ja_jp.toml.enc",
+      "enc": true,
+      "sha256": "41e8b8cc3697325d4cbe1bc3e3f4db6c1da68d042efc9f7e78e0ad6d3adf5b51",
+      "size": 2545,
+      "plain_sha256": "1f83c01943a55663177bdb991a7b1bcef23450f2996467f70f51ca4b8c72dd0b",
+      "plain_size": 2508
+    },
+    "config/plasmovoice/server/languages/.crowdin/ko_kr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/ko_kr.toml.enc",
+      "enc": true,
+      "sha256": "7e3dc63931bb7019fc7250de035375926c031f7e482ce86ed72d326b5dd975cc",
+      "size": 2393,
+      "plain_sha256": "df06537abcd1e218d48357beec47441cc43c3dcf2c318bfd22b921244d81fa0d",
+      "plain_size": 2356
+    },
+    "config/plasmovoice/server/languages/.crowdin/pl_pl.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/pl_pl.toml.enc",
+      "enc": true,
+      "sha256": "1ec92cf6ea179ba91f54712163d73aa5f7ab9a3aa2eaffc3549e9dd3496b71f0",
+      "size": 2077,
+      "plain_sha256": "06196ef2e05c14f360d561e08ac5ebf9ef89272161b6ce382c312bece82196af",
+      "plain_size": 2040
+    },
+    "config/plasmovoice/server/languages/.crowdin/pt_br.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/pt_br.toml.enc",
+      "enc": true,
+      "sha256": "feca16baf733cdf0be7d3112adc3d68dcdc83add202d8f66bd22bc2bd17f5380",
+      "size": 2072,
+      "plain_sha256": "a3931d10e96140e381350850744c702cc9d7c1a4aac264dd996e2a21a8144aee",
+      "plain_size": 2035
+    },
+    "config/plasmovoice/server/languages/.crowdin/ru_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/ru_ru.toml.enc",
+      "enc": true,
+      "sha256": "6dd56995e7a948d64a145cfc63f3379bbfc780afda9d4d256bce5d80e4c1a645",
+      "size": 2568,
+      "plain_sha256": "c0c45c94a604050a478cbb63a77ab1167122a5b52f53564da1165243cfacf643",
+      "plain_size": 2531
+    },
+    "config/plasmovoice/server/languages/.crowdin/timestamp": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/timestamp.enc",
+      "enc": true,
+      "sha256": "8e58ed92c1aa8e769335598b5abbac67be3b1168c153b9c7b0573d44efe15130",
+      "size": 50,
+      "plain_sha256": "f1ac0f53608ae60bad35c11dd300bb1004d9ec8a8d111e73fbb1852456db5b98",
+      "plain_size": 13
+    },
+    "config/plasmovoice/server/languages/.crowdin/tr_tr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/tr_tr.toml.enc",
+      "enc": true,
+      "sha256": "409d9fdb7658ee3039479816d12c62bacf9456edde7bcd464019b216292fe887",
+      "size": 2162,
+      "plain_sha256": "15ff4d54e5e592ca5d4ea70af061bfb8f820dabc878eb583b21367c441a78807",
+      "plain_size": 2125
+    },
+    "config/plasmovoice/server/languages/.crowdin/tt_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/tt_ru.toml.enc",
+      "enc": true,
+      "sha256": "1187d74b808666a677f9f74e865f0d360d5a5cb03ddf4bb7a86f2b4e05f77e6b",
+      "size": 2950,
+      "plain_sha256": "4381a87ef626fa46045c8322e8431d902eb8bb9ff4f4fbbbc546e65a17975844",
+      "plain_size": 2913
+    },
+    "config/plasmovoice/server/languages/.crowdin/uk_ua.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/uk_ua.toml.enc",
+      "enc": true,
+      "sha256": "7511a472945b97782a291f0f832f9c787a342f1cac145574204a06e34f3967f7",
+      "size": 2767,
+      "plain_sha256": "1f9cafc386ca07036f9dc4cb84175fe0d222111db44a74dd9043981dbe02a102",
+      "plain_size": 2730
+    },
+    "config/plasmovoice/server/languages/.crowdin/vi_vn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/vi_vn.toml.enc",
+      "enc": true,
+      "sha256": "32340baf0523456c95ecce7c12a6839747e4b558fa29e8fc5871c115925a126b",
+      "size": 2295,
+      "plain_sha256": "cc8fb926bba76906efd205dd5b2f4a582956998bc95b7e26a5d14f2af43cd1d9",
+      "plain_size": 2258
+    },
+    "config/plasmovoice/server/languages/.crowdin/zh_cn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/zh_cn.toml.enc",
+      "enc": true,
+      "sha256": "69dac56acf08ea683070e141d857afc5c392093bcb61cd99420c4c1108bbf022",
+      "size": 1919,
+      "plain_sha256": "503c383b6921681dbc7c2896cea946ded969d4d62ab2f439bd7ffb33f1d24310",
+      "plain_size": 1882
+    },
+    "config/plasmovoice/server/languages/.crowdin/zh_tw.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/.crowdin/zh_tw.toml.enc",
+      "enc": true,
+      "sha256": "2c4d7b38423f6ce433b5ac50d99993fe7904ef221f29895db0e9bc66b0b5107b",
+      "size": 1916,
+      "plain_sha256": "cb5ad0855fe3bf0a298de8d02e6e91d76c9c4e3a21ab206297c71b745eb1cfc7",
+      "plain_size": 1879
+    },
+    "config/plasmovoice/server/languages/de_de.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/de_de.toml.enc",
+      "enc": true,
+      "sha256": "bb072b96fbfb77dc8f91bd78c8b4be2c33191cdd94c97f988bab383db3de920c",
+      "size": 2212,
+      "plain_sha256": "9fc73031a7de8225670bf43c35b545be21c665bc9fb501b7005e4633b3ab0a88",
+      "plain_size": 2175
+    },
+    "config/plasmovoice/server/languages/en_us.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/en_us.toml.enc",
+      "enc": true,
+      "sha256": "d9b83376758654e84c27807c736a9777fe90d274f39155524ab43c0c6313d6fd",
+      "size": 1884,
+      "plain_sha256": "0d3e8512e863883e127b89891302c9ce3cfe67bc1dfc0d2a2b5deaa2cd6b7b98",
+      "plain_size": 1847
+    },
+    "config/plasmovoice/server/languages/es_es.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/es_es.toml.enc",
+      "enc": true,
+      "sha256": "b4f27d01720421d6a479e32861f076ba74afb667380db8d455bb0ffdcb917ab8",
+      "size": 2148,
+      "plain_sha256": "2cfd2e058a09fbd0fc2d6bb7d5eda62f1f322b103be3d33a835e39dea463c1b3",
+      "plain_size": 2111
+    },
+    "config/plasmovoice/server/languages/fr_fr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/fr_fr.toml.enc",
+      "enc": true,
+      "sha256": "ab22f22f1e5e2b2fb5fada8948e4640e76f94b8222a1b0f99f84df3885bdb8fd",
+      "size": 2124,
+      "plain_sha256": "e8974fccbb16c616728967bf1e45eedfdfb849b12a6f1b91b398d1da3ffea988",
+      "plain_size": 2087
+    },
+    "config/plasmovoice/server/languages/he_il.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/he_il.toml.enc",
+      "enc": true,
+      "sha256": "025a0bb15aa83d6a3cebf2fe26fbd999d784f60fce84e812294ebdeef8ccfebb",
+      "size": 2253,
+      "plain_sha256": "c499b39e46b90cba9bd875b15f119d8948a6ec45782e6482f03ffae1bdbb5856",
+      "plain_size": 2216
+    },
+    "config/plasmovoice/server/languages/ja_jp.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/ja_jp.toml.enc",
+      "enc": true,
+      "sha256": "1413c4587919377b02f0f467b8c261e5a44ceaee274ceea8f9566e6f403a425d",
+      "size": 2533,
+      "plain_sha256": "664fb25e829713ca1e18c53ebcb8a4f88daf991c3fc8037e433463c1b9005513",
+      "plain_size": 2496
+    },
+    "config/plasmovoice/server/languages/ko_kr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/ko_kr.toml.enc",
+      "enc": true,
+      "sha256": "f0e60b4e39b137804046b0a4f200f60da47ad114c64272e41d1ec950675bd3ac",
+      "size": 2381,
+      "plain_sha256": "68bb146f89fe3c6ba23c688e51cdb7f5415294230966ff185afebe90d8b422ac",
+      "plain_size": 2344
+    },
+    "config/plasmovoice/server/languages/pl_pl.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/pl_pl.toml.enc",
+      "enc": true,
+      "sha256": "ca5bed91ba775b42b1dbf40c581ac8dcb2910c0140fc67b67bef20e061f13cac",
+      "size": 2065,
+      "plain_sha256": "904c5cffcfa2a5f142e397154447b4b138b5c50516cd2858412c4f254177f733",
+      "plain_size": 2028
+    },
+    "config/plasmovoice/server/languages/pt_br.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/pt_br.toml.enc",
+      "enc": true,
+      "sha256": "df74bae9b6fbb34c6d7bbfc779c2eafcda0131a3d31075d779c6f76c46dfc7ee",
+      "size": 2060,
+      "plain_sha256": "d7849d3e40e584131d615b67d2c3abaaf63ed0d77dc7646818fc4341cf83eefb",
+      "plain_size": 2023
+    },
+    "config/plasmovoice/server/languages/ru_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/ru_ru.toml.enc",
+      "enc": true,
+      "sha256": "fc692020683a08fed4669a8f88138d684556715ff2f6abd70842a558efff2e9e",
+      "size": 2556,
+      "plain_sha256": "433c2ac6f698e6e5ab8011db239c242b23edc00248c1f0bd5ea74e5fd34d5506",
+      "plain_size": 2519
+    },
+    "config/plasmovoice/server/languages/tr_tr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/tr_tr.toml.enc",
+      "enc": true,
+      "sha256": "c206de79a8c8f9ec3d57e99d9df5130bcb58f6537dcbff7356a56d1e4c219d70",
+      "size": 2150,
+      "plain_sha256": "86b4cce6dcb6b150dbce6311f3337e51a743d87a6f7edb2f0d88e1490e982446",
+      "plain_size": 2113
+    },
+    "config/plasmovoice/server/languages/tt_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/tt_ru.toml.enc",
+      "enc": true,
+      "sha256": "067fbb5975128c4dc2d746fa7a011d950996ed18097364a89bcfb1a9cd4d913f",
+      "size": 2938,
+      "plain_sha256": "c6f05167951ab06e56aa8d881782e7892cdd3f5eed5d9823dea5610cba4e7b76",
+      "plain_size": 2901
+    },
+    "config/plasmovoice/server/languages/uk_ua.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/uk_ua.toml.enc",
+      "enc": true,
+      "sha256": "b6ef37790ffae3b53f852a151d14a320bdd67ea1e6e6478f84ef648df51c72f0",
+      "size": 2755,
+      "plain_sha256": "532b19f1f11994022cd7a51cd655a24fdae99fa91c31b1cd5c80f1546abac55a",
+      "plain_size": 2718
+    },
+    "config/plasmovoice/server/languages/vi_vn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/vi_vn.toml.enc",
+      "enc": true,
+      "sha256": "486f8d9c16404382aefd210690bfed80ef5bc6d5c169554a3ad56847c8a4a027",
+      "size": 2283,
+      "plain_sha256": "61be1df040e997228d9ab523089ec836df18b4c7d73ddfb5d2ea8c46dba74efa",
+      "plain_size": 2246
+    },
+    "config/plasmovoice/server/languages/zh_cn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/zh_cn.toml.enc",
+      "enc": true,
+      "sha256": "c71dfcffcaf0120f2c0a298ad0d865eadd9e9013b1a13e91e93417c6fc52f4fd",
+      "size": 1907,
+      "plain_sha256": "53f32195245cbe77c14678e8f7110922dd19bcbb90cfd5c5e9742696da1a6220",
+      "plain_size": 1870
+    },
+    "config/plasmovoice/server/languages/zh_tw.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/languages/zh_tw.toml.enc",
+      "enc": true,
+      "sha256": "897159c8f494685c649e6c0ea2c8a989da8df18761aa3b9c12b1d1cebca8068c",
+      "size": 1904,
+      "plain_sha256": "3bd383cba134a2baffe26afcf93866259e2b4b1338887cf77495efbcbf0d78d5",
+      "plain_size": 1867
+    },
+    "config/plasmovoice/server/voice_mutes.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/voice_mutes.json.enc",
+      "enc": true,
+      "sha256": "1e5b895d0c8dbeb4a6583cb42212407c70e746328c408592b14b375667c9379c",
+      "size": 39,
+      "plain_sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "plain_size": 2
+    },
+    "config/pv-addon-broadcast/config.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/config.toml.enc",
+      "enc": true,
+      "sha256": "41b152d21a0df3a5789874128d7bf6d929367d240aefc5a201b445f251d133f2",
+      "size": 294,
+      "plain_sha256": "cb48c5436af5576fba55bd00eb32ec1a2fdfe90695bce7a93b171e43286bd8de",
+      "plain_size": 257
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/es_es.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/es_es.toml.enc",
+      "enc": true,
+      "sha256": "6a91282f07aab8ca2683dfd92fd6074482e1bca88ce68ee9a3b7cc39a4309d73",
+      "size": 609,
+      "plain_sha256": "e5c5fdbb7304e6837e7c06d187afea6920437f83d24209fc332c6f860ee06c35",
+      "plain_size": 572
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/he_il.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/he_il.toml.enc",
+      "enc": true,
+      "sha256": "dc04c0d77ef48ca88720b49ecabd8b05a80d0a7fd31ad239ba903f22959fed3f",
+      "size": 604,
+      "plain_sha256": "3b93b6a7a888e6aa134cca27e8d337d6d09ddfa6aca22b919284bb4ef041dfe8",
+      "plain_size": 567
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/ko_kr.toml.enc",
+      "enc": true,
+      "sha256": "661f8efb2efb922971c341610b084e2a3ce88a5e02332fbd532b92d30ab9ed5c",
+      "size": 576,
+      "plain_sha256": "57f41c36623456cd25d3163963659d338ae08f28d18af3838869e063a4278a8e",
+      "plain_size": 539
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/pl_pl.toml.enc",
+      "enc": true,
+      "sha256": "c0a36bdb0f330bab3b2da9155bd263c683dd36ccb1209ade704c09260ef9bdd5",
+      "size": 622,
+      "plain_sha256": "fef3ac5449f2eaf19d9c4c72391b60235e3ddfd96f3e7499947115831a037332",
+      "plain_size": 585
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/pt_br.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/pt_br.toml.enc",
+      "enc": true,
+      "sha256": "09fe740ec8b553ed238ad0c10ca98001ac41b2e841257a628e1b956d9cd81c97",
+      "size": 576,
+      "plain_sha256": "3ab6c89dd1b0f0742a10195778d5109ef967674046e03d96e3a866fbf57b124a",
+      "plain_size": 539
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/ru_ru.toml.enc",
+      "enc": true,
+      "sha256": "e242fc1fe3af56b9a5e9dc1f2317fb77464afb6d79e59e48ee5776ea463bd570",
+      "size": 779,
+      "plain_sha256": "cc5e98b74eb3701d6ee8d94f65478dbf214c3e585edd5d5131b5ecd4f0e997c8",
+      "plain_size": 742
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/timestamp": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/timestamp.enc",
+      "enc": true,
+      "sha256": "8e0613da11d0c38231ac6d6b79d32e33718dce2a8b151b8d7c1795547ada8531",
+      "size": 50,
+      "plain_sha256": "9b28b60d47bb5893bfe32ef788c05f57f40b33c5f5e55abe5191a5275895a0a4",
+      "plain_size": 13
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/tt_ru.toml.enc",
+      "enc": true,
+      "sha256": "5b03b4e9647fba2477c81b43438d13be83ed7e201aa75292d8c99b7416943971",
+      "size": 794,
+      "plain_sha256": "3dffd9424013f20a7742002f0b6e08a212c7af1b7f3c9280d08e08046d420f28",
+      "plain_size": 757
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/vi_vn.toml.enc",
+      "enc": true,
+      "sha256": "e934d81eace015961b04b2d97b2ae143ee161280c5315f6fddaa1ba9c194dd44",
+      "size": 647,
+      "plain_sha256": "2e4263022cf663104b3a4e136b456c6500f89cdc595a9d74c315230972c88fda",
+      "plain_size": 610
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/zh_cn.toml.enc",
+      "enc": true,
+      "sha256": "0b5828c9045e3e8a430926131b5f4f5f46618dfb711a33c1fed2076f41f22ce6",
+      "size": 568,
+      "plain_sha256": "dedf1f390cbd5d1540a9090a2e46f6dcc1af5a4bccd1094468d80f1221dcebe8",
+      "plain_size": 531
+    },
+    "config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/.crowdin/zh_tw.toml.enc",
+      "enc": true,
+      "sha256": "d029f97e2ca7bc87902e814c88c885fc4154b9272e3342df80d7c1f3889be692",
+      "size": 568,
+      "plain_sha256": "0b31568920565723193e0fe0ff4eb1606176b085e8e147e609ac50a0da6e6a99",
+      "plain_size": 531
+    },
+    "config/pv-addon-broadcast/languages/en_us.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/en_us.toml.enc",
+      "enc": true,
+      "sha256": "3fc0faefb930db4d7806767ab454816b27481924df7bd57344289ffcfcc4dd20",
+      "size": 568,
+      "plain_sha256": "c71444565af45eca1daadee9c0b7bf4430679fdae817f7fdc89781b10b0a66f2",
+      "plain_size": 531
+    },
+    "config/pv-addon-broadcast/languages/es_es.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/es_es.toml.enc",
+      "enc": true,
+      "sha256": "855830508e5949084bf85ccf156a2119d122727a6820e4efd1ed011131d2cc16",
+      "size": 608,
+      "plain_sha256": "14aaf34834f92e1507832dbb83b3ec556a1ba38f14f4843901393fbb9b2d3528",
+      "plain_size": 571
+    },
+    "config/pv-addon-broadcast/languages/he_il.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/he_il.toml.enc",
+      "enc": true,
+      "sha256": "a3b5d7da21c336cd26e5a165ce2126b42a3cce3cf872292a5c4acd4e226fb742",
+      "size": 603,
+      "plain_sha256": "1db4a96c6f580aa3f3ce9849833e7c653c51dbb63baefca0bef56236c2875a12",
+      "plain_size": 566
+    },
+    "config/pv-addon-broadcast/languages/ko_kr.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/ko_kr.toml.enc",
+      "enc": true,
+      "sha256": "ec0e8cf9514cecd820eafd3822b658f17f632aef8e6430eede712686772da546",
+      "size": 575,
+      "plain_sha256": "02d9bd9b0fd9757a5ca5f8fd5478e753ca9300649f989f155d98d85a8dc78198",
+      "plain_size": 538
+    },
+    "config/pv-addon-broadcast/languages/pl_pl.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/pl_pl.toml.enc",
+      "enc": true,
+      "sha256": "aa6a5c433cec86cf05f6a22a6bcf5a04927c6c6a8aeda54ad859e03f9b4c58e0",
+      "size": 621,
+      "plain_sha256": "e0a54b1450e3f71a31c011b73ef9fd4ab518c2e622b5fc9c7d2c728a542c5f80",
+      "plain_size": 584
+    },
+    "config/pv-addon-broadcast/languages/pt_br.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/pt_br.toml.enc",
+      "enc": true,
+      "sha256": "e7c55cc30cf7a77596f25084ec1dc24a3370954ac9a4584cfd8503a92ebd04f8",
+      "size": 575,
+      "plain_sha256": "f46ec3d47b5bc69b686ab72bf6b83eaff21e7d9713f988e403acd5de243b940c",
+      "plain_size": 538
+    },
+    "config/pv-addon-broadcast/languages/ru_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/ru_ru.toml.enc",
+      "enc": true,
+      "sha256": "56dab2dc2f57d52f4f667bb9421d0ed3bddaaeea835e34ce1505b3674b78aec2",
+      "size": 778,
+      "plain_sha256": "990f9eeee98a6aa65dd5fcecedd6afc1cdea45070d673d7064a865cbd09253c5",
+      "plain_size": 741
+    },
+    "config/pv-addon-broadcast/languages/tt_ru.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/tt_ru.toml.enc",
+      "enc": true,
+      "sha256": "c3462f1490a08c4b236eea4afb4def2b10ecc077174be8180464b887934d0175",
+      "size": 793,
+      "plain_sha256": "9c994fa7a3d1ccf8f067dd84efb0a41dfb66b03f8632457b86c38d365bfb8e0a",
+      "plain_size": 756
+    },
+    "config/pv-addon-broadcast/languages/vi_vn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/vi_vn.toml.enc",
+      "enc": true,
+      "sha256": "a0f79623ead145f4095f84bf29db37707dcf5a615d15ff652402916fa37b3dca",
+      "size": 646,
+      "plain_sha256": "9b4358b411c757797230a30e69396316eefc1634eda1fd113a576aeb9c2db793",
+      "plain_size": 609
+    },
+    "config/pv-addon-broadcast/languages/zh_cn.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/zh_cn.toml.enc",
+      "enc": true,
+      "sha256": "77167b516571e4343c03f346a8325ab40db91121e7486114d5541be65c965d27",
+      "size": 567,
+      "plain_sha256": "67e25144247626fd5c2f44656e3c6ea81d8bb2a3747d2ce6cef41178054dee1d",
+      "plain_size": 530
+    },
+    "config/pv-addon-broadcast/languages/zh_tw.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/languages/zh_tw.toml.enc",
+      "enc": true,
+      "sha256": "59c88b90ef934c8b4edf20a212071ca93aef6998eb4c3000856b0c8b534a35a1",
+      "size": 567,
+      "plain_sha256": "b09cd0f1b7e6a0fdc3337f11f7e54b19543f80b3cd0b6982ed8794cb0dbde250",
+      "plain_size": 530
+    },
+    "config/pv-addon-broadcast/states.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-broadcast/states.json.enc",
+      "enc": true,
+      "sha256": "94ccce37d93a8d7767cffe7a100bb7b1c5ecfcbcb0570dcdea22e170a3c65279",
+      "size": 110,
+      "plain_sha256": "0388701ff4e33ad96ff120e1e7187e650049dfdc17d174ee9d38147a18094558",
+      "plain_size": 73
+    },
+    "config/pv-addon-spectator/config.toml": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/pv-addon-spectator/config.toml.enc",
+      "enc": true,
+      "sha256": "db0eb6eddf47bbfdaca4d9689b472b84b056afdae9d46864de0b9890bd621cd1",
+      "size": 54,
+      "plain_sha256": "d5c5b6e3dd3fc88f6a99079d01610071d23612922921dcfc78ccba2e64aa3ba1",
+      "plain_size": 17
+    },
+    "config/sodium-fingerprint.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/sodium-fingerprint.json.enc",
+      "enc": true,
+      "sha256": "5f5abd1b128cc2fc2ec5f617578d0029343cb590687ff68f549cabcb86581d08",
+      "size": 464,
+      "plain_sha256": "96a9b342ab78add9a209a66e7618487aa67c08b39fcdf59c7ccc9e1d53d5ecce",
+      "plain_size": 427
+    },
+    "config/sodium-mixins.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/sodium-mixins.properties.enc",
+      "enc": true,
+      "sha256": "686e1509bf76360337461d79f4cd8a6cd3bb964002857ff1c5dc5786ae77a4d4",
+      "size": 295,
+      "plain_sha256": "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01",
+      "plain_size": 258
+    },
+    "config/sodium-options.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/sodium-options.json.enc",
+      "enc": true,
+      "sha256": "dba61bda5e973bda670efd7c112c63d670b04f8579d5657b5d4d57de49ed3b20",
+      "size": 722,
+      "plain_sha256": "00c7dd465e12693baeb0f9844848eb087f627d98827df51111b080af462d7d73",
+      "plain_size": 685
+    },
+    "config/tectonic.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/tectonic.json.enc",
+      "enc": true,
+      "sha256": "6b9bffd6cb34736ed1e96d63b37445482624a101c7f9516894dbb074ab364e63",
+      "size": 854,
+      "plain_sha256": "7095da1d524f1165e977d81583f5822b532dc294e6341f5430d9e5457b5f3c08",
+      "plain_size": 817
+    },
+    "config/terralith.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/terralith.json.enc",
+      "enc": true,
+      "sha256": "012198ba6e37dc4daf05469c3655dc6c0a7358e1ea18a5808f1e747b8f2d1ece",
+      "size": 249,
+      "plain_sha256": "eadc7fad5ce55fbcec25df521820d36c222d5b12f17006ed9fea34ebeb6fd01d",
+      "plain_size": 212
+    },
+    "config/transition.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/transition.json.enc",
+      "enc": true,
+      "sha256": "b2bc1eef443a7e92913426213c16b3173105fc13445caef846a08f7fc2645a5b",
+      "size": 99,
+      "plain_sha256": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+      "plain_size": 62
+    },
+    "config/trender.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/trender.json.enc",
+      "enc": true,
+      "sha256": "7100be4a41e40f74740116327cca61dab9ddc6ff8360518d5c59a566683eb97d",
+      "size": 84,
+      "plain_sha256": "0a282f3623f7f9443a1d10b5768865f69e58b74e000dcfb4f40399626b7a6124",
+      "plain_size": 47
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/af/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/af/strings.json.enc",
+      "enc": true,
+      "sha256": "3712f183cba08fc7dc5a961b08db632d4358b946c851c6512d95422d709dffa0",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/an/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/an/strings.json.enc",
+      "enc": true,
+      "sha256": "e4e86907b4b4150f904942b2ab60ef3c30737f0a1e853c290de27869cf14da84",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ar/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ar/strings.json.enc",
+      "enc": true,
+      "sha256": "79affe68f4ac3ad72a47c9ea3bff872a4a28d570f742d77398b5ceb7764d4534",
+      "size": 4603,
+      "plain_sha256": "29f9066cad68d934ba7b9740b12fa39b1cfb7bd0de12daee71b3edd6bd3a52be",
+      "plain_size": 4566
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ast/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ast/strings.json.enc",
+      "enc": true,
+      "sha256": "b1bfb3fa9531c17bc5794eb6653e12c37430a18afee4a8b2c6840c730edea0c9",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/az/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/az/strings.json.enc",
+      "enc": true,
+      "sha256": "93b311055180d6233a47708243104c8797a6757f0176ead83bd03431d04db10f",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ba/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ba/strings.json.enc",
+      "enc": true,
+      "sha256": "2688ba771ce3247647bbb22e5a88ec142d5f1cb0b43bf43812532da63ecf1212",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/be/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/be/strings.json.enc",
+      "enc": true,
+      "sha256": "4ac67f907de94f8de2ccfdde185a3319d2d1478260eb22641acb6e26c6ce140c",
+      "size": 4094,
+      "plain_sha256": "f02d23b0625268b27cad869b781b7cc3a1ecb127ac2f05e6f10dede979f4e281",
+      "plain_size": 4057
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bg/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/bg/strings.json.enc",
+      "enc": true,
+      "sha256": "4eaeaafc3a1ef819a3fa35dfc88af5a36b637b83acb072638102326667264ae8",
+      "size": 4214,
+      "plain_sha256": "55a2e9381b20b6d8acf4730804c9f4f3e26270bf9d2bcdb35c5d6cd241c87163",
+      "plain_size": 4177
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bn/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/bn/strings.json.enc",
+      "enc": true,
+      "sha256": "b3a45451a8191d27727a28b939aca3ffe7ac3068c398a59bd8f2f14fb00c43b5",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/br-FR/strings.json.enc",
+      "enc": true,
+      "sha256": "95c38d7601520eee147fe9e3f907e26998f99ffc079845b83ee09530315070cc",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/brb/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/brb/strings.json.enc",
+      "enc": true,
+      "sha256": "a0ceb422d6e57cea961abdc18e5c6fb952ecf8c8262264771713c6d5c8b3900a",
+      "size": 34014,
+      "plain_sha256": "f4831bb47d275614f2df358e3c30ebd078d300a7487d1b530b1e132a0020b052",
+      "plain_size": 33977
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/bs/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/bs/strings.json.enc",
+      "enc": true,
+      "sha256": "b5666abdbda4d576c5f5113dcd5343a06072041067b96242f47b6679b5b91a83",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ca/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ca/strings.json.enc",
+      "enc": true,
+      "sha256": "4340a2c14297cee91c97dfe76e919c08f58f8932218d6c60b2a1a6ef9c62dc8d",
+      "size": 591,
+      "plain_sha256": "6864f83a4a35f39b5d8b4559fc911236815f6eadf80aefae58e8ac626e171129",
+      "plain_size": 554
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ckb/strings.json.enc",
+      "enc": true,
+      "sha256": "267314eea2c1b97fb9dd046f643865a303e448e6dd6ce8c7d8f39e3d8e869767",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cs/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/cs/strings.json.enc",
+      "enc": true,
+      "sha256": "e45f7c6ae78fb0756bdb107414fdfeaef8a27128e9609d136d476365cb856371",
+      "size": 34183,
+      "plain_sha256": "dba99bc72e47f347bbe240dc462bad2cd8ab6587a54e5a64b6ce847f66df0624",
+      "plain_size": 34146
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/csb/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/csb/strings.json.enc",
+      "enc": true,
+      "sha256": "0c2e11e30c992567a57381d1ca6773f93bed0f67c3eb9d12d7b20f749b67e1eb",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cv/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/cv/strings.json.enc",
+      "enc": true,
+      "sha256": "80e2029c1eb4ebe61dc9b059ab083709e3189436ad6d75a12fa89271e76aa473",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/cy/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/cy/strings.json.enc",
+      "enc": true,
+      "sha256": "8269375be38510b75e97363e4e4ff9981bb4195cdbbf840f50fd412393d4f2ce",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/da/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/da/strings.json.enc",
+      "enc": true,
+      "sha256": "b679135e2d7c9477974f37b4d706741b1fcc53f80ab0defac1b047d83ba03a95",
+      "size": 33392,
+      "plain_sha256": "d1730782efe07c20b986d15eafac3febceac7cf2a99ae351400ff2c191ac79c0",
+      "plain_size": 33355
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/de/strings.json.enc",
+      "enc": true,
+      "sha256": "d49580efe4666448b8482e377456d5886e77e7f0e85db948bba157849e9a202e",
+      "size": 35351,
+      "plain_sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "plain_size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/de-AT/strings.json.enc",
+      "enc": true,
+      "sha256": "c68ffc794a2989da0fbbf2d9dd209f72b33d42b236f8faa6705c4cf42d8976c9",
+      "size": 35351,
+      "plain_sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "plain_size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/de-CH/strings.json.enc",
+      "enc": true,
+      "sha256": "cd6d901df2920e57554cdf1fadc92930e70f569077fc96019ca99eaf5d9bcc0f",
+      "size": 34988,
+      "plain_sha256": "d48fc5c8242f9b4d9375697c44ef35d07dc3efae6adc6b51e1a46ef023f962ca",
+      "plain_size": 34951
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/dsb-DE/strings.json.enc",
+      "enc": true,
+      "sha256": "79634342ebaceeddaf34e10f651f874085209e81f788de394dd83d3abc3b35d2",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/el/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/el/strings.json.enc",
+      "enc": true,
+      "sha256": "73b7bd9efad1877e7d085efed3af928925340c79e7d8b2a1b271cf33cf2735aa",
+      "size": 436,
+      "plain_sha256": "2fb424866a5e5fb34b3bf78d764ab8a728facc745fac0a423e9ea1c22886e550",
+      "plain_size": 399
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/en-AU/strings.json.enc",
+      "enc": true,
+      "sha256": "e42863d3ababa5bbeba5bd13c32e873dd0ebccdab8612eb525fe06907cad340b",
+      "size": 1157,
+      "plain_sha256": "b2d61b570d18c99d46188ccb6720e81d730b0f45611198275bd1ebe0eff1b68b",
+      "plain_size": 1120
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/en-CA/strings.json.enc",
+      "enc": true,
+      "sha256": "69ca9693f9d5e5af42403b0ea4ace40a872f90e46485b004fada79f41a5a277b",
+      "size": 749,
+      "plain_sha256": "53010fa94d238a2ec02167e845e7cda679dc7454841e1abc26fda9717fd77eff",
+      "plain_size": 712
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/en-GB/strings.json.enc",
+      "enc": true,
+      "sha256": "0312aa3f91d74aad6048a8b7b6b1126e89397ee6909abf0bf6fe855c0f9a38f0",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/en-NZ/strings.json.enc",
+      "enc": true,
+      "sha256": "9267d056b1e8e7df13f200e54285472af65b5ee7a1b6c563cf12dae51763b296",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/en-PT/strings.json.enc",
+      "enc": true,
+      "sha256": "075383b3c18d49f24a45558ace82a9a46258ffe4e1e9128757266953849cd83a",
+      "size": 2029,
+      "plain_sha256": "817dda2b6e3f67ef18f2a5b7cbcbe55765dc3dc29d2b75489315af51386dda2b",
+      "plain_size": 1992
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/en-UD/strings.json.enc",
+      "enc": true,
+      "sha256": "1380705d93141a0b6527482ec527009191442daa91a8cab8ac716f2d5f3a8c10",
+      "size": 17723,
+      "plain_sha256": "c5de119e2db20447702906c6a3e7e20750840a63d04a7b48674cfa1d4dbd5094",
+      "plain_size": 17686
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/enp/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/enp/strings.json.enc",
+      "enc": true,
+      "sha256": "9ac7e2190d85f158ed4c0e2392617e1b7255f3fee7ca98a95ba883f69610eb92",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/enws/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/enws/strings.json.enc",
+      "enc": true,
+      "sha256": "44b72bf4ba46317b94d5099880cd74e2e34cb27c5a0c46ed580f535e2179457b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/eo/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/eo/strings.json.enc",
+      "enc": true,
+      "sha256": "fdca7d352b2b4c6308ada1e891d32fdafbdc8aace9bae8b6754bb67e6e2c0f1c",
+      "size": 1044,
+      "plain_sha256": "5386905f26b174368e7c4bde89dc3deeb74e88e9428d071e3536fe5debce8367",
+      "plain_size": 1007
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-AR/strings.json.enc",
+      "enc": true,
+      "sha256": "da1ae20998005c1d5c29f61fd8386dc928346621169aca1f4c85c7220860ba7d",
+      "size": 37188,
+      "plain_sha256": "bf962df1cfc012a19cf30d781ef51a60cdb4aaddd74e5c761905c42c110a11cc",
+      "plain_size": 37151
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-CL/strings.json.enc",
+      "enc": true,
+      "sha256": "d79104362a2b52a6764ee9b6054e5fd9af36d91d95e264d82fd96e845a2e46ed",
+      "size": 37315,
+      "plain_sha256": "c88cc7e91d2a6b314f7376554f089ac137d66916561d1c17912e5ed9cbff455c",
+      "plain_size": 37278
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-CO/strings.json.enc",
+      "enc": true,
+      "sha256": "19e580774eb1c3cd2b5e5a57d8745d57be735c7d5405c49d60ebe423e9669013",
+      "size": 37412,
+      "plain_sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "plain_size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-EC/strings.json.enc",
+      "enc": true,
+      "sha256": "bb770955ffd2854116bace4e77d43b4eb711d167f10f62938f700b310b1e4769",
+      "size": 37412,
+      "plain_sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "plain_size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-ES/strings.json.enc",
+      "enc": true,
+      "sha256": "145c6ac06d6e5e281432dd5c5f0abfbba3f03f50c97b0854b864ed644a92ba66",
+      "size": 37412,
+      "plain_sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "plain_size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-MX/strings.json.enc",
+      "enc": true,
+      "sha256": "becf16e9751e52d0cb3b639abec37ca09ddcb7b028da74562b665c0b6cb8539a",
+      "size": 37412,
+      "plain_sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "plain_size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-UY/strings.json.enc",
+      "enc": true,
+      "sha256": "59070e23b130bd8323d6fd5e488c110275aa251fb14b37e77f6f193b64900671",
+      "size": 37412,
+      "plain_sha256": "47b37e6e95daf1da0d5076f85819952e66cd1afebff26b9276a4d1d3ccf94b41",
+      "plain_size": 37375
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/es-VE/strings.json.enc",
+      "enc": true,
+      "sha256": "aa9c3ad17e0eda6b052003cc1554d8d6b9f5e4da8a93618241e87af67cda62bc",
+      "size": 37043,
+      "plain_sha256": "ea4f0b067e49b400afd92896d2bc1d0e40714d3c0a4570ffc7b03a3a6af9c925",
+      "plain_size": 37006
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/et/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/et/strings.json.enc",
+      "enc": true,
+      "sha256": "f64bac725194bc20baf06ec9bfb299ea4268e2d1450efb22f7d43fda696dc4ae",
+      "size": 5600,
+      "plain_sha256": "4a6abfa083c16d79b3a35ade4ae32989ff0f429d11cad85caba0aa6519a90c76",
+      "plain_size": 5563
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/eu/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/eu/strings.json.enc",
+      "enc": true,
+      "sha256": "b101a4881c56a1a7ca54e7a322e7355c0e06bc86358fe6c864b87b7b7d9f8ac8",
+      "size": 8679,
+      "plain_sha256": "5f114280e675622cff68ddbec13f70b02663a6d852817e723b2180e1bde3d3d9",
+      "plain_size": 8642
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fa/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fa/strings.json.enc",
+      "enc": true,
+      "sha256": "e0825fbbae0fd70637b6f152e619a5ecc087dde8a81dc704fdd6615a58a9d83f",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fi/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fi/strings.json.enc",
+      "enc": true,
+      "sha256": "09f5b952e72267c6840f13d47f53aa81a327e3809e7dca0db66ad11641224bd6",
+      "size": 1587,
+      "plain_sha256": "048c25c056481c5d019ce0a5477f4a347d8fa7f4caaf3581ccbcd9d11928466b",
+      "plain_size": 1550
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fil/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fil/strings.json.enc",
+      "enc": true,
+      "sha256": "0b901614fd01222f509eea17a191e09006e8ab51d1199a3b53c99c2ca1b9259e",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fo/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fo/strings.json.enc",
+      "enc": true,
+      "sha256": "3a067e9931d7c05545b7c1068dbcd9a3299d157c5371a0a6b3267326c9b29ac1",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fr/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fr/strings.json.enc",
+      "enc": true,
+      "sha256": "5392055811f50cf6a00f312dd31df6a3df40561b7c083d2f0dee96272b361a06",
+      "size": 36470,
+      "plain_sha256": "4ba72682581791c2f5ee40a91085c738c7697a0561214710cdaf8e122b182314",
+      "plain_size": 36433
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fr-CA/strings.json.enc",
+      "enc": true,
+      "sha256": "30da12325bb3a895a3ed92721a5b415fdce85275d43ab12578c36c84d3992bb4",
+      "size": 36519,
+      "plain_sha256": "4bd774707e676b0c345b1d7a4b197bd22827389db1f591a8b1e22fa424094901",
+      "plain_size": 36482
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fra-DE/strings.json.enc",
+      "enc": true,
+      "sha256": "017e3b76a35c7a1d5cab2f3cf803cfd1c4bf20251c38e0eaccd13235a7be197b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fur-IT/strings.json.enc",
+      "enc": true,
+      "sha256": "5cbe1ec829fd723957332fe7ce3d4ab03a078017a6135f1821fbf99fcc6348c9",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/fy-NL/strings.json.enc",
+      "enc": true,
+      "sha256": "9afe7ca283737cbd13deaf94b6298c373f08d5c390261e83240b9b3ddc391e17",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ga-IE/strings.json.enc",
+      "enc": true,
+      "sha256": "2c4fe1e620b6870814366ffccaf3188574f2f907172c84d038937448496f9226",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gd/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/gd/strings.json.enc",
+      "enc": true,
+      "sha256": "b33dd1246576699ece6b3a4f2d64a09efe5916f50fc1410822cada36febf01ab",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/gl/strings.json.enc",
+      "enc": true,
+      "sha256": "240b45e665080670665c1b8796aa2d65b130ca88da0eb1a1a9d5f4dc99438738",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/got/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/got/strings.json.enc",
+      "enc": true,
+      "sha256": "02366d93bfca588be213a86fdae868ef37eff1a8413b8da88e1dff5c7ee6ad97",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/gv/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/gv/strings.json.enc",
+      "enc": true,
+      "sha256": "96e6080b1fbce3613b6cf8047e0d2f1ae00463766636b8199ca36548fbf15a0a",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/haw/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/haw/strings.json.enc",
+      "enc": true,
+      "sha256": "bd1fcb918cd66e039e43bda33e9d473106e0709f17430d29dccfdf92dd19bb24",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/he/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/he/strings.json.enc",
+      "enc": true,
+      "sha256": "e13302d660aaa8e846ec10bf4647e1c755c2d197b31c3a0e1bcf0d597010fe6a",
+      "size": 1497,
+      "plain_sha256": "e54027adbe796e9e0ec188735d3c7a963eb529d8029d4242f1970eafed79ca71",
+      "plain_size": 1460
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hi/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/hi/strings.json.enc",
+      "enc": true,
+      "sha256": "7a8777204221045877b87960a6af32e7fb06342982cfe7b082912170d1b56d3d",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hr/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/hr/strings.json.enc",
+      "enc": true,
+      "sha256": "d9b27339678f08e4cd1b4da1db2242a90e1f20ae63fc422fd28a880c97fe202c",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/hsb-DE/strings.json.enc",
+      "enc": true,
+      "sha256": "547a738669d167aa1d9dda8ca01d6f82081f23f0a23f7c10fecce296ed7392ff",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hu/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/hu/strings.json.enc",
+      "enc": true,
+      "sha256": "9978d918dd7e50990fa76efe6a9cd158e350b9c3a13b6909f13a85acc1677e1a",
+      "size": 11119,
+      "plain_sha256": "6edfb7c4be39c6f9528f0bc1b970c349423057db773449baa233ab1bb3f41159",
+      "plain_size": 11082
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/hy-AM/strings.json.enc",
+      "enc": true,
+      "sha256": "3a2f47b99f2a9814a3ab037cee0dbfc612f80dcb68d0a1123e18d98c153a6e6a",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/id/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/id/strings.json.enc",
+      "enc": true,
+      "sha256": "cf60254cb62d1f929c8dc6caee84a94c1d81a6482bada1721c8a86f31f1e4fbb",
+      "size": 32671,
+      "plain_sha256": "b9f8d18a33d4790ff9e57e455f0c2413441bc2c475fd502f66f095cfc3e9a254",
+      "plain_size": 32634
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ido/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ido/strings.json.enc",
+      "enc": true,
+      "sha256": "bb6803baa3110234cdb664408768cb018471f916923df890ddfddfd53257e61b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ig/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ig/strings.json.enc",
+      "enc": true,
+      "sha256": "d9dd8491a95e4c59e30b2aab79ad9f5c7d44952755fc2d7e2ec1955cd6a0e087",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/is/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/is/strings.json.enc",
+      "enc": true,
+      "sha256": "0a7ae0527fc6cf8c7934c431bcb5f31807cd4e620929fd76573f28e9ec645097",
+      "size": 316,
+      "plain_sha256": "57cfc41f9f82b595a9a4cf77369a6503d3c354f0bfe8cb58e66382fa9836c6a2",
+      "plain_size": 279
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/it/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/it/strings.json.enc",
+      "enc": true,
+      "sha256": "3eb8f881a823edf031c1fca1119ad13e3c30e4adf010c9dd88c281aec7abfdf0",
+      "size": 34701,
+      "plain_sha256": "a21fe72d203959554833232910cc1e9e677fdd4b8eebba7d4d70cf5a09471ce5",
+      "plain_size": 34664
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ja/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ja/strings.json.enc",
+      "enc": true,
+      "sha256": "75603ce30e6366e3db8049014ce826273446b7c47306ceb99bf07d18e05a0393",
+      "size": 31259,
+      "plain_sha256": "4d24e79624d56512d2b4aea4a19360b864c41050c4d30ce2ec764f5596f83fca",
+      "plain_size": 31222
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/jbo/strings.json.enc",
+      "enc": true,
+      "sha256": "45995d1704f7c9ae7216459f02217ef3c49d4d176b96b3e9986fdd8522b0205a",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ka/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ka/strings.json.enc",
+      "enc": true,
+      "sha256": "a154826da6ef0b17efd758327a29b82f7654355f2a2c9c20298591a5d71bc42f",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kab/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/kab/strings.json.enc",
+      "enc": true,
+      "sha256": "b02dffec873c504587ae07bf871092319817f7bbb0e4a2db8f6eb7373ebba275",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kk/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/kk/strings.json.enc",
+      "enc": true,
+      "sha256": "012bd38a47a8f85fa3e89cd3a4a76af0a297fecf070233a16304628aa781287a",
+      "size": 3456,
+      "plain_sha256": "485b85b7cce118da244f868cc6b64a5abcc6949b631af2584b5b10485c3e9aba",
+      "plain_size": 3419
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kn/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/kn/strings.json.enc",
+      "enc": true,
+      "sha256": "de6a6548bc3e81136b38bfdc17138e4c5f29cdba481580a36daaad7029b2dd75",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ko/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ko/strings.json.enc",
+      "enc": true,
+      "sha256": "f550f3d6560dd361592f04e57a503e99f738eea817ede75d837e5e38317fc151",
+      "size": 32925,
+      "plain_sha256": "0c685e4ab01f66940095f1ec801fab9f5d9ab3d37c7c065e37ebc8d6c4b6c08f",
+      "plain_size": 32888
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ksh/strings.json.enc",
+      "enc": true,
+      "sha256": "3ba2fe37c690532dfe7c419ebf15bc0ff494e16fc3223786c6b42f86171d6ccd",
+      "size": 35351,
+      "plain_sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "plain_size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/kw/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/kw/strings.json.enc",
+      "enc": true,
+      "sha256": "21a5af9ab7d0128b120cafdeb40afabb24a3928f21cfff0c94252882608aa183",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/la-LA/strings.json.enc",
+      "enc": true,
+      "sha256": "66b095fa3adc39609b4ad3c0243beab05197ce9b9b8d3b32ca661c1465bba05a",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lb/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/lb/strings.json.enc",
+      "enc": true,
+      "sha256": "6be8e3d895ec8cd4b046e4510058f35a24ef92bafb872013ac231ecb4bc81484",
+      "size": 325,
+      "plain_sha256": "c13f2e57ec52d87e65580202e32abd12b7880650c38585c0ec2cd484d3767a8a",
+      "plain_size": 288
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/li/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/li/strings.json.enc",
+      "enc": true,
+      "sha256": "4e005235b48e8202738dd94d4a6d2e55b7d44d3b895aa7ad42df306ba17b3608",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lo/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/lo/strings.json.enc",
+      "enc": true,
+      "sha256": "e077febe522c7c4adbeeff5a4ff4be16b2c90997ab8b11a127f91e7afdee207d",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lol/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/lol/strings.json.enc",
+      "enc": true,
+      "sha256": "fe87d908844ca281672f3627a3f2d59918c4f5283b3c4fff871cb542fa90fcc6",
+      "size": 22279,
+      "plain_sha256": "ac04004a71075464b6fd0d7f697c5fd4f37d88139cb6a4195a503ddb2cc69b3b",
+      "plain_size": 22242
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lt/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/lt/strings.json.enc",
+      "enc": true,
+      "sha256": "8e8f9b87101f3835bbe9dc58dfae37d08df65b8368fbc0645ed665faf31b654b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/lv/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/lv/strings.json.enc",
+      "enc": true,
+      "sha256": "b643e3ce80f445b368fbbb570bc052f5fda775829cbc0b476f5d9fc250b783ca",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/me/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/me/strings.json.enc",
+      "enc": true,
+      "sha256": "e009dbe509dc4dd0da528e72fa8596f26edd4ca7fdcbe64ba109d94d449d6fd4",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mi/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/mi/strings.json.enc",
+      "enc": true,
+      "sha256": "97598d9d759eae0b678af4531d5ae5b227744385d18893f7065d7cf27138cd1e",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mk/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/mk/strings.json.enc",
+      "enc": true,
+      "sha256": "5216954bb410771ce799bdc4f04405d0df9017e412c793eaa9611468665d6bcd",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mn/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/mn/strings.json.enc",
+      "enc": true,
+      "sha256": "42a11823b60feb78c0deadbdb706ac409bc084e24c2787cc6c663dfcae08d1fe",
+      "size": 2991,
+      "plain_sha256": "7fecfa7b0c24f535bbb0ef2d25edd1cbf3e0eef6c69bb08d75da5e9385095bda",
+      "plain_size": 2954
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/moh/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/moh/strings.json.enc",
+      "enc": true,
+      "sha256": "c4f86acb72beefe2658dbc832e547f8e1ecc533b9b2da0f141e9fe4993d07f7c",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ms/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ms/strings.json.enc",
+      "enc": true,
+      "sha256": "ddaad913594042fbfea04ada9143288b10e4c27959c0d5e9768b87382cb18c0b",
+      "size": 3673,
+      "plain_sha256": "977555440bfb7a00c2ce73a5ad860112639b49942de2c681fe8c123063f3aca2",
+      "plain_size": 3636
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/mt/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/mt/strings.json.enc",
+      "enc": true,
+      "sha256": "7fdb4e8684558dd75a6e7f4228b81d14c26840bb501375710924f71a7f5f14f9",
+      "size": 1796,
+      "plain_sha256": "f05eb388f7590866da08167a119fd11ed7cbda9449ab6f33ad14adf2f80476dc",
+      "plain_size": 1759
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nds/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/nds/strings.json.enc",
+      "enc": true,
+      "sha256": "004af8d2f25edb8e7480c4f35d0ae8bd640d4d6155c7ba585605bb5a4da22a70",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ne-NP/strings.json.enc",
+      "enc": true,
+      "sha256": "c5996f74cb4c77c292f4819c637d7f689b9d1b5482e112f092f30699d05c47f2",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/nl/strings.json.enc",
+      "enc": true,
+      "sha256": "644014b0096fb83380677778bac94076d17ddc77779d795e2bb7dc1f6288a335",
+      "size": 34014,
+      "plain_sha256": "f4831bb47d275614f2df358e3c30ebd078d300a7487d1b530b1e132a0020b052",
+      "plain_size": 33977
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/nl-BE/strings.json.enc",
+      "enc": true,
+      "sha256": "60752b6118f8b23a1fccbc2f2c0a1da58b48580f267615ecb9b0941c69391538",
+      "size": 34004,
+      "plain_sha256": "b5171c0706aa2e1870659517473218f49acb604df03273315bf81a164ef47a57",
+      "plain_size": 33967
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/nn-NO/strings.json.enc",
+      "enc": true,
+      "sha256": "167c94b40a4acd2269511594911d64f97ff5bdadccd196b3fa755e93a57db439",
+      "size": 30845,
+      "plain_sha256": "e7ac3f2d3631fe0abed4e5b8de8fd3e225204d0d89f1a655ed7ac2f6e02c925f",
+      "plain_size": 30808
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/no/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/no/strings.json.enc",
+      "enc": true,
+      "sha256": "f783dd007c9406252a11e5505b5d5d16cbbd6b55a9cb3e546295f268c5c4be94",
+      "size": 30845,
+      "plain_sha256": "e7ac3f2d3631fe0abed4e5b8de8fd3e225204d0d89f1a655ed7ac2f6e02c925f",
+      "plain_size": 30808
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/nuk/strings.json.enc",
+      "enc": true,
+      "sha256": "c312db4ca62853bba4e029fa2da80953e622d27eaa8d75eb6dba08ae5070f5fb",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/oc/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/oc/strings.json.enc",
+      "enc": true,
+      "sha256": "6b76687aa601983089482022c89dd776451c96c57fb43e77922768e8c7ae17b7",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/oj/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/oj/strings.json.enc",
+      "enc": true,
+      "sha256": "4774fbf8c95979ba7791c40ccce246d860f7c25070cc861714284c8a9ecb5029",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/pa-IN/strings.json.enc",
+      "enc": true,
+      "sha256": "bcc2b6b3d064ae781e01ce915d39b781918cb38f452f39843be4967e96aab817",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/pl/strings.json.enc",
+      "enc": true,
+      "sha256": "483492e8ad4f6809750378050c7255b7221df6814fcc4713d8fe4626f8d197e8",
+      "size": 35334,
+      "plain_sha256": "ed37e1831b93674c506e1ceb10682c78d8f7e51c846eb015a05b6c2a345c89d4",
+      "plain_size": 35297
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/pt-BR/strings.json.enc",
+      "enc": true,
+      "sha256": "8131313d10f370c73d5ca1512a202fd080474130c0c6ca8e01750d697f4134c0",
+      "size": 35141,
+      "plain_sha256": "ad0133bf41f925ca83edc13c78192d88d81cbbbbcc52972a416c68435b9e1a4e",
+      "plain_size": 35104
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/pt-PT/strings.json.enc",
+      "enc": true,
+      "sha256": "09c844e4b348534e79ff14550f3201cd163022a6e0669b204485095799927abb",
+      "size": 5419,
+      "plain_sha256": "e7faa0729f568e6540ec75c048d5ccae8e23e0ffaf789f9b389b4e7acaf481fd",
+      "plain_size": 5382
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/qya-AA/strings.json.enc",
+      "enc": true,
+      "sha256": "4fb2b3e4ffcca50f7905364b80746daa252588264c4132a1f5890817d96e2247",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ro/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ro/strings.json.enc",
+      "enc": true,
+      "sha256": "7d5df1b45479e3f9a0097dbcc6114f7c8b496a66bf91834aa31146c4654efac0",
+      "size": 1774,
+      "plain_sha256": "8e7861e62065963842c0ce22dd1e4baf036c548e6ae4aad540d720412fdc1910",
+      "plain_size": 1737
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ru/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ru/strings.json.enc",
+      "enc": true,
+      "sha256": "ce5ea8b0b75303780fc35fc7eaa0a6b22f22388b70c6c7cec410958b4e7efb2a",
+      "size": 45528,
+      "plain_sha256": "a1ca1732712dc68a9f6697747b1b566994f7383923c4ca1cd3fcacec198fca82",
+      "plain_size": 45491
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ry-UA/strings.json.enc",
+      "enc": true,
+      "sha256": "2694d131619ce501d0830cd1f331b1c656ae02bf738ff1ede4ce146c5a383296",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sah/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sah/strings.json.enc",
+      "enc": true,
+      "sha256": "ae641ff06f354f768620f2bc22ea0425ad10a08871355e829ac52f830291707b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/se/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/se/strings.json.enc",
+      "enc": true,
+      "sha256": "4c2a4c1b7de2dc617a6fe038ba94ec98ffc58e5dc831a39d160611469e19027a",
+      "size": 863,
+      "plain_sha256": "ccbfc481e804dfb61768a8ea30f4c857124b1c6fbfc32e254266e9ffa1d9a6cc",
+      "plain_size": 826
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sk/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sk/strings.json.enc",
+      "enc": true,
+      "sha256": "fe8bda53dfc29f594ee90116600a844e66da6825c8cb1460cc7c7d0362ca4d90",
+      "size": 10122,
+      "plain_sha256": "ee3aa9555be39acd6ae8742d190edd0653e2fa64110a8ac4718898d02921fae3",
+      "plain_size": 10085
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sl/strings.json.enc",
+      "enc": true,
+      "sha256": "753e578bda26dd4b8f4963ba64cc0a30dc509d3b7a79558f740412aaa0d7d904",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/so/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/so/strings.json.enc",
+      "enc": true,
+      "sha256": "e05fa2dc74e10620bee1b9d299cfa82766554d9b8999d4a30a5c6acfac50c73b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sq/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sq/strings.json.enc",
+      "enc": true,
+      "sha256": "4a92d7b97f42ce4912530d4fc219513b6dbe29cabc7258c09a9707ca87c2e219",
+      "size": 6790,
+      "plain_sha256": "488edc59356647858f3134355efed66b4568bb3f68cbe55c8fdccc6e62493476",
+      "plain_size": 6753
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sr/strings.json.enc",
+      "enc": true,
+      "sha256": "05fbdcf4f784ad06d945db7a0a40eba86ebdcdf9f2692ea5a2ec620d12f367d8",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sr-CS/strings.json.enc",
+      "enc": true,
+      "sha256": "293035d297fbe9a2ce307d9bf99538465a07440dd551f629c9dd5701bfdd0abf",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sr-Cyrl-ME/strings.json.enc",
+      "enc": true,
+      "sha256": "f07f35be6ed218c1c8eabba3733656df5d6016701b9f38951c31b60c2ac989a7",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/strings.json.enc",
+      "enc": true,
+      "sha256": "56d0ac7d9d7ce35c5424eda0b08483d61156ed9808db8ed450d12cca2fd3062f",
+      "size": 34913,
+      "plain_sha256": "8576412d98c50a024e846106276d5e58ae3f49555f2de038705cf183694b3c05",
+      "plain_size": 34876
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/sv-SE/strings.json.enc",
+      "enc": true,
+      "sha256": "6a866e6ca3e4cfcabaa0d6a1823c246d62ecdc8a223f7638deb27b07e1410e2f",
+      "size": 28364,
+      "plain_sha256": "6b7b800714b9490c4ea5a3586b76c0ba2fbbb1ed00d88d5f989dfcacde9c40a9",
+      "plain_size": 28327
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/swg/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/swg/strings.json.enc",
+      "enc": true,
+      "sha256": "119dee4d8b0ce37c1e1a8d8dca5d229c0cb72da6cae812a819a1f2454ca6a81a",
+      "size": 35351,
+      "plain_sha256": "4e40ebadd86616eaef661d5ad236d51a647a730fd488586447a201264f16ec56",
+      "plain_size": 35314
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/szl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/szl/strings.json.enc",
+      "enc": true,
+      "sha256": "2fbe41a9cb4befb3fa16fd6257675709186df91562ad4f8ef41b899c44673fba",
+      "size": 35334,
+      "plain_sha256": "ed37e1831b93674c506e1ceb10682c78d8f7e51c846eb015a05b6c2a345c89d4",
+      "plain_size": 35297
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ta/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ta/strings.json.enc",
+      "enc": true,
+      "sha256": "8b5654a4f62d8f08ed12c6963beec090e4a61477bb73e3417f6ab3101b6ce5ae",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/th/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/th/strings.json.enc",
+      "enc": true,
+      "sha256": "ec9e18fff8ca084817d32cce4f8588f5111821fa900eabcb08eb66252cd9345c",
+      "size": 8251,
+      "plain_sha256": "f99613242e2796e41abb13af00395a4701622a17d5bed81d83d029470715b998",
+      "plain_size": 8214
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/tl/strings.json.enc",
+      "enc": true,
+      "sha256": "e337bc397ddfffac6fbaaee18e9d8385aa21a5cc3993cc2cdd6ba7e10dcfb776",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/tlh-AA/strings.json.enc",
+      "enc": true,
+      "sha256": "d67ef6c8cd2c1b60a377df0c34ebd0cf5e810227ab9998653eda43c120d291e0",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tr/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/tr/strings.json.enc",
+      "enc": true,
+      "sha256": "a2398b66dd48aa72cfc94447051e068436fd8e90370e277a6511bc67dd53cb2e",
+      "size": 30787,
+      "plain_sha256": "897a2f3977fbf4080fe0ea316867e49b5568ae8cf32e22396817380808050e35",
+      "plain_size": 30750
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/tt-RU/strings.json.enc",
+      "enc": true,
+      "sha256": "e55d94f1e90124cdff81f74b6156ae072c6e761155101d9e3bb6314665fcf00f",
+      "size": 1573,
+      "plain_sha256": "5b675c1be27b1ca671505b88dbfc999c9a4791b5d767ac0230d1680cb3d9084a",
+      "plain_size": 1536
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/tzl/strings.json.enc",
+      "enc": true,
+      "sha256": "84cb1feeafdb05ce3670ea02998edb5c733c2d7cd1a347c9f44805651fed7738",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/uk/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/uk/strings.json.enc",
+      "enc": true,
+      "sha256": "42669d326a421f28cb171f3c1a218e2dc4564a9a088793b7baf332229310250b",
+      "size": 44792,
+      "plain_sha256": "505d9c983678f8f6bce33d7f33b580ee917949af4ea079991f8779eae7c244fb",
+      "plain_size": 44755
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/ur-PK/strings.json.enc",
+      "enc": true,
+      "sha256": "fe14eb3351dec03d545a4a6dd56cb70f27508a12f837f7035b9222df9d3fbfa9",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/uz/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/uz/strings.json.enc",
+      "enc": true,
+      "sha256": "3b756259f7c0d07b96ed5f5725140eb784f71ac6fd1bab7d46a36c6c68b39afb",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/val-ES/strings.json.enc",
+      "enc": true,
+      "sha256": "d33d1284bc8639111c82baa6ffaac58b85da64e834fad6bf2a8931738e51ed0b",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/vec/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/vec/strings.json.enc",
+      "enc": true,
+      "sha256": "27afa10416c4f3eff5083d166cfbaeda3f467ca34508abc6ec9f4a8f3e18edff",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/vi/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/vi/strings.json.enc",
+      "enc": true,
+      "sha256": "27eff7714c338270c333705d416c232f5c56855cd81c0c28de87e76a16f28198",
+      "size": 6012,
+      "plain_sha256": "e79961e59fe757f55a93a3366967d8b9d56815cad56301907e248d06640d97fd",
+      "plain_size": 5975
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/yi/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/yi/strings.json.enc",
+      "enc": true,
+      "sha256": "ce4f540f7c454b3cc5d2f3c9e53bf79e131af42d05a39463f7c94a63d49a7109",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/yo/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/yo/strings.json.enc",
+      "enc": true,
+      "sha256": "ca254ea6a74a09f9605c73333b4b7e9c421068da7fbae5e63ef5c57f4dc34ace",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/zh-CN/strings.json.enc",
+      "enc": true,
+      "sha256": "03ab9e54eeda258e85d8f6fab60b8e547ed6c7434078e4ef5a5924daa5925c75",
+      "size": 32506,
+      "plain_sha256": "0e62f3e586fe2ba5c1de918fbbe63b84ee5569490af642e7537489d665fd5f7a",
+      "plain_size": 32469
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/zh-HK/strings.json.enc",
+      "enc": true,
+      "sha256": "9694775811951323e7f1f33607dea8ae57f237ef1e871397332be9118129c853",
+      "size": 40,
+      "plain_sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "plain_size": 3
+    },
+    "config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/.archive-unpack/5f7cd289/zh-TW/strings.json.enc",
+      "enc": true,
+      "sha256": "7aa741ca5065adc62bd62451fe9f2e7935f5d52c469431389da1528e018d8b78",
+      "size": 32652,
+      "plain_sha256": "dc3c9f6273f8c4e10cef482cd283d12c5a74ecdadf3f4f7d5e104b324a2b2720",
+      "plain_size": 32615
+    },
+    "config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json.enc",
+      "enc": true,
+      "sha256": "aa3039e1b9d25d4218c2a013b06585c3ca04920f4d91e7aeb5b6dbe8f385b482",
+      "size": 176,
+      "plain_sha256": "9757a6208de6780c7d86d61a75e997848a30a7e759f5e2f3e29d08ab7aa6383f",
+      "plain_size": 139
+    },
+    "config/worldedit/worldedit.properties": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/worldedit.properties.enc",
+      "enc": true,
+      "sha256": "09325e52e2998515fc96b938cf0492d91844cfc9dc10d4c19fa304a12ffe9933",
+      "size": 2584,
+      "plain_sha256": "d0239694c42291ea3eb9f709b51e1c3061f3186363fa3b6668b8743e6db59001",
+      "plain_size": 2547
+    },
+    "config/xaero/lib/client.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/lib/client.cfg.enc",
+      "enc": true,
+      "sha256": "c0549b62317b6a4c713a9f994b9271ec1762fa911168372a5164960875636466",
+      "size": 63,
+      "plain_sha256": "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336",
+      "plain_size": 26
+    },
+    "config/xaero/lib/common.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/lib/common.cfg.enc",
+      "enc": true,
+      "sha256": "3781e2707eaa8896384fd17e0f7f33aa2d88cd3ea80122141f8ad94c4571fd47",
+      "size": 273,
+      "plain_sha256": "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2",
+      "plain_size": 236
+    },
+    "config/xaero/lib/profiles/default.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/lib/profiles/default.cfg.enc",
+      "enc": true,
+      "sha256": "36bffa90de18cbf30a1df27162dbc4417059d8a9365fa0d2774b7dcb6e2a90a6",
+      "size": 158,
+      "plain_sha256": "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907",
+      "plain_size": 121
+    },
+    "config/xaero/lib/server_profiles/default.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/lib/server_profiles/default.cfg.enc",
+      "enc": true,
+      "sha256": "08445c730ca9dc3199ef9256fb2ccc3e39ac85b2284d60e9369240a0c8f9109c",
+      "size": 112,
+      "plain_sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "plain_size": 75
+    },
+    "config/xaero/minimap/client.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/client.cfg.enc",
+      "enc": true,
+      "sha256": "f426e5a156c157a2216eb8b49c025ce6000628def9fe4c075ddadb91bc065510",
+      "size": 274,
+      "plain_sha256": "c3a5f6ac41491bec17a6874f5da6cf39de1a71d2e3ea0bc414bb12375b7733bf",
+      "plain_size": 237
+    },
+    "config/xaero/minimap/common.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/common.cfg.enc",
+      "enc": true,
+      "sha256": "b225ff6b233207d7c8cc23be94ed0733ed70af4a6a5431e19ee9273d79ed4ba1",
+      "size": 184,
+      "plain_sha256": "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0",
+      "plain_size": 147
+    },
+    "config/xaero/minimap/default_radar_categories_client.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/default_radar_categories_client.json.enc",
+      "enc": true,
+      "sha256": "92505f37ca5cd0bb9663cbbecc0542ac443abae7943bd15cf5c207a3d20db11a",
+      "size": 5568,
+      "plain_sha256": "c63fa9862b71e4d7d39f0ba3c214ec8482c622d960574003eabe56dd021cbead",
+      "plain_size": 5531
+    },
+    "config/xaero/minimap/default_radar_categories_server.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/default_radar_categories_server.json.enc",
+      "enc": true,
+      "sha256": "6b04bce99d7c9d41420c5ac59a9120342b4e8d298f0770e20a5b00cc5af1766c",
+      "size": 4634,
+      "plain_sha256": "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd",
+      "plain_size": 4597
+    },
+    "config/xaero/minimap/profiles/default.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/profiles/default.cfg.enc",
+      "enc": true,
+      "sha256": "60b100becfa0d297580c41e6ed871055a219e5c852529533c56bbbf70c765e76",
+      "size": 3694,
+      "plain_sha256": "db49c4dde15db318eb25e8a43fa06992778f0e17b3a963fff5cbee35da11fb81",
+      "plain_size": 3657
+    },
+    "config/xaero/minimap/profiles/info_display_config/default.cfg.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/profiles/info_display_config/default.cfg.txt.enc",
+      "enc": true,
+      "sha256": "f63fc2266e862d0f9ccd18deedd9bf9f317e7dad1fbc433138f2c8e23b3e1918",
+      "size": 721,
+      "plain_sha256": "184e654fa1fc8ad09943c97c4e65ab78acb5b3cfca22417a831513d1b6d9bbc6",
+      "plain_size": 684
+    },
+    "config/xaero/minimap/server_profiles/default.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/minimap/server_profiles/default.cfg.enc",
+      "enc": true,
+      "sha256": "015661bb9b44ab98d8eb05660f3d407260de879ec21f3e4ed4feb9ce14113df8",
+      "size": 130,
+      "plain_sha256": "60be9e397399686814465f0ea1b2da7d6a4693657eb8e3c05200d3b8b210381f",
+      "plain_size": 93
+    },
+    "config/xaero/world-map/client.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/world-map/client.cfg.enc",
+      "enc": true,
+      "sha256": "1eeb254ddd4489d3279a9726a218276f5a0a6bbdb7181fea782af28c8f7406fb",
+      "size": 505,
+      "plain_sha256": "6a48dd0c785ec86ac5c9a4345245da2491173c73d8fbf37dfaa75b72812e885a",
+      "plain_size": 468
+    },
+    "config/xaero/world-map/common.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/world-map/common.cfg.enc",
+      "enc": true,
+      "sha256": "b3b60c757ef478447df99c67857ffd81742cf71925facbfca0c46e89910f3eed",
+      "size": 178,
+      "plain_sha256": "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d",
+      "plain_size": 141
+    },
+    "config/xaero/world-map/profiles/default.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/world-map/profiles/default.cfg.enc",
+      "enc": true,
+      "sha256": "080e27c2427496bbffec6531a9cbca2e966c2b81c3d6a41d9010dee311bcd161",
+      "size": 1416,
+      "plain_sha256": "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5",
+      "plain_size": 1379
+    },
+    "config/xaero/world-map/server_profiles/default.cfg": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/world-map/server_profiles/default.cfg.enc",
+      "enc": true,
+      "sha256": "f53ba5ce61703909c0117a15f71ab427cffebc608d504980b14b214d20fb165c",
+      "size": 112,
+      "plain_sha256": "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a",
+      "plain_size": 75
+    },
+    "config/xaerohud.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaerohud.txt.enc",
+      "enc": true,
+      "sha256": "38b11bbe0e17c3c9c474f8fcdd0102f5940704260108ac60075aa826a8ad7636",
+      "size": 160,
+      "plain_sha256": "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c",
+      "plain_size": 123
+    },
+    "config/xaeropatreon.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaeropatreon.txt.enc",
+      "enc": true,
+      "sha256": "6fb0884e929d6a52a468e8a5b04080cce6e87c29c9dc5684bfd8dbb83a53979b",
+      "size": 37,
+      "plain_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "plain_size": 0
+    },
+    "fancymenu_data/buddy/buddy_leveling.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/fancymenu_data/buddy/buddy_leveling.json.enc",
+      "enc": true,
+      "sha256": "33008ff7c31e5239530b03fb210cc46d7709ba21524d0297fe0da7a396723702",
+      "size": 1656,
+      "plain_sha256": "c79892b2e4d4e3d88bf708dd43000ede9759728a1f612d58acc26b7d984f8b50",
+      "plain_size": 1619
+    },
+    "fancymenu_data/buddy/buddy_save.json": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/fancymenu_data/buddy/buddy_save.json.enc",
+      "enc": true,
+      "sha256": "e9ccff10f5fc2fbc25f4580fd133664f94dea64c9c29483c6d633d8ae911114e",
+      "size": 297,
+      "plain_sha256": "adb3a338396d6ea398a6d58b4aa32d00eed169bbf4b187814ec3e5c8d8c312d3",
+      "plain_size": 260
+    },
+    "fancymenu_data/last_world.fmdata": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/fancymenu_data/last_world.fmdata.enc",
+      "enc": true,
+      "sha256": "b5541f35ca9fd1d2ef0787046350ec774d23fb053f9d9496259d5ca01a6bee3c",
+      "size": 120,
+      "plain_sha256": "1337c461977dd311a38097b828d151eda2c46f63733ddd939cbbca834293f315",
+      "plain_size": 83
+    },
+    "options.txt": {
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/derivaland/options.txt",
+      "sha256": "da893fa28b7cd964d921659e9a5518a367c1becc163fd4420138839ab239b509",
+      "size": 5795
+    }
+  }
+}
