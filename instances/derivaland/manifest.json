@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -184,10 +184,10 @@
     "mods/DerivaMod-0.18.4.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
       "enc": true,
-      "sha256": "8c1bf4aa20e2717d6c579f0aa0f7073b37e6285c5402102b40b4c2533ef84fa1",
-      "size": 7427953,
-      "plain_sha256": "954018a9c5d83528dd94027845ce46b4471749438200b3dac3d2b13c3faf4380",
-      "plain_size": 7427916
+      "sha256": "1dcd12b53b818ca6895b96fb3eb3acdacc2f1e78bdf73d03805bd4b8d5bcc33c",
+      "size": 7435036,
+      "plain_sha256": "ac7f3529acfda4133bd0366c8fbfc03fec93602a6619d4a38de02d9a2b0b9882",
+      "plain_size": 7434999
     },
     "mods/disable-dimensions-0.8.0+mod.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/disable-dimensions-0.8.0%2Bmod.jar.enc",
