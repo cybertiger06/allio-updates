@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -323,12 +323,12 @@
       "plain_size": 93741596
     },
     "mods/DerivaMod-0.18.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/04c42596f20f63aed4a6144b90770e8ed459b442/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
       "enc": true,
-      "sha256": "1ac55e6804572a946d70071efc48a973e514fb723c56200f33e327ba6020de53",
-      "size": 7848778,
-      "plain_sha256": "e49c6a0b64a440df12709f9512dc6cb28062f0c8e7c296faa5bfba9f42baa4d6",
-      "plain_size": 7848741
+      "sha256": "2bc102173a15dae9c2708f8853b9a3ca1b7d7f8a76f33e69699a134bbf0cd88c",
+      "size": 7848796,
+      "plain_sha256": "1fc6e7d7d93dddb39e6f50b25aec92513a8dee66739c94a37a0c667aecccc04c",
+      "plain_size": 7848759
     },
     "mods/disenchanting_table-merged-1.21.1-5.0.2.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/04c42596f20f63aed4a6144b90770e8ed459b442/instances/derivaland/mods/disenchanting_table-merged-1.21.1-5.0.2.jar.enc",
