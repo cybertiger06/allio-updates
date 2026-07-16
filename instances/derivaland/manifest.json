@@ -1,5 +1,5 @@
 {
-  "version": "1.0.10",
+  "version": "1.0.11",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -7579,10 +7579,10 @@
       "plain_size": 83
     },
     "options.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/b5dd1ae6fbd2f74e4cc42ebf3097131c03e250e2/instances/derivaland/options.txt",
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/derivaland/options.txt",
       "enc": false,
-      "sha256": "eee9a022debafc31ad78eb7797af6d5f8ad665f166908b855b9055f400468f5a",
-      "size": 8173
+      "sha256": "60c6a607cf257326a29fd8573731f503aab299531fb0638c0926e47155ad63e9",
+      "size": 8550
     },
     "config/axiom/axiom.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/04c42596f20f63aed4a6144b90770e8ed459b442/instances/derivaland/config/axiom/axiom.json.enc",
