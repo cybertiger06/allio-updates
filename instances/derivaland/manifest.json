@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -323,7 +323,7 @@
       "plain_size": 93741596
     },
     "mods/DerivaMod-0.18.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/cfe36d9bb17ddbbceca59446ac5e88622d84e49d/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
       "enc": true,
       "sha256": "2bc102173a15dae9c2708f8853b9a3ca1b7d7f8a76f33e69699a134bbf0cd88c",
       "size": 7848796,
