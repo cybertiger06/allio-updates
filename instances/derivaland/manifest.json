@@ -1,5 +1,5 @@
 {
-  "version": "1.0.19",
+  "version": "1.0.20",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -2029,14 +2029,6 @@
       "size": 53915,
       "plain_sha256": "cc1d097e6ae547713ca38627e077f2d44af9ddd19ec2edcdce0ac0b5cd0eb155",
       "plain_size": 53878
-    },
-    "mods/brigbrains-1.0.15.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/af1001327e088e7ce54483d5eb32a71ff08c387c/instances/derivaland/mods/brigbrains-1.0.15.jar.enc",
-      "enc": true,
-      "sha256": "c3a234fd4b912cf9e7bc1bb934fbf22f3071925dfaa2dbd0d2dd13806e77684a",
-      "size": 1025162,
-      "plain_sha256": "5e23a28a38f919082844902dda62cdfb04261d6c7a9655890d16c7219c4a5723",
-      "plain_size": 1025125
     },
     "mods/chococraft-1.21.1-fabric-0.11.12.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/af1001327e088e7ce54483d5eb32a71ff08c387c/instances/derivaland/mods/chococraft-1.21.1-fabric-0.11.12.jar.enc",
@@ -8716,12 +8708,20 @@
       "plain_size": 153587
     },
     "mods/DerivaMod-0.18.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/af1001327e088e7ce54483d5eb32a71ff08c387c/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
       "enc": true,
-      "sha256": "f3b0115108e5ed5869ad12af1432fa70d2ecc082eb004c8fa094fa7be9ab21a1",
-      "size": 14117328,
-      "plain_sha256": "729993f98bbcb110e0338544f0d697510ffe4bb00015e9621da4334393f0dbf0",
-      "plain_size": 14117291
+      "sha256": "50d3239b1faac2eaa42309f4c3710eae8768c59aa1c15750049bad77985640b3",
+      "size": 14275794,
+      "plain_sha256": "af2059db779c0576cc99bbba99d597b083fbda6135074c9cf02a2fcc8a0261b6",
+      "plain_size": 14275757
+    },
+    "mods/brigbrains-1.0.16.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/brigbrains-1.0.16.jar.enc",
+      "enc": true,
+      "sha256": "448e49dbe16bb8d277b35eef9258a55c04b3efc3a21ead52feb16a8a89d3cdde",
+      "size": 1026989,
+      "plain_sha256": "adc4f37742637c1c293a7129834bcca839681cb28e636a73867907ee7233ec40",
+      "plain_size": 1026952
     }
   },
   "delete": [
@@ -8773,6 +8773,7 @@
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/tab_selected_highlighted.png.mcmeta",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png",
-    "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png"
+    "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png",
+    "mods/brigbrains-1.0.15.jar"
   ]
 }
