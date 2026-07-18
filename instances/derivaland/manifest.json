@@ -1,5 +1,5 @@
 {
-  "version": "1.0.18",
+  "version": "1.0.19",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -8714,6 +8714,14 @@
       "size": 153624,
       "plain_sha256": "de2326c6ba11f592cc50c925dee3b021950725a10b66797865aa2dc5c856d2c5",
       "plain_size": 153587
+    },
+    "mods/DerivaMod-0.18.4.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
+      "enc": true,
+      "sha256": "f3b0115108e5ed5869ad12af1432fa70d2ecc082eb004c8fa094fa7be9ab21a1",
+      "size": 14117328,
+      "plain_sha256": "729993f98bbcb110e0338544f0d697510ffe4bb00015e9621da4334393f0dbf0",
+      "plain_size": 14117291
     }
   },
   "delete": [
@@ -8721,7 +8729,6 @@
     "config/fancymenu/assets/dllogo.png",
     "config/fancymenu/assets/dllogo16.png",
     "config/fancymenu/assets/dllogo32.png",
-    "mods/DerivaMod-0.18.4.jar",
     "mods/DerivaMod-0.18.4.jar.bak-before-derivaland-update-20260716155448",
     "mods/brigbrains-1.0.0.jar.disabled",
     "mods/brigbrains-1.0.11.jar.disabled",
