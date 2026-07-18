@@ -1,5 +1,5 @@
 {
-  "version": "1.0.16",
+  "version": "1.0.17",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -342,6 +342,14 @@
       "plain_sha256": "a6db2c29fb9f75b8b2c47358d63f76d05f1c11a3cf8f89f2ee43ada5d67a9be1",
       "plain_size": 216
     },
+    "config/easy_npc/preset/humanoid/b2c6b49c-c44d-4575-a13d-bcd3fb1d34d0.npc.nbt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/easy_npc/preset/humanoid/b2c6b49c-c44d-4575-a13d-bcd3fb1d34d0.npc.nbt.enc",
+      "enc": true,
+      "sha256": "a10b471429efffc031961e4134798139de05692fc5260cab00f945064b29cfa6",
+      "size": 1865,
+      "plain_sha256": "b4e1e49269455282ac15157dd22cdcf2d7c8d959a20bbdaf847f5af1184510ac",
+      "plain_size": 1828
+    },
     "config/easy_npc/render_entity_type_support.cfg": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/config/easy_npc/render_entity_type_support.cfg.enc",
       "enc": true,
@@ -623,11 +631,11 @@
       "plain_size": 17775
     },
     "config/fabric/indigo-renderer.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
       "enc": true,
-      "sha256": "6ae6f979490270d6db0bc0991ea7c0f7715c7d309b5fefb70fe41e2b7d01c5c4",
+      "sha256": "789e67e0901afa8a0003aaf4686ed5efc150e11f56270088dc3b0b20fe61945c",
       "size": 328,
-      "plain_sha256": "b14de7a00e58fb1d55f3777d54bb0d7f4e3149f2b3d45e56a215bce1445c7b25",
+      "plain_sha256": "0e0b3393ece408e1c316ab73510228c2ae6ace8c1a91e3497c15ff6728caa017",
       "plain_size": 291
     },
     "config/fancymenu/assets/alliologo.png": {
@@ -863,12 +871,12 @@
       "plain_size": 31
     },
     "config/iris.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/config/iris.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/iris.properties.enc",
       "enc": true,
-      "sha256": "b4c06346c2ecbcc4fd175eb7e21786451de505b9b438b48518e8362e31ff6867",
-      "size": 320,
-      "plain_sha256": "629ed6c2d131ee6e077f68fe807bc440084a48b8c2f5db780bd2e0ab11a01f87",
-      "plain_size": 283
+      "sha256": "638d4dd09d8ac4f3e19192eb6308201ca948a006e88846e27d4022fd0e7c4b48",
+      "size": 337,
+      "plain_sha256": "89adcda30d0c4ee8ebc0c9946b884860799fe3e12649f7593e768377ae6af442",
+      "plain_size": 300
     },
     "config/jsonem.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/config/jsonem.properties.enc",
@@ -1862,14 +1870,6 @@
       "plain_sha256": "c07f322040671f7708a51cda16b81375b24cf313669ebd562e0e8dd4ff4ed3eb",
       "plain_size": 1239340
     },
-    "mods/DerivaMod-0.18.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
-      "enc": true,
-      "sha256": "63ed536e7fd8685080b2da1e1f482ae39168c28055699882539ed33e4a61a37b",
-      "size": 13912908,
-      "plain_sha256": "67d3f26e7dce8fc46afd7b6b7de22cbd0f0c2346b81662fb2e9110fa10c23bdc",
-      "plain_size": 13912871
-    },
     "mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/mods/DungeonsArise-1.21.1-2.1.68-fabric-release.jar.enc",
       "enc": true,
@@ -2030,13 +2030,13 @@
       "plain_sha256": "cc1d097e6ae547713ca38627e077f2d44af9ddd19ec2edcdce0ac0b5cd0eb155",
       "plain_size": 53878
     },
-    "mods/brigbrains-1.0.13.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/mods/brigbrains-1.0.13.jar.enc",
+    "mods/brigbrains-1.0.15.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/brigbrains-1.0.15.jar.enc",
       "enc": true,
-      "sha256": "5d23950338f50365ec99b2d6d41a329911be1c58eee232380183cfcbe8a28d93",
-      "size": 1006826,
-      "plain_sha256": "35b5d57be03fa916c2ccc5f1aaf38277fe7368e06a96e4c3e2f3801591d929de",
-      "plain_size": 1006789
+      "sha256": "c3a234fd4b912cf9e7bc1bb934fbf22f3071925dfaa2dbd0d2dd13806e77684a",
+      "size": 1025162,
+      "plain_sha256": "5e23a28a38f919082844902dda62cdfb04261d6c7a9655890d16c7219c4a5723",
+      "plain_size": 1025125
     },
     "mods/chococraft-1.21.1-fabric-0.11.12.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/mods/chococraft-1.21.1-fabric-0.11.12.jar.enc",
@@ -2357,6 +2357,14 @@
       "size": 1183596,
       "plain_sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "plain_size": 1183559
+    },
+    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "1303255e5e7b613a389864ee77043113869e03286aa003a22c513db91141bae7",
+      "size": 5832000,
+      "plain_sha256": "b2ebbccb2ca1a3a6f02e906c554d2097f4a46bfcbe8a7d7bae8625faf866d185",
+      "plain_size": 5831963
     },
     "mods/placeholder-api-2.4.2+1.21.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/d98d5758e844b3865a8c2ebd27e63349137e47e2/instances/derivaland/mods/placeholder-api-2.4.2%2B1.21.jar.enc",
@@ -8713,11 +8721,12 @@
     "config/fancymenu/assets/dllogo.png",
     "config/fancymenu/assets/dllogo16.png",
     "config/fancymenu/assets/dllogo32.png",
+    "mods/DerivaMod-0.18.4.jar",
     "mods/DerivaMod-0.18.4.jar.bak-before-derivaland-update-20260716155448",
     "mods/brigbrains-1.0.0.jar.disabled",
     "mods/brigbrains-1.0.11.jar.disabled",
     "mods/brigbrains-1.0.12.jar.disabled",
-    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar",
+    "mods/brigbrains-1.0.13.jar",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/backing_color.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/social_interactions/mute_button.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/social_interactions/mute_button_highlighted.png",
