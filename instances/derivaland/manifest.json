@@ -1,5 +1,5 @@
 {
-  "version": "1.0.14",
+  "version": "1.0.15",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -2357,14 +2357,6 @@
       "size": 1183596,
       "plain_sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "plain_size": 1183559
-    },
-    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c98d15a3a919cb6ae6c972879aec506a17eab757/instances/derivaland/mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar.enc",
-      "enc": true,
-      "sha256": "7f136da7ef25cf0610b4191269e2f87ce5367ae811a92851011bfea32f88975b",
-      "size": 5832000,
-      "plain_sha256": "b2ebbccb2ca1a3a6f02e906c554d2097f4a46bfcbe8a7d7bae8625faf866d185",
-      "plain_size": 5831963
     },
     "mods/placeholder-api-2.4.2+1.21.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c98d15a3a919cb6ae6c972879aec506a17eab757/instances/derivaland/mods/placeholder-api-2.4.2%2B1.21.jar.enc",
@@ -8725,6 +8717,7 @@
     "mods/brigbrains-1.0.0.jar.disabled",
     "mods/brigbrains-1.0.11.jar.disabled",
     "mods/brigbrains-1.0.12.jar.disabled",
+    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/backing_color.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/social_interactions/mute_button.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/social_interactions/mute_button_highlighted.png",
