@@ -1,5 +1,5 @@
 {
-  "version": "1.0.20",
+  "version": "1.0.21",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -8708,20 +8708,20 @@
       "plain_size": 153587
     },
     "mods/DerivaMod-0.18.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
       "enc": true,
-      "sha256": "50d3239b1faac2eaa42309f4c3710eae8768c59aa1c15750049bad77985640b3",
-      "size": 14275794,
-      "plain_sha256": "af2059db779c0576cc99bbba99d597b083fbda6135074c9cf02a2fcc8a0261b6",
-      "plain_size": 14275757
+      "sha256": "8eedbaebefef0394f963c747bf74937a9559f545bedd3113e196b274c6fec384",
+      "size": 15361339,
+      "plain_sha256": "4ee82710564424cfdbda8b77e397bd5a06da7ecfe1ba524885bc98971a7e06b7",
+      "plain_size": 15361302
     },
-    "mods/brigbrains-1.0.16.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/brigbrains-1.0.16.jar.enc",
+    "mods/brigbrains-1.0.19.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/brigbrains-1.0.19.jar.enc",
       "enc": true,
-      "sha256": "448e49dbe16bb8d277b35eef9258a55c04b3efc3a21ead52feb16a8a89d3cdde",
-      "size": 1026989,
-      "plain_sha256": "adc4f37742637c1c293a7129834bcca839681cb28e636a73867907ee7233ec40",
-      "plain_size": 1026952
+      "sha256": "84bc062971212262b3d9743863f0d6860f36ad8946083a99e9c91cda583c690b",
+      "size": 1049072,
+      "plain_sha256": "8708602d677daf75be2b3b307c7b2e8487dbb5d4778caa3d5c496f56467ebcb2",
+      "plain_size": 1049035
     }
   },
   "delete": [
@@ -8774,6 +8774,7 @@
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png",
-    "mods/brigbrains-1.0.15.jar"
+    "mods/brigbrains-1.0.15.jar",
+    "mods/brigbrains-1.0.16.jar"
   ]
 }
