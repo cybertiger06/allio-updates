@@ -1,5 +1,5 @@
 {
-  "version": "1.0.21",
+  "version": "1.0.22",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -871,11 +871,11 @@
       "plain_size": 31
     },
     "config/iris.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/iris.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/943748142a4db44fbfa64853d3bc8bbe83764cdc/instances/derivaland/config/iris.properties.enc",
       "enc": true,
-      "sha256": "638d4dd09d8ac4f3e19192eb6308201ca948a006e88846e27d4022fd0e7c4b48",
+      "sha256": "22261ad60e17f4cc1cd46b01dd55c7e4cae952b40e2fd85e65914a06c577e9e6",
       "size": 337,
-      "plain_sha256": "89adcda30d0c4ee8ebc0c9946b884860799fe3e12649f7593e768377ae6af442",
+      "plain_sha256": "d69ac7e69e2f2504f5bf980cadcea2883d35d7375a3914be193bd5a5fb0e0344",
       "plain_size": 300
     },
     "config/jsonem.properties": {
@@ -1141,14 +1141,6 @@
       "size": 339,
       "plain_sha256": "b84921e870e82005697911c5de6ca299ce37522b93aa59328b2312573d1f46d1",
       "plain_size": 302
-    },
-    "config/pfm.json": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/pfm.json.enc",
-      "enc": true,
-      "sha256": "3f5462028e3307f872e7a73e38a2d5df3b5e371749ad392910251510f8221044",
-      "size": 445,
-      "plain_sha256": "c9a0306ff85ac3518a3ecd8694d1bae242cff042df367aa8443f5aa5cd052375",
-      "plain_size": 408
     },
     "config/pickaxetrims.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/pickaxetrims.json.enc",
@@ -2350,14 +2342,6 @@
       "plain_sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "plain_size": 1183559
     },
-    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar.enc",
-      "enc": true,
-      "sha256": "1303255e5e7b613a389864ee77043113869e03286aa003a22c513db91141bae7",
-      "size": 5832000,
-      "plain_sha256": "b2ebbccb2ca1a3a6f02e906c554d2097f4a46bfcbe8a7d7bae8625faf866d185",
-      "plain_size": 5831963
-    },
     "mods/placeholder-api-2.4.2+1.21.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/placeholder-api-2.4.2%2B1.21.jar.enc",
       "enc": true,
@@ -2503,9 +2487,9 @@
       "plain_size": 1131265
     },
     "options.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/options.txt",
-      "sha256": "a2e459d60832c0107c2f29503fe609310aa4e959484b87a17aeabe4887139d7a",
-      "size": 8557
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/943748142a4db44fbfa64853d3bc8bbe83764cdc/instances/derivaland/options.txt",
+      "sha256": "99a6c041415ebe78972c47b77f138c9d85deed3bf5dd7942c9ecb736682c0f1c",
+      "size": 8534
     },
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/Selected Packs.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/resourcepacks/VanillaTweaks_r385042_MC1.21.x/Selected%20Packs.txt.enc",
@@ -8775,6 +8759,8 @@
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_disabled.png",
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/assets/minecraft/textures/gui/sprites/widget/unlocked_button_highlighted.png",
     "mods/brigbrains-1.0.15.jar",
-    "mods/brigbrains-1.0.16.jar"
+    "mods/brigbrains-1.0.16.jar",
+    "config/pfm.json",
+    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar"
   ]
 }
