@@ -1,5 +1,5 @@
 {
-  "version": "1.0.22",
+  "version": "1.0.23",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -207,12 +207,12 @@
       "plain_size": 238
     },
     "config/brigbrains.json": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/brigbrains.json.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/brigbrains.json.enc",
       "enc": true,
-      "sha256": "6f252eb689d9da81449e4abc936aaac4c41f1cf30e2b0e0cb581fae40a8b1133",
-      "size": 317,
-      "plain_sha256": "f357def9075470e3393649b55d41392a13c053bb788def3c4a41ba76c9e72391",
-      "plain_size": 280
+      "sha256": "44d3b2094389bd828eb4c368d7dd6ff4e259ed8f4cf50ea885670996f588ac21",
+      "size": 347,
+      "plain_sha256": "bbcbcfbd8e44c0de2248e002c8e45bcf84e923f1793d5ac1d546d2cbbc9b64d4",
+      "plain_size": 310
     },
     "config/cardinal-components-api.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/cardinal-components-api.properties.enc",
@@ -631,11 +631,11 @@
       "plain_size": 17775
     },
     "config/fabric/indigo-renderer.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
       "enc": true,
-      "sha256": "789e67e0901afa8a0003aaf4686ed5efc150e11f56270088dc3b0b20fe61945c",
+      "sha256": "80eb3ba46bf391818e698f6ce00541f915431e0d2eb37e615d8a4e82e277ec9d",
       "size": 328,
-      "plain_sha256": "0e0b3393ece408e1c316ab73510228c2ae6ace8c1a91e3497c15ff6728caa017",
+      "plain_sha256": "df2beeabfaf2c045873931d03f3de720ef5417bb8e6743ce714ee1957fbffa8d",
       "plain_size": 291
     },
     "config/fancymenu/assets/alliologo.png": {
@@ -871,12 +871,12 @@
       "plain_size": 31
     },
     "config/iris.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/943748142a4db44fbfa64853d3bc8bbe83764cdc/instances/derivaland/config/iris.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/iris.properties.enc",
       "enc": true,
-      "sha256": "22261ad60e17f4cc1cd46b01dd55c7e4cae952b40e2fd85e65914a06c577e9e6",
-      "size": 337,
-      "plain_sha256": "d69ac7e69e2f2504f5bf980cadcea2883d35d7375a3914be193bd5a5fb0e0344",
-      "plain_size": 300
+      "sha256": "53a15749eb152ce854ca7f7837b25bce216de81dc8b2fc1cd191630a1e579f93",
+      "size": 338,
+      "plain_sha256": "b34d1c443b2ebfb20b60ff65848b723dbf5d3bd9c09416b562fc448268da872c",
+      "plain_size": 301
     },
     "config/jsonem.properties": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/jsonem.properties.enc",
@@ -959,12 +959,12 @@
       "plain_size": 754
     },
     "config/litematica/litematica_64.95.151.98_25572_dim_minecraft_overworld.json": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/litematica/litematica_64.95.151.98_25572_dim_minecraft_overworld.json.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/litematica/litematica_64.95.151.98_25572_dim_minecraft_overworld.json.enc",
       "enc": true,
-      "sha256": "fb69c219ab5bb3bed275f16443a7c710b63c46171349d4710866a25bd2a63210",
-      "size": 791,
-      "plain_sha256": "47a9943d32f2622b395060feabcaa13f59b77c5a29975d514c1d0e6cceeeeb22",
-      "plain_size": 754
+      "sha256": "5711695e34a83096035b803d36b9aa766c347a3286b8300357863f7c907e0e8b",
+      "size": 2037,
+      "plain_sha256": "f16caba0f5213c724809bef987f7b13b5c46cb1bf036fb64d4db554291c8a92c",
+      "plain_size": 2000
     },
     "config/litematica/litematica_64.95.151.98_25572_dim_minecraft_the_nether.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/litematica/litematica_64.95.151.98_25572_dim_minecraft_the_nether.json.enc",
@@ -1159,11 +1159,11 @@
       "plain_size": 1571
     },
     "config/plasmovoice/meta_cache.json": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/config/plasmovoice/meta_cache.json.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/plasmovoice/meta_cache.json.enc",
       "enc": true,
-      "sha256": "4cbca9958c8da3d4f5e60ced3c06824469d95852ef00f71204266560807cb3ba",
+      "sha256": "80a3f32b5bf0d49b623cacf6661ede116c86e578a99678522b1670f335893ffa",
       "size": 692,
-      "plain_sha256": "a163108dc7966c14af34416be4bdb4a27c5d22c9b8b41b2ea849b5342afdbf65",
+      "plain_sha256": "7523b2198ccbb56189d7ad76208d278c1f9f41486ba7e209f4f63cd2dbe0a1cf",
       "plain_size": 655
     },
     "config/plasmovoice/server/config.toml": {
@@ -1806,14 +1806,6 @@
       "plain_sha256": "1337c461977dd311a38097b828d151eda2c46f63733ddd939cbbca834293f315",
       "plain_size": 83
     },
-    "mods/Axiom-5.4.2-for-MC1.21.1.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/Axiom-5.4.2-for-MC1.21.1.jar.enc",
-      "enc": true,
-      "sha256": "84906dd1b640c23cac62bbdd3f590febaa5aa988805eabd5ae201cd9f5301cd4",
-      "size": 47067453,
-      "plain_sha256": "ecb14b29e7eb4cdc5c1f299782d32a2c26202292a8a9b4060a9104526e6d7267",
-      "plain_size": 47067416
-    },
     "mods/Better-Crossbows-Fabric-1.21.1-1.0.0.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/Better-Crossbows-Fabric-1.21.1-1.0.0.jar.enc",
       "enc": true,
@@ -2222,14 +2214,6 @@
       "plain_sha256": "94e955443ce3817f798c74cbbbb4973e7b55c8b6dec12808b9378e74376b2eb9",
       "plain_size": 2022585
     },
-    "mods/litematica-fabric-1.21-0.19.60.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/litematica-fabric-1.21-0.19.60.jar.enc",
-      "enc": true,
-      "sha256": "e9828ddc1757179e6f2701e91d4d0a820ded977ed73a3380aa5f513a9102e853",
-      "size": 1578491,
-      "plain_sha256": "0248b259fe9370fc848e1154fd8441014f99f44167c9261adcdef44ef75541e7",
-      "plain_size": 1578454
-    },
     "mods/lithium-fabric-mc1.21.1-0.13.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/mods/lithium-fabric-mc1.21.1-0.13.1.jar.enc",
       "enc": true,
@@ -2487,9 +2471,9 @@
       "plain_size": 1131265
     },
     "options.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/943748142a4db44fbfa64853d3bc8bbe83764cdc/instances/derivaland/options.txt",
-      "sha256": "99a6c041415ebe78972c47b77f138c9d85deed3bf5dd7942c9ecb736682c0f1c",
-      "size": 8534
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/options.txt",
+      "sha256": "4ecde87afddf5ccc1db700c59d808d8f3ea25cf00f1dbc39f1c2843c7b197569",
+      "size": 7466
     },
     "resourcepacks/VanillaTweaks_r385042_MC1.21.x/Selected Packs.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/c9baf50148ae719fb87aa9884ba2fa88f6312193/instances/derivaland/resourcepacks/VanillaTweaks_r385042_MC1.21.x/Selected%20Packs.txt.enc",
@@ -8692,12 +8676,12 @@
       "plain_size": 153587
     },
     "mods/DerivaMod-0.18.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/mods/DerivaMod-0.18.4.jar.enc",
       "enc": true,
-      "sha256": "8eedbaebefef0394f963c747bf74937a9559f545bedd3113e196b274c6fec384",
-      "size": 15361339,
-      "plain_sha256": "4ee82710564424cfdbda8b77e397bd5a06da7ecfe1ba524885bc98971a7e06b7",
-      "plain_size": 15361302
+      "sha256": "8d39d1098f19a50e5d3a26645218a39ac38969c95bf5a2bb6ceea160a59339c1",
+      "size": 52078614,
+      "plain_sha256": "9b05ef694684115ed8ad2a549af25e10ed46e6c777d6f4e82fcdaa8a3c9208a7",
+      "plain_size": 52078577
     },
     "mods/brigbrains-1.0.19.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/brigbrains-1.0.19.jar.enc",
@@ -8706,6 +8690,22 @@
       "size": 1049072,
       "plain_sha256": "8708602d677daf75be2b3b307c7b2e8487dbb5d4778caa3d5c496f56467ebcb2",
       "plain_size": 1049035
+    },
+    "config/derivamod-emotes.txt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/derivamod-emotes.txt.enc",
+      "enc": true,
+      "sha256": "91bd49ba6632016ac615279ebfba9fea4ab183e6ce1203001ee396d51249b27f",
+      "size": 105,
+      "plain_sha256": "69bd134e239c0d610443020c882524ea6cc23a7321dcfa3608d1c6c1dbc94e6d",
+      "plain_size": 68
+    },
+    "config/easy_npc/preset/humanoid/f4811b14-eac3-4c99-baba-ee0490eff167.npc.nbt": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/f67d10917b2b034b1515c2a8bd1de46f728ee191/instances/derivaland/config/easy_npc/preset/humanoid/f4811b14-eac3-4c99-baba-ee0490eff167.npc.nbt.enc",
+      "enc": true,
+      "sha256": "31aea4edefbcea7909c4cdc18b32a3661e72adbaf15eaf7e2792e143c468249b",
+      "size": 1925,
+      "plain_sha256": "b167b5669ed61c607197dceedd274af5c77beed95fc36b7b0f9315eb27dd57bb",
+      "plain_size": 1888
     }
   },
   "delete": [
@@ -8761,6 +8761,8 @@
     "mods/brigbrains-1.0.15.jar",
     "mods/brigbrains-1.0.16.jar",
     "config/pfm.json",
-    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar"
+    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar",
+    "mods/Axiom-5.4.2-for-MC1.21.1.jar",
+    "mods/litematica-fabric-1.21-0.19.60.jar"
   ]
 }
