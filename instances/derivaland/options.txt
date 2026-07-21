@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/derivapack","moonlight:merged_pack","file/VanillaTweaks_r385042_MC1.21.x"]
+resourcePacks:["pfm-asset-resources","vanilla","fabric","file/derivapack","moonlight:merged_pack","file/VanillaTweaks_r385042_MC1.21.x"]
 incompatibleResourcePacks:["cmdcam","comforts","croptopia","decocraft","disenchanting_table","drippyloadingscreen","dungeons_arise","easy_npc","easy_npc_config_ui","fancymenu","justzoom","konkrete","modernfix","more_bows_and_arrows","spectrelib","tectonic","terralith","worldedit","xaerolib","xaerominimap","xaeroworldmap"]
 lastServer:
 lang:en_us
