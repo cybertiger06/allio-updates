@@ -1,5 +1,5 @@
 {
-  "version": "1.0.25",
+  "version": "1.0.26",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -94,14 +94,6 @@
       "plain_sha256": "cfe13c77bfa41703493d83dbc1d75c07c02194ce8a9c5f5331c0b3c8dce7e0f2",
       "plain_size": 110498
     },
-    "mods/blockcreator-1.0.3.jar.disabled": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/blockcreator-1.0.3.jar.disabled.enc",
-      "enc": true,
-      "sha256": "6243c0016f58abcae9fcf5d9fecd6c1e0acd653292971064655fd45eba828f73",
-      "size": 53915,
-      "plain_sha256": "cc1d097e6ae547713ca38627e077f2d44af9ddd19ec2edcdce0ac0b5cd0eb155",
-      "plain_size": 53878
-    },
     "mods/blockcreator-1.0.4.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/blockcreator-1.0.4.jar.enc",
       "enc": true,
@@ -141,14 +133,6 @@
       "size": 343016,
       "plain_sha256": "3412b170247dde7351e0945d857e713bedf6fae05ab300aa74d06ffbde0ca07e",
       "plain_size": 342979
-    },
-    "mods/cinematica-fabric-1.0.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/cinematica-fabric-1.0.0.jar.enc",
-      "enc": true,
-      "sha256": "e2123876abffc0522ea9da34170439636129cfd771583c19f857aa50eb48c41e",
-      "size": 21889,
-      "plain_sha256": "c2de72ec0136790b128a217ce343aec49b2488e80b5c1a1916bf4ac4d4bb53ae",
-      "plain_size": 21852
     },
     "mods/cloth-config-15.0.140-fabric.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/cloth-config-15.0.140-fabric.jar.enc",
@@ -207,12 +191,12 @@
       "plain_size": 93741596
     },
     "mods/DerivaMod-0.18.5.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/58f89d65766b11413dc0da0de67572f5535c67c5/instances/derivaland/mods/DerivaMod-0.18.5.jar.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/mods/DerivaMod-0.18.5.jar.enc",
       "enc": true,
-      "sha256": "d11e3311a4055a81bfd0bc6361ad927c0d3a16206ce381f80dd982c5c2b779e8",
-      "size": 18655095,
-      "plain_sha256": "792e98a2e263b49d1c32706676a73c87a9a07f24268ecb179666a1452ad4fb4b",
-      "plain_size": 18655058
+      "sha256": "91378ebf3099d40036ab96ed32b4e7d93f8588586586c122dae6184f56d82246",
+      "size": 18696091,
+      "plain_sha256": "897a71951680b9d73a8f2f9b9916eb0de2a3dd6ad7517f2cfc1bc817eb64e4fe",
+      "plain_size": 18696054
     },
     "mods/disenchanting_table-merged-1.21.1-5.0.2.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/disenchanting_table-merged-1.21.1-5.0.2.jar.enc",
@@ -509,14 +493,6 @@
       "size": 1183596,
       "plain_sha256": "825180ce17bc012fb450653b14df9f32479dcdd073fc3f133bb47462f5a63cec",
       "plain_size": 1183559
-    },
-    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar.enc",
-      "enc": true,
-      "sha256": "8ee72cd5158a593bae85c2398e6facf15b91cded345026cd92ed0997b122829e",
-      "size": 5832000,
-      "plain_sha256": "b2ebbccb2ca1a3a6f02e906c554d2097f4a46bfcbe8a7d7bae8625faf866d185",
-      "plain_size": 5831963
     },
     "mods/placeholder-api-2.4.2+1.21.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/placeholder-api-2.4.2%2B1.21.jar.enc",
@@ -895,12 +871,12 @@
       "plain_size": 749
     },
     "config/derivamod-emotes.txt": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/derivamod-emotes.txt.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/derivamod-emotes.txt.enc",
       "enc": true,
-      "sha256": "691d32d1e8bd19d2e0617c366d4726be15a36a8da61d13501a242232cc39011f",
-      "size": 101,
-      "plain_sha256": "e65defac73469f97e80a2efcb9bbae8fbf5304b322f0ccd08a2865f54ead2df0",
-      "plain_size": 64
+      "sha256": "9e33566750876a3fdd23c284361e9a3de16a10468dc62ab6c35d1f3d2cc0d5d0",
+      "size": 97,
+      "plain_sha256": "73091fde58e760452dc8293206bc8355db576b438038b46f631e24574a6d3814",
+      "plain_size": 60
     },
     "config/disenchanting_table-client.toml": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/disenchanting_table-client.toml.enc",
@@ -967,11 +943,11 @@
       "plain_size": 31
     },
     "config/iris.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/iris.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/iris.properties.enc",
       "enc": true,
-      "sha256": "502019aef5ebd283b1a79f6697a5751491e2bad08296f97b4b6ecaf76e57517c",
+      "sha256": "8386c7e1b119167575cf93d1c96ad22f0591326b4310c17c20490a1f20f6cd8c",
       "size": 338,
-      "plain_sha256": "008ce532be74a200ae081ccf1e17b19818088e0a3a332008c94c1d7bc5804bc1",
+      "plain_sha256": "21869ced29d1fafd244ea68becdde94e724d4ea46fda24b0f4186f84c258fbd9",
       "plain_size": 301
     },
     "config/jsonem.properties": {
@@ -1647,11 +1623,11 @@
       "plain_size": 17775
     },
     "config/fabric/indigo-renderer.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/fabric/indigo-renderer.properties.enc",
       "enc": true,
-      "sha256": "3b373500021eb546b9e1982f8953cb25396fab65efa1cabf4bdd567c5a38a13a",
+      "sha256": "2a7d4fd94309b0f8d416f31a57a30b9bd04864039ca27ed1c9bb61f391940776",
       "size": 328,
-      "plain_sha256": "5aa5772e6c0ed36276aa2e145c2108f455bc0485208b914e5fa672e5fcc3bdd2",
+      "plain_sha256": "ec071e1d663d91c66ed7935d1349c0a624af3fe2b06d9d4e8aaa3d45d675a8d1",
       "plain_size": 291
     },
     "config/fancymenu/customizablemenus.txt": {
@@ -2007,20 +1983,20 @@
       "plain_size": 754
     },
     "config/plasmovoice/client.toml": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/client.toml.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/plasmovoice/client.toml.enc",
       "enc": true,
-      "sha256": "e3cb9fa45ea0f2fd8591de7b7330fea09e112ee601b94541898b95e7887ad933",
-      "size": 1608,
-      "plain_sha256": "4ef3bc46db24fd5ad2a18e17de1d7d87ffdec500a08a68b7e8c810e1d62c7f21",
-      "plain_size": 1571
+      "sha256": "67d36abcf324ca9d3fe765ebe2bd9f129cc34d9c196f77b0eda9542ebf708573",
+      "size": 1639,
+      "plain_sha256": "d2b5947e88f8b8a1b9fd47fdc1d9bd14b015f43fd97b828095d3c4243e92d1ce",
+      "plain_size": 1602
     },
     "config/plasmovoice/meta_cache.json": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/meta_cache.json.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/plasmovoice/meta_cache.json.enc",
       "enc": true,
-      "sha256": "905b8fc7be9f4dab258f5cbe0cb2fab44752aa40c2818a262f42b7b297a16fc6",
-      "size": 692,
-      "plain_sha256": "3cb0f4fc37cfa093d4a27a949c2e402f379a1f0d4e3f4546fbef61210f51ca6c",
-      "plain_size": 655
+      "sha256": "6026cd623ddee32c5447d02b5b9410b150f9922d6652241aacd653d20e1dcdde",
+      "size": 1346,
+      "plain_sha256": "dfe8a28f54fb26c40ffb7c3c4ca339e4dc22d6035ec3fff1a4bd5c4811e474e4",
+      "plain_size": 1309
     },
     "config/plasmovoice/server/config.toml": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/plasmovoice/server/config.toml.enc",
@@ -2327,20 +2303,20 @@
       "plain_size": 157
     },
     "config/waila/waila.json5": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/waila/waila.json5.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/waila/waila.json5.enc",
       "enc": true,
-      "sha256": "09f9f44bc9684b7bc6f59d88d8a68730a9ac8ed30248f56f014acd9349becee2",
-      "size": 4298,
-      "plain_sha256": "b80ff645bd5145dc776cb087fc87cc17068dbd90aeb284023c88f201c0a07a45",
-      "plain_size": 4261
+      "sha256": "e895c1407fdfc3f8297ef9464e3add4329f8acd40c79c1f613857962bbc715e1",
+      "size": 4528,
+      "plain_sha256": "9c9a61ff75f2f1c3bd74b3df2f2c04ed129d84a7762d9aa753ff1cd9998da5bf",
+      "plain_size": 4491
     },
     "config/waila/waila_plugins.json5": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/waila/waila_plugins.json5.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/waila/waila_plugins.json5.enc",
       "enc": true,
-      "sha256": "ee2667a8ab41b7c343a812b77a2b2fa8a49e8f512016ec4b667a36c6ccf612b5",
-      "size": 11945,
-      "plain_sha256": "ccc574615587c5d790a0dea31180693953bff58e40bfbc7f363e8be2bccf5dfc",
-      "plain_size": 11908
+      "sha256": "d45aa063c36ef60af46e9ad2b028872e3c3c412be7dd16a6b53e75c62c70d21e",
+      "size": 12076,
+      "plain_sha256": "9e730f17da146b3f4136d8b1d4c2d9166efef66a0673120803c9a6ef438eb2e5",
+      "plain_size": 12039
     },
     "config/waila/extra/energy_blacklist.json5": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/waila/extra/energy_blacklist.json5.enc",
@@ -2375,11 +2351,11 @@
       "plain_size": 1175
     },
     "config/worldedit/worldedit.properties": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/worldedit/worldedit.properties.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/worldedit/worldedit.properties.enc",
       "enc": true,
-      "sha256": "bfab76a4efdcac3a390c459667b8395bdb6b0dfc734ec01292246ae01334b6d0",
+      "sha256": "db20ef5b51f4f7455adf6b733413d1dfd4b8dbb3bfe29fcd6b42569acb82648f",
       "size": 2584,
-      "plain_sha256": "109f601c4a00b8c701d59121d89d33cfd346a9b6391910b9764cb2839d285bbb",
+      "plain_sha256": "b01eb33ff7148fd3667fe3ce2cc3fb270eb9c0fb767983c0c73d03ce8d2111f9",
       "plain_size": 2547
     },
     "config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json": {
@@ -2503,12 +2479,12 @@
       "plain_size": 141
     },
     "config/xaero/world-map/profiles/default.cfg": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/world-map/profiles/default.cfg.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/xaero/world-map/profiles/default.cfg.enc",
       "enc": true,
-      "sha256": "ecc527c979220b2ef05b5183d0ed26d034803c5fdd894fd441206f246c97d922",
-      "size": 1416,
-      "plain_sha256": "7b24c882801bcc7f0a8aedc625d419f661fa490fa0e9d5ebe39599a1ce2dcbd5",
-      "plain_size": 1379
+      "sha256": "6f5b50f49235ce2358cd0e5bf5423efa1b38843af0d8bc5d7ee843067bcaeda7",
+      "size": 1417,
+      "plain_sha256": "e013ef288851dce90cd77970aac13b6469db20a702a0fd8ba3a6a8e4b9b6125c",
+      "plain_size": 1380
     },
     "config/xaero/world-map/server_profiles/default.cfg": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/xaero/world-map/server_profiles/default.cfg.enc",
@@ -8719,12 +8695,12 @@
       "plain_size": 153587
     },
     "fancymenu_data/last_world.fmdata": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/fancymenu_data/last_world.fmdata.enc",
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/fancymenu_data/last_world.fmdata.enc",
       "enc": true,
-      "sha256": "b0d04ea1f4000c47f0f8aca7a8104d2cdc3f47dabc5c688e9de8ed66482e2bd5",
-      "size": 120,
-      "plain_sha256": "1337c461977dd311a38097b828d151eda2c46f63733ddd939cbbca834293f315",
-      "plain_size": 83
+      "sha256": "897f62c1cce0b3d56a9b2385ffeb35894df90e3e0ffa8043517193dcdcf6a20a",
+      "size": 175,
+      "plain_sha256": "d74f803d15c637c876de15796cd2824fdab5d9179cda90ac4dace607eaa0c49a",
+      "plain_size": 138
     },
     "fancymenu_data/buddy/buddy_leveling.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/fancymenu_data/buddy/buddy_leveling.json.enc",
@@ -8743,12 +8719,39 @@
       "plain_size": 260
     },
     "options.txt": {
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/derivaland/options.txt",
-      "sha256": "ceb49ea00f52d8918c65a64aeea5186bbbdb322d284e7ec1bed58c400c38b601",
-      "size": 7489
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/options.txt",
+      "sha256": "537725706ce887a68c231de5e8e2b2f83562fe8bcd9c12c4f2bc1afbf350cf96",
+      "size": 7428
+    },
+    "config/cinematica/videos/introderivaland.mp4": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/cinematica/videos/introderivaland.mp4.enc",
+      "enc": true,
+      "sha256": "75175af4967941971b086fc914de650750603e650e8a344f5c0a326ce30f660c",
+      "size": 153437727,
+      "plain_sha256": "d33ab22c370522773e804d3f7ecf6b06b6dfc57b8bb2cdbd3d909c9ada7687a0",
+      "plain_size": 153437690
+    },
+    "config/cinematica/videos/laultimabahiadederivaland.mp4": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/config/cinematica/videos/laultimabahiadederivaland.mp4.enc",
+      "enc": true,
+      "sha256": "b8ebcb3913d6831aa5322a74351e1eb13840cbfac0d04e67dbe3ea1b6c4e5171",
+      "size": 171865665,
+      "plain_sha256": "32cb4a6a508c4959c8ebd3c988cb0af5da14addd8723a0ecf4f25dbce60aded8",
+      "plain_size": 171865628
+    },
+    "mods/cinematica-fabric-3.0.6.jar": {
+      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/eb6d98746614526c9dc532a43f199ac96ea42d00/instances/derivaland/mods/cinematica-fabric-3.0.6.jar.enc",
+      "enc": true,
+      "sha256": "70ee59ea2536e590b49beba3ca5d446bd919e0c99a93ecd9f47b863cc22fbd5c",
+      "size": 121210377,
+      "plain_sha256": "592aa0eef61d8943eb27ffce686de78f6d0b5dc43174d74238859799755d82c9",
+      "plain_size": 121210340
     }
   },
   "delete": [
-    "mods/DerivaMod-0.18.4.jar"
+    "mods/DerivaMod-0.18.4.jar",
+    "mods/blockcreator-1.0.3.jar.disabled",
+    "mods/cinematica-fabric-1.0.0.jar",
+    "mods/paladin-furniture-mod-1.4.4-fabric-mc1.21.1.jar"
   ]
 }
