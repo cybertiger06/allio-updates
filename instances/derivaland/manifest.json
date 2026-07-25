@@ -1,5 +1,5 @@
 {
-  "version": "1.0.29",
+  "version": "1.0.30",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -181,14 +181,6 @@
       "size": 93741633,
       "plain_sha256": "e7e10a03894d97f6f81f05ab1fa6f15a96dcb5323732fd4f2c7312821af74d64",
       "plain_size": 93741596
-    },
-    "mods/DerivaMod-0.18.5.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.29-assets/mods__DerivaMod-0.18.5.jar.enc",
-      "enc": true,
-      "sha256": "004d139fc65d60e296b89d61b112164ee6ae9ee3fc5c1d0a1f64a3a8334aa06f",
-      "size": 18765840,
-      "plain_sha256": "55382ccab8b51f7baf56be4a7f3239f25ba40e55337259bed0311ecc6b4cb7bb",
-      "plain_size": 18765803
     },
     "mods/disenchanting_table-merged-1.21.1-5.0.2.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/disenchanting_table-merged-1.21.1-5.0.2.jar.enc",
@@ -8938,6 +8930,14 @@
       "size": 320965,
       "plain_sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671",
       "plain_size": 320928
+    },
+    "mods/DerivaMod-0.18.5-r2.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.30-assets/mods__DerivaMod-0.18.5-r2.jar.enc",
+      "enc": true,
+      "sha256": "9311311fe6cc3c8e39b9452911383c793bd9fd71900e6aab2c45179bd0c5da83",
+      "size": 18765840,
+      "plain_sha256": "55382ccab8b51f7baf56be4a7f3239f25ba40e55337259bed0311ecc6b4cb7bb",
+      "plain_size": 18765803
     }
   },
   "delete": [
@@ -8952,6 +8952,7 @@
     "mods/justzoom_fabric_2.1.0_MC_1.21.1.jar",
     "mods/InvisiblePlayerArmor-mc1.21.1[fabric]-0.9.1.jar",
     "mods/carryon-fabric-1.21.1-2.2.5.8.jar",
-    "mods/cinematica-fabric-3.1.11.jar"
+    "mods/cinematica-fabric-3.1.11.jar",
+    "mods/DerivaMod-0.18.5.jar"
   ]
 }
