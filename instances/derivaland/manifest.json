@@ -1,5 +1,5 @@
 {
-  "version": "1.0.27",
+  "version": "1.0.28",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -183,12 +183,12 @@
       "plain_size": 93741596
     },
     "mods/DerivaMod-0.18.5.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__DerivaMod-0.18.5.jar.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/mods__DerivaMod-0.18.5.jar.enc",
       "enc": true,
-      "sha256": "5d0c5f05448a8dfda82db01b332dcc413b15ed16ca8aba2ff6a0db8f00099b7d",
-      "size": 18735895,
-      "plain_sha256": "61345667282e006b45d992dd075ab85f6717424114a8aee46d125975b6af2773",
-      "plain_size": 18735858
+      "sha256": "57f36f102e1580e2fd5526f7f4d0f8b90964ad70587ed333aea5f2d3ef7c7c92",
+      "size": 18765840,
+      "plain_sha256": "55382ccab8b51f7baf56be4a7f3239f25ba40e55337259bed0311ecc6b4cb7bb",
+      "plain_size": 18765803
     },
     "mods/disenchanting_table-merged-1.21.1-5.0.2.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/disenchanting_table-merged-1.21.1-5.0.2.jar.enc",
@@ -325,14 +325,6 @@
       "size": 2791380,
       "plain_sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
       "plain_size": 2791343
-    },
-    "mods/justzoom_fabric_2.1.0_MC_1.21.1.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/justzoom_fabric_2.1.0_MC_1.21.1.jar.enc",
-      "enc": true,
-      "sha256": "4d88e443ea997066c76ae4a2fb57ca9620d9bf78dbe50f2b39a1766f50e64717",
-      "size": 196513,
-      "plain_sha256": "8242d6d181a083395aa99ceb4d8d1d825b5ed6e2d53cf637c45a45c4078c444f",
-      "plain_size": 196476
     },
     "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/konkrete_fabric_1.9.9_MC_1.21.jar.enc",
@@ -935,11 +927,11 @@
       "plain_size": 31
     },
     "config/iris.properties": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__iris.properties.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__iris.properties.enc",
       "enc": true,
-      "sha256": "83a042574ee43dba1a94d47495f1de63616f870d7f30886416e0d2ccb00080fd",
+      "sha256": "e40814e8f8a3ffe523f7cfac43663fbef1f5104780e5499795ec303923c06a53",
       "size": 338,
-      "plain_sha256": "0225d00be87f58047b8119311dd5447971573245e246240d880f6bdcebac7592",
+      "plain_sha256": "12bd6eb0e88cf90e372baf47a20d00280a12681802599a0526028aca89f263d6",
       "plain_size": 301
     },
     "config/jsonem.properties": {
@@ -1615,20 +1607,20 @@
       "plain_size": 17775
     },
     "config/fabric/indigo-renderer.properties": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__fabric__indigo-renderer.properties.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__fabric__indigo-renderer.properties.enc",
       "enc": true,
-      "sha256": "3c043028c037d411e925592e251d95481f0e02f886d32a55e195695ff26a9009",
+      "sha256": "e8a84ce63954f826f0ffea4545a0b3d65a9cdfcdf9e3c51f48890a6b255cb11b",
       "size": 328,
-      "plain_sha256": "8724ec26fdd65cbfe8090ad3446bae6a28ce667c68c96942d757151ee4544414",
+      "plain_sha256": "5bcd6688180a0d1a098954d38b654d8395dfee355ddd5964cd3ce334eba4e2dc",
       "plain_size": 291
     },
     "config/fancymenu/customizablemenus.txt": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__fancymenu__customizablemenus.txt.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__fancymenu__customizablemenus.txt.enc",
       "enc": true,
-      "sha256": "da7103ecf3fafed7d5af48767c1221de6fcfdae1f8ccb79083742ce9d98287e5",
-      "size": 421,
-      "plain_sha256": "2e34286ee91633f636e3a48acba1598aa1f3c9eefed69deb92744938115ccd6b",
-      "plain_size": 384
+      "sha256": "7739c28b9b807303a56a08a4a5d21aee486c900280fc90a46d6f1f2ebee5369d",
+      "size": 357,
+      "plain_sha256": "680aeabcb416aaefabc74c6b7e8b01d99bdb53de256c42a692a412845897141a",
+      "plain_size": 320
     },
     "config/fancymenu/custom_gui_screens.txt": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/config/fancymenu/custom_gui_screens.txt.enc",
@@ -1983,11 +1975,11 @@
       "plain_size": 1540
     },
     "config/plasmovoice/meta_cache.json": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__plasmovoice__meta_cache.json.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__plasmovoice__meta_cache.json.enc",
       "enc": true,
-      "sha256": "68d63219bd078a8386b39bb655c94a3a1a9afd253603ede17ce14c71e67dbb1e",
+      "sha256": "dd1fa9c5e506855bf0fbc59c90bbcd9468d1e6e635a9fcc3561e6cd4f8f7b947",
       "size": 1346,
-      "plain_sha256": "abec9b80107046aed8024968e0b87f0696a62fb832d8d10368cbf8bc909456ff",
+      "plain_sha256": "787d821df6b483d385e6b5a0a02e4e500d26738c740e2957a193f4753809f005",
       "plain_size": 1309
     },
     "config/plasmovoice/server/config.toml": {
@@ -2343,11 +2335,11 @@
       "plain_size": 1175
     },
     "config/worldedit/worldedit.properties": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__worldedit__worldedit.properties.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__worldedit__worldedit.properties.enc",
       "enc": true,
-      "sha256": "10100f9779375abd73921294140cb5f8e3e05f9c7815e6342ac21651f55edb2e",
+      "sha256": "e35d9c7ec2c01df0833b2c95b90a7b1a00ab69c1b1eeab7d4466840f6fa1cbe3",
       "size": 2584,
-      "plain_sha256": "457954aa558d510df274566eb532c35c7693e56356aab879ad32be3a949162d0",
+      "plain_sha256": "d17981ab9d096a1f6fe48c326d6d8de4ed28161f5a804ce9d0949f45e77843e3",
       "plain_size": 2547
     },
     "config/worldedit/sessions/2e82d582-c5dd-44a0-887e-e13661fc2866.json": {
@@ -8687,12 +8679,12 @@
       "plain_size": 153587
     },
     "fancymenu_data/last_world.fmdata": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/fancymenu_data__last_world.fmdata.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/fancymenu_data__last_world.fmdata.enc",
       "enc": true,
-      "sha256": "9fb6d33abf0a01676f84967fab2c250e2dcc76efe8dfdc3c8592c1f391930cf2",
-      "size": 120,
-      "plain_sha256": "1337c461977dd311a38097b828d151eda2c46f63733ddd939cbbca834293f315",
-      "plain_size": 83
+      "sha256": "e59e1008ea5a699d71b170bb19f04565bad513f57438d17a9bf0cdcadf50b280",
+      "size": 175,
+      "plain_sha256": "d74f803d15c637c876de15796cd2824fdab5d9179cda90ac4dace607eaa0c49a",
+      "plain_size": 138
     },
     "fancymenu_data/buddy/buddy_leveling.json": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/fancymenu_data/buddy/buddy_leveling.json.enc",
@@ -8711,9 +8703,9 @@
       "plain_size": 260
     },
     "options.txt": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/options.txt",
-      "sha256": "a6f7986788f9be02a732c8eb5db60f4664f4edd5eaefa849c0969d4c2dccc51b",
-      "size": 7749
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/options.txt",
+      "sha256": "87ceb3fdea7f3414eb0431034e0e038846c1d9aa4ce5b7d89c40b804c3012739",
+      "size": 7658
     },
     "config/carryon-client.json": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__carryon-client.json.enc",
@@ -8756,12 +8748,12 @@
       "plain_size": 0
     },
     "config/mca.json": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__mca.json.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__mca.json.enc",
       "enc": true,
-      "sha256": "1ba4be5f40807ee998ae8a7cc9d8730019521c5d87efb6f261b7842f7de5910f",
-      "size": 9613,
-      "plain_sha256": "b9f67f5c93a3097aee31332da0b6d5b259e4d00e7499f9655cdd8a31b2144558",
-      "plain_size": 9576
+      "sha256": "ee25ae9d2176d72f0a2667fa5aeb6f344f2682312e2a8ab5ac7f393fae3a31cb",
+      "size": 9642,
+      "plain_sha256": "1b13f9c936439a1337b41ada716875d98f99914a1348e85415a169a73e927ce0",
+      "plain_size": 9605
     },
     "config/rightclickharvest.json5": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/config__rightclickharvest.json5.enc",
@@ -8795,14 +8787,6 @@
       "plain_sha256": "8ea3cba8c22e490f3e4b715d4be233039df38a1778d4c99ff47fcdbaf6aa4ef8",
       "plain_size": 5869
     },
-    "mods/InvisiblePlayerArmor-mc1.21.1[fabric]-0.9.1.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__InvisiblePlayerArmor-mc1.21.1_fabric_-0.9.1.jar.enc",
-      "enc": true,
-      "sha256": "cc04d109fcd4f088f2a963a4dd5db34316c89d304976e2146e27258c943cc18d",
-      "size": 13566,
-      "plain_sha256": "5e0ad40d13017071ecfc23a57daf76283c5b083f7f44f739ca703ab921a2b481",
-      "plain_size": 13529
-    },
     "mods/RoguelikeDungeons-2.1.0-1.21.1-fabric.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__RoguelikeDungeons-2.1.0-1.21.1-fabric.jar.enc",
       "enc": true,
@@ -8835,14 +8819,6 @@
       "plain_sha256": "4c3604961b74e9cbc91efb1a93daa2f4e55354a46afc93cb74f0de543fd86391",
       "plain_size": 809717
     },
-    "mods/carryon-fabric-1.21.1-2.2.5.8.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__carryon-fabric-1.21.1-2.2.5.8.jar.enc",
-      "enc": true,
-      "sha256": "91d19b0cdfee78077b6c3d5b6ecccfd9bed0b5556abe3b9f4586e5e3d8d6acf0",
-      "size": 361438,
-      "plain_sha256": "97edde88294ac6bdb7e70ad30acb7e3e767f88b009ba06b80af46c241d5a2917",
-      "plain_size": 361401
-    },
     "mods/chipped-fabric-1.21.1-4.0.2.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__chipped-fabric-1.21.1-4.0.2.jar.enc",
       "enc": true,
@@ -8858,14 +8834,6 @@
       "size": 8266982,
       "plain_sha256": "46a67853c2ff733e7916a9cc074645548b70fd1c843f7ce79be8dc803a1606c6",
       "plain_size": 8266945
-    },
-    "mods/cinematica-fabric-3.1.11.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__cinematica-fabric-3.1.11.jar.enc",
-      "enc": true,
-      "sha256": "8e53cbccff4031fa66af0cac7be36d50696c460c027da21d523c29293a4f23f0",
-      "size": 121232169,
-      "plain_sha256": "146cf1e322ca1c9e2e49026eafa4c0a655b0ea65c7c0d3432f4a2791b1d78fca",
-      "plain_size": 121232132
     },
     "mods/cryonicconfig-fabric-1.0.0+mc1.21.11.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.27-assets/mods__cryonicconfig-fabric-1.0.0%2Bmc1.21.11.jar.enc",
@@ -8946,6 +8914,30 @@
       "size": 546962,
       "plain_sha256": "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15",
       "plain_size": 546925
+    },
+    "config/easy_npc/preset/humanoid/8d1f6f65-fe2d-4cb9-89cb-baaae630adc1.npc.nbt": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/config__easy_npc__preset__humanoid__8d1f6f65-fe2d-4cb9-89cb-baaae630adc1.npc.nbt.enc",
+      "enc": true,
+      "sha256": "59b5797d3c615767dab4c7c810573a3e4f32863499cf940cbd16c044d54d0427",
+      "size": 1993,
+      "plain_sha256": "b69f16f112707c526d5b43c4c3b37e4cc2bc057e6b5ef1f57a8c3f0a9cc18e2e",
+      "plain_size": 1956
+    },
+    "mods/cinematica-fabric-3.1.14.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/mods__cinematica-fabric-3.1.14.jar.enc",
+      "enc": true,
+      "sha256": "51e82832bd6514b887c8cb95dc665503126b00a49e6ce7c26bc155d9d01aff7e",
+      "size": 29546234,
+      "plain_sha256": "eac6d62c9433f457fe25038eda143065fd279df1687c131bced9ebd4eb5f7805",
+      "plain_size": 29546197
+    },
+    "mods/polymorph-fabric-1.1.0+1.21.1.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.28-assets/mods__polymorph-fabric-1.1.0%2B1.21.1.jar.enc",
+      "enc": true,
+      "sha256": "e33752cc6737fc745fcbfae145f064bc384e20e1ee95cc8f5be6f3f8eb2c973f",
+      "size": 320965,
+      "plain_sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671",
+      "plain_size": 320928
     }
   },
   "delete": [
@@ -8956,6 +8948,10 @@
     "config/cinematica/videos/introderivaland.mp4",
     "config/cinematica/videos/laultimabahiadederivaland.mp4",
     "mods/architectury-13.0.8-fabric.jar",
-    "mods/cinematica-fabric-3.0.6.jar"
+    "mods/cinematica-fabric-3.0.6.jar",
+    "mods/justzoom_fabric_2.1.0_MC_1.21.1.jar",
+    "mods/InvisiblePlayerArmor-mc1.21.1[fabric]-0.9.1.jar",
+    "mods/carryon-fabric-1.21.1-2.2.5.8.jar",
+    "mods/cinematica-fabric-3.1.11.jar"
   ]
 }
