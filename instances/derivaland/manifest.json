@@ -1,5 +1,5 @@
 {
-  "version": "1.0.32",
+  "version": "1.0.33",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -8938,6 +8938,14 @@
       "size": 18802115,
       "plain_sha256": "53aace38b88882905a1feead86c59c3672865ae3202d64d89ed42d6aa6b61149",
       "plain_size": 18802078
+    },
+    "mods/another_furniture-fabric-4.0.2.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.33-assets/mods__another_furniture-fabric-4.0.2.jar.enc",
+      "enc": true,
+      "sha256": "e425287ba609c7a8518e9013a5788213bf1b8d28824ce9fd8e12ee3f92a5c4a0",
+      "size": 2398878,
+      "plain_sha256": "3f0e6c276dde5cd6390e9c14bc4c283e4043f25d812c1f5ecc36b7b2f61642b5",
+      "plain_size": 2398841
     }
   },
   "delete": [
