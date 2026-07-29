@@ -1,5 +1,5 @@
 {
-  "version": "1.0.37",
+  "version": "1.0.38",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -8931,12 +8931,12 @@
       "plain_sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671",
       "plain_size": 320928
     },
-    "mods/DerivaMod-0.18.6.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.37-assets/mods__DerivaMod-0.18.6.jar.enc",
+    "mods/DerivaMod-0.18.7.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.38-assets/mods__DerivaMod-0.18.7.jar.enc",
       "enc": true,
-      "sha256": "0efdbdfddc4dc4521ce6f45ba85d485b8f39fa4f83cc4826297c2932e9bf5bf7",
+      "sha256": "d5e7ccb22011390b0d6398353c24a4de1e1dab4026acdcde87eda81ec339efec",
       "size": 21475294,
-      "plain_sha256": "c34f8598d6a09767326407aa032ba37890fa1b424f05801e7bb6de5ab8913008",
+      "plain_sha256": "cadfa8956139fb10b4c8431a2232a26ac00a71bcc6fd7509b63ec9f441c05e2b",
       "plain_size": 21475257
     },
     "mods/another_furniture-fabric-4.0.2.jar": {
@@ -8963,6 +8963,7 @@
     "mods/cinematica-fabric-3.1.11.jar",
     "mods/DerivaMod-0.18.5.jar",
     "mods/DerivaMod-0.18.5-r2.jar",
-    "mods/alliovoicechat-fabric-1.21-2.1.8.jar"
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar",
+    "mods/DerivaMod-0.18.6.jar"
   ]
 }
