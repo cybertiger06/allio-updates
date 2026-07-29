@@ -1,5 +1,5 @@
 {
-  "version": "1.0.35",
+  "version": "1.0.36",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -22,13 +22,13 @@
       "plain_sha256": "5909f195eb995f3760de5acff197e4c32029c5941d32320bc4a84c90bee79faf",
       "plain_size": 40931095
     },
-    "mods/alliovoicechat-fabric-1.21-2.1.8.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/alliovoicechat-fabric-1.21-2.1.8.jar.enc",
+    "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.36-assets/mods__alliovoicechat-fabric-1.21.1-2.1.13.jar.enc",
       "enc": true,
-      "sha256": "e5bb3bab5df7beb0347963360d0d36080402203be153d93d43bb47279fc6e172",
-      "size": 12219044,
-      "plain_sha256": "f7bde81d23c9ce05f277d59d35bce1bc91f2d1b90832431a276d10298b1005e0",
-      "plain_size": 12219007
+      "sha256": "22ea9064dde4ca379171dec0306d364f008f2f1bb2708a4a8956745407fd4150",
+      "size": 12342364,
+      "plain_sha256": "bdcf9171e33573a44987ebfff6049c65401b316a63f80239fcf162c7a58a6d7b",
+      "plain_size": 12342327
     },
     "mods/automobility-0.5.0.h+1.21.1-fabric.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/automobility-0.5.0.h%2B1.21.1-fabric.jar.enc",
@@ -8932,12 +8932,12 @@
       "plain_size": 320928
     },
     "mods/DerivaMod-0.18.6.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.35-assets/mods__DerivaMod-0.18.6.jar.enc",
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.36-assets/mods__DerivaMod-0.18.6.jar.enc",
       "enc": true,
-      "sha256": "8658c373ecaf78e8fdd2ca45a05f0b5ab0e8443a991750339a91c13f13dfd235",
-      "size": 21370637,
-      "plain_sha256": "b2f25009cabc82ac55faf58809dcfd09283998907e20bffb5cf4177401d4ccb8",
-      "plain_size": 21370600
+      "sha256": "abc80173fca13345620ad0cced652f3ec0e8db21721ace503fb22dca44414850",
+      "size": 21475294,
+      "plain_sha256": "c34f8598d6a09767326407aa032ba37890fa1b424f05801e7bb6de5ab8913008",
+      "plain_size": 21475257
     },
     "mods/another_furniture-fabric-4.0.2.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.33-assets/mods__another_furniture-fabric-4.0.2.jar.enc",
@@ -8962,6 +8962,7 @@
     "mods/carryon-fabric-1.21.1-2.2.5.8.jar",
     "mods/cinematica-fabric-3.1.11.jar",
     "mods/DerivaMod-0.18.5.jar",
-    "mods/DerivaMod-0.18.5-r2.jar"
+    "mods/DerivaMod-0.18.5-r2.jar",
+    "mods/alliovoicechat-fabric-1.21-2.1.8.jar"
   ]
 }
