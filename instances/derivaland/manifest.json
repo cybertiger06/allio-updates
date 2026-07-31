@@ -1,10 +1,11 @@
 {
-  "version": "1.0.40",
+  "version": "1.0.41",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
   "loader_version": "0.18.4",
   "encrypted": true,
+  "force_options_version": "1.0.41",
   "files": {
     "mods/accessories-fabric-1.1.0-beta.53+1.21.1.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/accessories-fabric-1.1.0-beta.53%2B1.21.1.jar.enc",
@@ -94,13 +95,13 @@
       "plain_sha256": "831e2a3a4787e584856c69d851731d29ef7b6cd4d0457b4417a7bd3ca71e7bac",
       "plain_size": 51657
     },
-    "mods/brigbrains-1.0.24.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.40-assets/mods__brigbrains-1.0.24.jar.enc",
+    "mods/brigbrains-1.0.25.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.41-assets/mods__brigbrains-1.0.25.jar.enc",
       "enc": true,
-      "sha256": "9406b89d85cf540a90b03fc089247ea576918d422b333d4b926c2e2095da65ad",
-      "size": 1072107,
-      "plain_sha256": "c1718a821734bfe4e151eb32a980fefa10534f9120f916a90228bb72c81ddf7f",
-      "plain_size": 1072070
+      "sha256": "52a3bfacc3aaa952696a02d2fbe655f143734b4cee50f334fcec2ba3c1856b88",
+      "size": 1072269,
+      "plain_sha256": "d727299bca28b62e392a4cb97c33742d17c3fe6e1f79225c060a2161690d895a",
+      "plain_size": 1072232
     },
     "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.21.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.21.jar.enc",
@@ -8931,13 +8932,13 @@
       "plain_sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671",
       "plain_size": 320928
     },
-    "mods/DerivaMod-0.18.9.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.40-assets/mods__DerivaMod-0.18.9.jar.enc",
+    "mods/DerivaMod-0.19.0.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.41-assets/mods__DerivaMod-0.19.0.jar.enc",
       "enc": true,
-      "sha256": "e3783c8319161a300f33808e09d022a0a36158927e839e32fbaabb71a84def44",
-      "size": 21603529,
-      "plain_sha256": "9680105b257ca00377239067cc6b1edcb3472f77b61556f2c0643b9a60715d76",
-      "plain_size": 21603492
+      "sha256": "6b7750326ff1366b1b6f38487af8761e49c1d2813319ad1917f358e95ab80c61",
+      "size": 21647105,
+      "plain_sha256": "3e56884b8e4859f2cca431f17668d9828939eaa01abfcfefaa7ede839d21dbab",
+      "plain_size": 21647068
     },
     "mods/another_furniture-fabric-4.0.2.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.33-assets/mods__another_furniture-fabric-4.0.2.jar.enc",
@@ -8967,6 +8968,8 @@
     "mods/DerivaMod-0.18.6.jar",
     "mods/DerivaMod-0.18.7.jar",
     "mods/DerivaMod-0.18.8.jar",
-    "mods/brigbrains-1.0.22.jar"
+    "mods/brigbrains-1.0.22.jar",
+    "mods/DerivaMod-0.18.9.jar",
+    "mods/brigbrains-1.0.24.jar"
   ]
 }
