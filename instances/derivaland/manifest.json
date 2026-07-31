@@ -1,5 +1,5 @@
 {
-  "version": "1.0.41",
+  "version": "1.0.42",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -102,14 +102,6 @@
       "size": 1072269,
       "plain_sha256": "d727299bca28b62e392a4cb97c33742d17c3fe6e1f79225c060a2161690d895a",
       "plain_size": 1072232
-    },
-    "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.21.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.21.jar.enc",
-      "enc": true,
-      "sha256": "47c739f9514ed38287a1c446f4aefdc64beadeb97311a84913905798957feeb2",
-      "size": 3750907,
-      "plain_sha256": "df8d330d11c224852c3a35c48f78c56c9916cd5aae3ca84419f921c12c8773c6",
-      "plain_size": 3750870
     },
     "mods/chococraft-1.21.1-fabric-0.11.12.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/chococraft-1.21.1-fabric-0.11.12.jar.enc",
@@ -423,14 +415,6 @@
       "plain_sha256": "ebb3a739adc659974025dbb6132e081cf90f2aab8adfd47bec849096a7ef5782",
       "plain_size": 2068983
     },
-    "mods/more_bows_and_arrows-merged-1.21.1-5.0.4.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/more_bows_and_arrows-merged-1.21.1-5.0.4.jar.enc",
-      "enc": true,
-      "sha256": "bc8fa3950d327455b0e12fb86a79454e77f32937297d1998615aa4f71360e740",
-      "size": 543695,
-      "plain_sha256": "59d9f01228fbd455493a0a8232ae8b833ea7b2717ad4fb501a76169bfe69719e",
-      "plain_size": 543658
-    },
     "mods/musica-fabric-1.0.0.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/musica-fabric-1.0.0.jar.enc",
       "enc": true,
@@ -599,21 +583,29 @@
       "plain_sha256": "3db63c385918c50858368efa39e2bd355cf2fb0eb38d72fcda3f119d57919fc3",
       "plain_size": 876011
     },
-    "mods/xaerominimap-fabric-1.21.1-26.1.0.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/xaerominimap-fabric-1.21.1-26.1.0.jar.enc",
+    "mods/xaerolib-fabric-1.21.1-1.7.1.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.42-assets/mods__xaerolib-fabric-1.21.1-1.7.1.jar.enc",
       "enc": true,
-      "sha256": "13294d08e2d5ecbb4c5c6474075d402949c3a72bf90cd6585e46239dabd939d5",
-      "size": 2177969,
-      "plain_sha256": "0d3a3f53e33423fb2cd22736c731905adc06ea26b2a77300c620be9efe863e8a",
-      "plain_size": 2177932
+      "sha256": "82ceff440f9e0c43cbad36efb47d650e0ff640ae91425fdaa4dd0f2bc9064b43",
+      "size": 587404,
+      "plain_sha256": "2d4f6e3897bef51fb97559af35bbcc05bc40432e6586e13e863d47962bc0f039",
+      "plain_size": 587367
     },
-    "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar": {
-      "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar.enc",
+    "mods/xaerominimap-fabric-1.21.1-26.4.2.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.42-assets/mods__xaerominimap-fabric-1.21.1-26.4.2.jar.enc",
       "enc": true,
-      "sha256": "c093a02eb20c951c2394678976ed94f62cf4e8edfcd37d34818df55779f90090",
-      "size": 1406767,
-      "plain_sha256": "89bcd5191206687ceabe4e083647d6d7713c846f64556738c37028c830890003",
-      "plain_size": 1406730
+      "sha256": "b0c77389b431a553531d94fc02680301db4a90f99d8bb2357a885c03bd6b9210",
+      "size": 2233645,
+      "plain_sha256": "85342f8f7c098e98f2f200fbba308a243af1204cb1afd7668360420e635aa2f8",
+      "plain_size": 2233608
+    },
+    "mods/xaeroworldmap-fabric-1.21.1-1.44.2.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.42-assets/mods__xaeroworldmap-fabric-1.21.1-1.44.2.jar.enc",
+      "enc": true,
+      "sha256": "6464bf1c0643b6fa1c2271c0fbeae0eeda5e30f30cfe96cbeb6c7b2842cbac79",
+      "size": 1448255,
+      "plain_sha256": "cd6109af335ad83af9e97cdae5c25023112349e2dc4df95a97640022f38b3856",
+      "plain_size": 1448218
     },
     "mods/yet_another_config_lib_v3-3.8.2+1.21.1-fabric.jar": {
       "url": "https://media.githubusercontent.com/media/cybertiger06/allio-updates/main/instances/derivaland/mods/yet_another_config_lib_v3-3.8.2%2B1.21.1-fabric.jar.enc",
@@ -8932,13 +8924,13 @@
       "plain_sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671",
       "plain_size": 320928
     },
-    "mods/DerivaMod-0.19.0.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.41-assets/mods__DerivaMod-0.19.0.jar.enc",
+    "mods/DerivaMod-0.20.0.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.42-assets/mods__DerivaMod-0.20.0.jar.enc",
       "enc": true,
-      "sha256": "6b7750326ff1366b1b6f38487af8761e49c1d2813319ad1917f358e95ab80c61",
-      "size": 21647105,
-      "plain_sha256": "3e56884b8e4859f2cca431f17668d9828939eaa01abfcfefaa7ede839d21dbab",
-      "plain_size": 21647068
+      "sha256": "04b83cb8298b14e9d19aeaeec711aca94f490435922e624a8d9ba7bff9625187",
+      "size": 21987490,
+      "plain_sha256": "310dfe471d15a5ca5475c699a9b30bd9842715b3d931542341f1f59d102ccac3",
+      "plain_size": 21987453
     },
     "mods/another_furniture-fabric-4.0.2.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.33-assets/mods__another_furniture-fabric-4.0.2.jar.enc",
@@ -8970,6 +8962,11 @@
     "mods/DerivaMod-0.18.8.jar",
     "mods/brigbrains-1.0.22.jar",
     "mods/DerivaMod-0.18.9.jar",
-    "mods/brigbrains-1.0.24.jar"
+    "mods/brigbrains-1.0.24.jar",
+    "mods/DerivaMod-0.19.0.jar",
+    "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.21.jar",
+    "mods/more_bows_and_arrows-merged-1.21.1-5.0.4.jar",
+    "mods/xaerominimap-fabric-1.21.1-26.1.0.jar",
+    "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar"
   ]
 }
