@@ -1,5 +1,5 @@
 {
-  "version": "1.0.42",
+  "version": "1.0.43",
   "instance_name": "DerivaLand Instance",
   "minecraft_version": "1.21.1",
   "loader": "fabric",
@@ -8924,13 +8924,13 @@
       "plain_sha256": "bc47b33c864b463167998680c296f513e6d06b42de6db03db0f274ae1f2ee671",
       "plain_size": 320928
     },
-    "mods/DerivaMod-0.20.0.jar": {
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.42-assets/mods__DerivaMod-0.20.0.jar.enc",
+    "mods/DerivaMod-0.20.1.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.43-assets/mods__DerivaMod-0.20.1.jar.enc",
       "enc": true,
-      "sha256": "04b83cb8298b14e9d19aeaeec711aca94f490435922e624a8d9ba7bff9625187",
-      "size": 21987490,
-      "plain_sha256": "310dfe471d15a5ca5475c699a9b30bd9842715b3d931542341f1f59d102ccac3",
-      "plain_size": 21987453
+      "sha256": "45b327f3dad9fb8aacdc1b042d78fba0b6a27e31a654848546c333944b6cd19d",
+      "size": 22081987,
+      "plain_sha256": "b60ea0017f521bcbc22310019e7136bf068c7884e0956b554022873db6ad6f99",
+      "plain_size": 22081950
     },
     "mods/another_furniture-fabric-4.0.2.jar": {
       "url": "https://github.com/cybertiger06/allio-updates/releases/download/derivaland-1.0.33-assets/mods__another_furniture-fabric-4.0.2.jar.enc",
@@ -8967,6 +8967,7 @@
     "mods/c2me-fabric-mc1.21.1-0.4.0-alpha.0.21.jar",
     "mods/more_bows_and_arrows-merged-1.21.1-5.0.4.jar",
     "mods/xaerominimap-fabric-1.21.1-26.1.0.jar",
-    "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar"
+    "mods/xaeroworldmap-fabric-1.21.1-1.40.6.jar",
+    "mods/DerivaMod-0.20.0.jar"
   ]
 }
