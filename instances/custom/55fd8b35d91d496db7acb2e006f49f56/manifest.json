@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.24.214202",
+  "version": "2026.08.24.215623",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2610,13 +2610,13 @@
       "plain_size": 652999,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/geckolib-fabric-1.21.1-4.8.2.jar.enc"
     },
-    "mods/iris-fabric-1.8.0+mc1.21.1.jar": {
-      "sha256": "c8b18ca4e115eae88bd93451915f64e7fcade801d10e3f7e47f090598d035e0a",
-      "size": 2675402,
+    "mods/iris-fabric-1.8.8+mc1.21.1.jar": {
+      "sha256": "2a8e1e449a299a7801e30e2fe6f7b27f93f6913491a63cf25af236a31b99699b",
+      "size": 2690214,
       "enc": true,
-      "plain_sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
-      "plain_size": 2675365,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/iris-fabric-1.8.0%2Bmc1.21.1.jar.enc"
+      "plain_sha256": "b5ad39a6cb113ca0a1765f06689f9f4b29ccd0c81247de90b06c42f5da1092f5",
+      "plain_size": 2690177,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/iris-fabric-1.8.8%2Bmc1.21.1.jar.enc"
     },
     "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
       "sha256": "1ea9a36874e399cb91b76dba3731e75f60952353df715e6ee52fd2a7fa34fba4",
@@ -2714,7 +2714,6 @@
     }
   },
   "delete": [
-    "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
-    "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
+    "mods/iris-fabric-1.8.0+mc1.21.1.jar"
   ]
 }
