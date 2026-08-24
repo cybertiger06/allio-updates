@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.24.215623",
+  "version": "2026.08.24.220318",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2714,6 +2714,8 @@
     }
   },
   "delete": [
-    "mods/iris-fabric-1.8.0+mc1.21.1.jar"
+    "mods/iris-fabric-1.8.0+mc1.21.1.jar",
+    "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+    "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
   ]
 }
