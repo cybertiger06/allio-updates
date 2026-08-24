@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.24.193417",
+  "version": "2026.08.24.193422",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2650,14 +2650,6 @@
       "plain_size": 13188,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/pv-addon-spectator-1.1.0.jar.enc"
     },
-    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
-      "sha256": "487ece7e407dd902d26280ce3741ee4bd869c8a44c1daaae09cb51d68e868c1b",
-      "size": 1297798,
-      "enc": true,
-      "plain_sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
-      "plain_size": 1297761,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar.enc"
-    },
     "mods/sodium-fabric-0.8.12+mc1.21.1.jar": {
       "sha256": "4c09a7abd925d7194852e7dcee52667fe73732260ad71da432c63e74f86cf6d0",
       "size": 1573217,
@@ -2705,5 +2697,7 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/servers.dat_old.enc"
     }
   },
-  "delete": []
+  "delete": [
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar"
+  ]
 }
