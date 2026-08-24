@@ -124,6 +124,10 @@ key_key.hotbar.9:key.keyboard.9
 key_key.backrooms.open_menu:key.keyboard.g
 key_key.plasmovoice.settings:key.keyboard.v
 key_key.veil.editor:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.shaderPackSelection:key.keyboard.o
+key_iris.keybind.wireframe:key.keyboard.unknown
 soundCategory_master:0.6724006622516556
 soundCategory_music:0.0
 soundCategory_record:1.0
