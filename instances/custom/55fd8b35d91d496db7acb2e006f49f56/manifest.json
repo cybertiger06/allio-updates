@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.24.193812",
+  "version": "2026.08.24.212319",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2594,13 +2594,13 @@
       "plain_size": 652999,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/geckolib-fabric-1.21.1-4.8.2.jar.enc"
     },
-    "mods/iris-fabric-1.8.0+mc1.21.1.jar": {
-      "sha256": "c764b569d24857e9a1dc9e04b7dd050d2021ef8df50beae288fed4f161d37c28",
-      "size": 2675402,
+    "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar": {
+      "sha256": "e5d9a5d987b548d2b4e2909e007bc3aa960a0d2bdd91431844d96e922d4e8aba",
+      "size": 2791380,
       "enc": true,
-      "plain_sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
-      "plain_size": 2675365,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/iris-fabric-1.8.0%2Bmc1.21.1.jar.enc"
+      "plain_sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
+      "plain_size": 2791343,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar.enc"
     },
     "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
       "sha256": "1ea9a36874e399cb91b76dba3731e75f60952353df715e6ee52fd2a7fa34fba4",
@@ -2650,6 +2650,14 @@
       "plain_size": 13188,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/pv-addon-spectator-1.1.0.jar.enc"
     },
+    "mods/sodium-fabric-0.8.12+mc1.21.1.jar": {
+      "sha256": "4c09a7abd925d7194852e7dcee52667fe73732260ad71da432c63e74f86cf6d0",
+      "size": 1573217,
+      "enc": true,
+      "plain_sha256": "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793",
+      "plain_size": 1573180,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/sodium-fabric-0.8.12%2Bmc1.21.1.jar.enc"
+    },
     "mods/vanish-1.6.5+1.21.1.jar": {
       "sha256": "6fcf84b88946464ebf853f7bcab0053f9aeca0782d74469580228347a2883574",
       "size": 1247460,
@@ -2690,6 +2698,6 @@
     }
   },
   "delete": [
-    "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
+    "mods/iris-fabric-1.8.0+mc1.21.1.jar"
   ]
 }
