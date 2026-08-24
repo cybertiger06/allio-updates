@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.24.193422",
+  "version": "2026.08.24.193812",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2650,14 +2650,6 @@
       "plain_size": 13188,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/pv-addon-spectator-1.1.0.jar.enc"
     },
-    "mods/sodium-fabric-0.8.12+mc1.21.1.jar": {
-      "sha256": "4c09a7abd925d7194852e7dcee52667fe73732260ad71da432c63e74f86cf6d0",
-      "size": 1573217,
-      "enc": true,
-      "plain_sha256": "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793",
-      "plain_size": 1573180,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/sodium-fabric-0.8.12%2Bmc1.21.1.jar.enc"
-    },
     "mods/vanish-1.6.5+1.21.1.jar": {
       "sha256": "6fcf84b88946464ebf853f7bcab0053f9aeca0782d74469580228347a2883574",
       "size": 1247460,
@@ -2698,6 +2690,6 @@
     }
   },
   "delete": [
-    "mods/sodium-fabric-0.6.13+mc1.21.1.jar"
+    "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
   ]
 }
