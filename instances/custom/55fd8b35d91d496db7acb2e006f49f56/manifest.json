@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.24.212319",
+  "version": "2026.08.24.214202",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -282,6 +282,22 @@
       "plain_sha256": "9fd0487f7ad569677ba9206040e2b4ba00fcc28608a5705ff4c4bddf47c833fa",
       "plain_size": 101,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/config/fancymenu/video_element_controller_metas.json.enc"
+    },
+    "config/iris-excluded.json": {
+      "sha256": "97865d61fbb48a6652133509049d4210de33c2067b88c1d3843cfdfae2c053a7",
+      "size": 68,
+      "enc": true,
+      "plain_sha256": "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb",
+      "plain_size": 31,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/config/iris-excluded.json.enc"
+    },
+    "config/iris.properties": {
+      "sha256": "cee1b1e8df35f03cad572c4911ba0ef4bebc5c08c741b6c270e1ebc84314376e",
+      "size": 319,
+      "enc": true,
+      "plain_sha256": "9c3438ed8ccb6878859d8bd15ea6a4017ce520e63f7e92778d4146cb0301ad5b",
+      "plain_size": 282,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/config/iris.properties.enc"
     },
     "config/jade/hide-blocks.json": {
       "sha256": "3be1673e68edae33de8ed558c9a844f980733a0eaa81362d0cda89062d969c12",
@@ -2594,13 +2610,13 @@
       "plain_size": 652999,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/geckolib-fabric-1.21.1-4.8.2.jar.enc"
     },
-    "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar": {
-      "sha256": "e5d9a5d987b548d2b4e2909e007bc3aa960a0d2bdd91431844d96e922d4e8aba",
-      "size": 2791380,
+    "mods/iris-fabric-1.8.0+mc1.21.1.jar": {
+      "sha256": "c8b18ca4e115eae88bd93451915f64e7fcade801d10e3f7e47f090598d035e0a",
+      "size": 2675402,
       "enc": true,
-      "plain_sha256": "0ceb694040b4628bf3fa02286cfe5f0db833195669ab07f8caa4001359763eff",
-      "plain_size": 2791343,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/iris-fabric-1.8.14-beta.1%2Bmc1.21.1.jar.enc"
+      "plain_sha256": "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa",
+      "plain_size": 2675365,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/iris-fabric-1.8.0%2Bmc1.21.1.jar.enc"
     },
     "mods/konkrete_fabric_1.9.9_MC_1.21.jar": {
       "sha256": "1ea9a36874e399cb91b76dba3731e75f60952353df715e6ee52fd2a7fa34fba4",
@@ -2650,13 +2666,13 @@
       "plain_size": 13188,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/pv-addon-spectator-1.1.0.jar.enc"
     },
-    "mods/sodium-fabric-0.8.12+mc1.21.1.jar": {
-      "sha256": "4c09a7abd925d7194852e7dcee52667fe73732260ad71da432c63e74f86cf6d0",
-      "size": 1573217,
+    "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
+      "sha256": "623744f9d35a9827cfec60275d655b0c755da56728f49173687192f5e28ae017",
+      "size": 1297798,
       "enc": true,
-      "plain_sha256": "9ad11a616d1ca759867de8a5bbafcde5ab50b68dbd674110c7b90aeea251b793",
-      "plain_size": 1573180,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/sodium-fabric-0.8.12%2Bmc1.21.1.jar.enc"
+      "plain_sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
+      "plain_size": 1297761,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/sodium-fabric-0.6.13%2Bmc1.21.1.jar.enc"
     },
     "mods/vanish-1.6.5+1.21.1.jar": {
       "sha256": "6fcf84b88946464ebf853f7bcab0053f9aeca0782d74469580228347a2883574",
@@ -2675,8 +2691,8 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/mods/worldedit-mod-7.3.8.jar.enc"
     },
     "options.txt": {
-      "sha256": "83170c1a1b474520047c58425d2dcd78121562518be13259f2cd72bfb875ff2f",
-      "size": 3776,
+      "sha256": "01679a50c6386fa140ed7f4d333c0afb18f48fcb98ad94f73ff4f8624e91411a",
+      "size": 3965,
       "enc": false,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/options.txt"
     },
@@ -2698,6 +2714,7 @@
     }
   },
   "delete": [
-    "mods/iris-fabric-1.8.0+mc1.21.1.jar"
+    "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+    "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
   ]
 }
