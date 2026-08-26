@@ -1,5 +1,5 @@
 {
-  "version": "2026.08.25.235635",
+  "version": "2026.08.26.190155",
   "instance_id": "b0215760f38342d28aa31ad504e402a1",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2331,14 +2331,6 @@
       "plain_size": 5423,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/mods/NoFog-1.21-1.21.1.jar.enc"
     },
-    "mods/alliouhc-2.1.0.jar": {
-      "sha256": "dacfd3310b94e3e115107d77415ee90124ff2481c827af62a77315098d8e9b2f",
-      "size": 634326,
-      "enc": true,
-      "plain_sha256": "c3d299829ef7a4652ed29f6c09a15e5f282d93a79e815683b88ce70fdb80edae",
-      "plain_size": 634289,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/mods/alliouhc-2.1.0.jar.enc"
-    },
     "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar": {
       "sha256": "d14accc7f13a2fac2f3622aae308348e9d17811e474a415a63c2daaa73832e08",
       "size": 12342726,
@@ -2516,5 +2508,7 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/servers.dat_old.enc"
     }
   },
-  "delete": []
+  "delete": [
+    "mods/alliouhc-2.1.0.jar"
+  ]
 }
