@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.04.203825",
+  "version": "2026.09.04.203928",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2581,36 +2581,6 @@
       "plain_size": 786695,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/397fa5bf47c7a4c85dbcaf7111fbfe0975e2508e3a3df43e42ab814384f50e8c"
     },
-    "mods/mcextremo3-1.0.4.jar": {
-      "sha256": "7bf99e6c02739ab55d8996953a6845a525992f067a23f7de26cc7c07e11b1d40",
-      "size": 29595993,
-      "enc": true,
-      "plain_sha256": "d4f341008ca47eca1c7db552138e7b7d612f78406373e35fc6d65105e67bec69",
-      "plain_size": 29595956,
-      "multipart": "concat-v1",
-      "parts": [
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/7bf99e6c02739ab55d8996953a6845a525992f067a23f7de26cc7c07e11b1d40/0001-of-0004.bin",
-          "sha256": "8b1f06a48686bf72124391a49be0628a272d93b0f4d404758d99abf30b9d50d6",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/7bf99e6c02739ab55d8996953a6845a525992f067a23f7de26cc7c07e11b1d40/0002-of-0004.bin",
-          "sha256": "98c19b351be4fff44020413c51e675054af57a1b29aa6f6dc501af0677e1762c",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/7bf99e6c02739ab55d8996953a6845a525992f067a23f7de26cc7c07e11b1d40/0003-of-0004.bin",
-          "sha256": "f8b9c65e156cdae526b86ccf091958f4fd1a51d9cd0a15637be0376cc9e7b435",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/7bf99e6c02739ab55d8996953a6845a525992f067a23f7de26cc7c07e11b1d40/0004-of-0004.bin",
-          "sha256": "6631f3197b81ebab9bc7977744e359aa0695467c894ef779a5ca1a86a16fe7f5",
-          "size": 4430169
-        }
-      ]
-    },
     "mods/melody_fabric_1.0.10_MC_1.21.jar": {
       "sha256": "fc6f631d39db3508999e46851b7764783eb8636820c40643f5371d8e40545bd6",
       "size": 188072,
@@ -2725,6 +2695,7 @@
   "delete": [
     "mods/extremo3-0.1.3+1.21.1.jar",
     "mods/extremo3-adapted-0.1.3.jar",
+    "mods/mcextremo3-1.0.4.jar",
     "mods/vanish-1.6.5+1.21.1.jar"
   ]
 }
