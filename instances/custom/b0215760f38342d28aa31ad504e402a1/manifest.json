@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.04.233225",
+  "version": "2026.09.04.234255",
   "instance_id": "b0215760f38342d28aa31ad504e402a1",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2388,6 +2388,36 @@
           "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/589f797901000c3ffc103797054f4a4552d2add77a7b38d08b3b06d56d6972c8/0002-of-0002.bin",
           "sha256": "182a962ffa31c2c6f90a85c6528dc84585dd309e3cdea9273fb434d734cebe19",
           "size": 3954118
+        }
+      ]
+    },
+    "mods/cinematica-fabric-4.0.0.jar": {
+      "sha256": "405f7aa9e133498364018b0817f6f973e97650a2d6030a11509e8bcf1f8e4105",
+      "size": 29560512,
+      "enc": true,
+      "plain_sha256": "8311e1d3c360b65f119648a91631f26eee8f95cbc1536a795611fc1c12b49141",
+      "plain_size": 29560475,
+      "multipart": "concat-v1",
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/405f7aa9e133498364018b0817f6f973e97650a2d6030a11509e8bcf1f8e4105/0001-of-0004.bin",
+          "sha256": "dbcaa764d158d621d3798fce4a5ee6d60511d5bb0d35491732a596d594b7eeb5",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/405f7aa9e133498364018b0817f6f973e97650a2d6030a11509e8bcf1f8e4105/0002-of-0004.bin",
+          "sha256": "b237bbea8adfdffe03a74f57e6521f17484e7827720af88eec3624dbe137fd2f",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/405f7aa9e133498364018b0817f6f973e97650a2d6030a11509e8bcf1f8e4105/0003-of-0004.bin",
+          "sha256": "e459ce79dbd714f04f9992ab0d270d7afbb413ece1bb5371f59c2621eb8fe0f9",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/405f7aa9e133498364018b0817f6f973e97650a2d6030a11509e8bcf1f8e4105/0004-of-0004.bin",
+          "sha256": "2cbf72566a539b6c23e9081ccdeb80d7e8ae6484562b49048cba4f2d876366f2",
+          "size": 4394688
         }
       ]
     },
