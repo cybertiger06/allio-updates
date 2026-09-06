@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.06.083948",
+  "version": "2026.09.06.112753",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2714,6 +2714,26 @@
       "plain_sha256": "e04599514d88e41765f710eeba59e3814909833396bc11b977f48fc2e7e50353",
       "plain_size": 1297761,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/15ee096bf6cfa20ddc592cdc8b5c168af4e2c7d1c2c84bf10ac21efc7b5b5ceb"
+    },
+    "mods/veil-fabric-1.21.1-3.6.2.jar": {
+      "sha256": "bcccae754f231385a4d3812625e738e0b130a24d720bfb6d81b94450502d050b",
+      "size": 15211162,
+      "enc": true,
+      "plain_sha256": "4c3f2bd13259e0ba7da82503025ae9f2dbb18f98c7b3784c3d9cf153851816c9",
+      "plain_size": 15211125,
+      "multipart": "concat-v1",
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/bcccae754f231385a4d3812625e738e0b130a24d720bfb6d81b94450502d050b/0001-of-0002.bin",
+          "sha256": "da8515167ac21e092e6c9b3cac368b67cd29815ebbc25114197d17039757e223",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/bcccae754f231385a4d3812625e738e0b130a24d720bfb6d81b94450502d050b/0002-of-0002.bin",
+          "sha256": "b63cacc2a8740973c29cc3c8755beafe32d8a107a39ba082c15cca645240a23e",
+          "size": 6822554
+        }
+      ]
     },
     "mods/worldedit-mod-7.3.8.jar": {
       "sha256": "00838787813ad257b7bc9851cc698fb43b251552f5129d3cf276b712ef18ddbf",
