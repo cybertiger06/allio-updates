@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.04.234255",
+  "version": "2026.09.08.085154",
   "instance_id": "b0215760f38342d28aa31ad504e402a1",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2362,14 +2362,6 @@
       "plain_sha256": "b11a9e771ff424d7439a910c1515611d1921042621bf52ad29ffc061a3731b4d",
       "plain_size": 5423,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/8b8f6caad20a6109d6f611337c01a9910eab056f12938b32f847da3b00c26f4f"
-    },
-    "mods/alliouhc-2.6.0.jar": {
-      "sha256": "c2be96621a2b15b8b003f51485d7d3e516e226c24f9f9e86ce9c08cf624004fe",
-      "size": 8029125,
-      "enc": true,
-      "plain_sha256": "e9859edc7134d120bc97928416539deedff9eddcfda996725810f6d8136457ce",
-      "plain_size": 8029088,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/c2be96621a2b15b8b003f51485d7d3e516e226c24f9f9e86ce9c08cf624004fe"
     },
     "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar": {
       "sha256": "589f797901000c3ffc103797054f4a4552d2add77a7b38d08b3b06d56d6972c8",
@@ -6996,6 +6988,7 @@
     "mods/alliouhc-2.2.1.jar",
     "mods/alliouhc-2.3.0.jar",
     "mods/alliouhc-2.5.0.jar",
+    "mods/alliouhc-2.6.0.jar",
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/geckolib-fabric-1.21.1-4.8.2.jar"
   ]
