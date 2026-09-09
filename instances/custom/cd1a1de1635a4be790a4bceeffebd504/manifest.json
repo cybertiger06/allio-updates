@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.09.215708",
+  "version": "2026.09.09.222907",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -3066,6 +3066,206 @@
       "plain_sha256": "beffafa5e7bc08b56261415971e8538d19d0569cb212f700193515d6e481f7c2",
       "plain_size": 88,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/87cce509024e6433ba59f9f9cf52fa621e6a8ada5165a9e33ae77e4cf71d3ff3"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/pack.mcmeta": {
+      "sha256": "97e31ada1de498c7b0a259f6804da90f71d9bf646fc6634085ef5c9df39b89bf",
+      "size": 212,
+      "enc": true,
+      "plain_sha256": "e41e24a7dcc6a987dd4ab44a8ac90129bd39b69257a2c18e30256304450ede94",
+      "plain_size": 175,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/97e31ada1de498c7b0a259f6804da90f71d9bf646fc6634085ef5c9df39b89bf"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/pack.png": {
+      "sha256": "768df6e287a1afd771764ee70ec5702a98a1fd07e50257ca4feb9f39bff34598",
+      "size": 242838,
+      "enc": true,
+      "plain_sha256": "031d8ce3386bb7ea18f7796ad3b7b921932dc2d902f641eba5b0d7f92669ff2a",
+      "plain_size": 242801,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/768df6e287a1afd771764ee70ec5702a98a1fd07e50257ca4feb9f39bff34598"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/elytra.jem": {
+      "sha256": "242d4e86c9a8fbc67fa5acfa8f46d9b99cdd5205eb2d5f7affa8323303a36e2b",
+      "size": 1803,
+      "enc": true,
+      "plain_sha256": "e3d3bce015bec1c8bc4759ff71d0279ff44ba147efccef3e41b4d8ca8978561f",
+      "plain_size": 1766,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/242d4e86c9a8fbc67fa5acfa8f46d9b99cdd5205eb2d5f7affa8323303a36e2b"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/player.jem": {
+      "sha256": "d1835cf711ba0e39376220306dcb3a56b6c6be8effa3fdc307eb7aecd6422b46",
+      "size": 175700,
+      "enc": true,
+      "plain_sha256": "17937cd5a4f8757eab9a82edf401c329cbb8ac65317ded8a66243ec7f3aaacd9",
+      "plain_size": 175663,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d1835cf711ba0e39376220306dcb3a56b6c6be8effa3fdc307eb7aecd6422b46"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/player_cape.jem": {
+      "sha256": "5803b1351e3f97161c891e365077a800895ddaedb1bf30fd7e28020ad92d9d76",
+      "size": 710,
+      "enc": true,
+      "plain_sha256": "7e02f16f41cb2cca17c774092acd8368a718c263857c0ca0b84aeffd7e464826",
+      "plain_size": 673,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/5803b1351e3f97161c891e365077a800895ddaedb1bf30fd7e28020ad92d9d76"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/player_slim.jem": {
+      "sha256": "261982b073804163fa78563d595667084d1f9878fe59db3af1179e432fd542e7",
+      "size": 175717,
+      "enc": true,
+      "plain_sha256": "904da90a71cf64bd666c4754aa6ef68a43278458fb3de5ee068b490004582f0a",
+      "plain_size": 175680,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/261982b073804163fa78563d595667084d1f9878fe59db3af1179e432fd542e7"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/alex.png": {
+      "sha256": "9d6adc3c398298589a7113acc2c490aaea210873ff3df3862abfe9c4341203dd",
+      "size": 2450,
+      "enc": true,
+      "plain_sha256": "70c39b3d67de76f6a143b93bd183fb6911b2ea763c07ec25fecfcbc02662f0a3",
+      "plain_size": 2413,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/9d6adc3c398298589a7113acc2c490aaea210873ff3df3862abfe9c4341203dd"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/ari.png": {
+      "sha256": "4f477d22cdc85b6dd16d8267cfc28ffef960e9b45b8b8461db96efaaa02662ea",
+      "size": 2158,
+      "enc": true,
+      "plain_sha256": "193fcb8ebff51f1bddb3bb955ceeead3a601b2365a26b5c5908ad885627a0d27",
+      "plain_size": 2121,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/4f477d22cdc85b6dd16d8267cfc28ffef960e9b45b8b8461db96efaaa02662ea"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/efe.png": {
+      "sha256": "757791b0eee0041c99affae3325b274ae077d91ec9247b5775ffc96c082e4b2d",
+      "size": 2427,
+      "enc": true,
+      "plain_sha256": "c42c62cdaef2959203497835f65895e4d87517944b1627c44db8265651d88617",
+      "plain_size": 2390,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/757791b0eee0041c99affae3325b274ae077d91ec9247b5775ffc96c082e4b2d"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/kai.png": {
+      "sha256": "b90e6524c82887be3f19667683ef7f0f82a9ac712abfd1418bf07d9fe2d7f169",
+      "size": 2814,
+      "enc": true,
+      "plain_sha256": "8e13ec48ea891f07551b91846ac08790324b4af14487028a780ef871e0fa2e55",
+      "plain_size": 2777,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b90e6524c82887be3f19667683ef7f0f82a9ac712abfd1418bf07d9fe2d7f169"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/makena.png": {
+      "sha256": "58781b77f52bb343d79e4d8d23a4770f7864a19276c9cfad1512d433f2e051e9",
+      "size": 2805,
+      "enc": true,
+      "plain_sha256": "d2823e82b1b57e5abeee82a1097561d20de979b68d6ad7673ffc3b06b1fcf7fb",
+      "plain_size": 2768,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/58781b77f52bb343d79e4d8d23a4770f7864a19276c9cfad1512d433f2e051e9"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/noor.png": {
+      "sha256": "8d34380ca8bad74173b21d646b3ea9865e5a6b2930793f01751c7ddeaea15a0d",
+      "size": 2064,
+      "enc": true,
+      "plain_sha256": "c56a500f5889c8cf3ff6c876b4a713a1d74996ca49e803ee51f29e18e754b27e",
+      "plain_size": 2027,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/8d34380ca8bad74173b21d646b3ea9865e5a6b2930793f01751c7ddeaea15a0d"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/steve.png": {
+      "sha256": "5683f2a69a7be692cd17755d277ca0168aa63f2d8bc1563e8483e5e7035aad12",
+      "size": 2106,
+      "enc": true,
+      "plain_sha256": "f563b2232eb0723bb12207d5bbbb9c3b7e8f952a42baa336bf7ad2fccced2f68",
+      "plain_size": 2069,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/5683f2a69a7be692cd17755d277ca0168aa63f2d8bc1563e8483e5e7035aad12"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/sunny.png": {
+      "sha256": "1f79f56c69a5d3c21c3f09233e704ac0d615b056f588d1b0bcaea814f9ce3990",
+      "size": 2341,
+      "enc": true,
+      "plain_sha256": "22f07eb9e9ca031b4285d6c503174bb759c1b8082d562f039d4f3d0bab948dbf",
+      "plain_size": 2304,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/1f79f56c69a5d3c21c3f09233e704ac0d615b056f588d1b0bcaea814f9ce3990"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/slim/zuri.png": {
+      "sha256": "fae8d3267de169220a94d290451a08d4429b6900129df5588bc8b56d0c42b7cc",
+      "size": 2256,
+      "enc": true,
+      "plain_sha256": "d0c81888f6ccd97dffb4a21f0b02dfeaf789a8126c36ed33485d81b685913031",
+      "plain_size": 2219,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/fae8d3267de169220a94d290451a08d4429b6900129df5588bc8b56d0c42b7cc"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/test/test.png": {
+      "sha256": "dd1387abba9ea7b9e8e8eda4d2357cc17640b8370f6b5a4b6a3cbbc27921ef97",
+      "size": 900,
+      "enc": true,
+      "plain_sha256": "8ef4e77093a47f69833a1e53fc67280bb7c486c91402cacc5c1b03f541e36759",
+      "plain_size": 863,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/dd1387abba9ea7b9e8e8eda4d2357cc17640b8370f6b5a4b6a3cbbc27921ef97"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/alex.png": {
+      "sha256": "f96badb2ac24a28f1fd625a1c8ace535c74ee4bf6a6fa37f14bfe2687b1563e3",
+      "size": 2450,
+      "enc": true,
+      "plain_sha256": "2e7302a5bfbab2963c2b4ab3f7f6500550e72d331d3196bdda94324ad62ae003",
+      "plain_size": 2413,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/f96badb2ac24a28f1fd625a1c8ace535c74ee4bf6a6fa37f14bfe2687b1563e3"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/ari.png": {
+      "sha256": "27b9d611735846c00fcc68c68d9a460242112d326d9839fcdcec8943e5d71bd8",
+      "size": 2182,
+      "enc": true,
+      "plain_sha256": "e79ce23de85b95b9cea8c95bedd9781b1f022da63120739178e259000374092e",
+      "plain_size": 2145,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/27b9d611735846c00fcc68c68d9a460242112d326d9839fcdcec8943e5d71bd8"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/efe.png": {
+      "sha256": "8db213123dc9ca422f639c671851d39250902f646e6eae9d0d7cc36befce1bea",
+      "size": 2453,
+      "enc": true,
+      "plain_sha256": "0d979a3cf05b8134880201207a211d961a905e48a0443b12abdae1d8bca4502e",
+      "plain_size": 2416,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/8db213123dc9ca422f639c671851d39250902f646e6eae9d0d7cc36befce1bea"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/kai.png": {
+      "sha256": "f7d4ed821e63a7ae5f4e9dc0e7c7b376c7a153b7f2fdde245eaab7a2fadfcd71",
+      "size": 2832,
+      "enc": true,
+      "plain_sha256": "bbede583d862e1f1b66ea0257120337329c2e9c73637cd11ab0e95a588a1f475",
+      "plain_size": 2795,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/f7d4ed821e63a7ae5f4e9dc0e7c7b376c7a153b7f2fdde245eaab7a2fadfcd71"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/makena.png": {
+      "sha256": "72f3f6cd4362f8c85ce7d756b02757b320220150eb175a9aa215129103363110",
+      "size": 2791,
+      "enc": true,
+      "plain_sha256": "f98549f578e155c7eef2f87375b9c4b7c17ead3347c668aebfc1fe76ffb08ef7",
+      "plain_size": 2754,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/72f3f6cd4362f8c85ce7d756b02757b320220150eb175a9aa215129103363110"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/noor.png": {
+      "sha256": "7f23f91e27e96045de3d631453a6c28722065f49452e260a24dec1b8de80178e",
+      "size": 2068,
+      "enc": true,
+      "plain_sha256": "943b4be190d6c3cf98f1e16b9f6761e695e6fbe92fc3046d6a7f7193dfb5725a",
+      "plain_size": 2031,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/7f23f91e27e96045de3d631453a6c28722065f49452e260a24dec1b8de80178e"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/steve.png": {
+      "sha256": "5a25e0be48b4aa181844d911bd1a6d5a7e6d6dc4b8fe5c6676780d7ca9a8c04f",
+      "size": 2141,
+      "enc": true,
+      "plain_sha256": "6e67e7414eff312ac4f3e2f8e00ae822426a6354bca87ccdaef31921a4dd585d",
+      "plain_size": 2104,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/5a25e0be48b4aa181844d911bd1a6d5a7e6d6dc4b8fe5c6676780d7ca9a8c04f"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/sunny.png": {
+      "sha256": "4fcbd14c472e2cfbf07381c65d534e277496efbfcab27604a0afc49131622031",
+      "size": 2312,
+      "enc": true,
+      "plain_sha256": "ce2f978b3a3e67942873c2aa84ab5c041f995aafa9b429c0c4dd0b022556f55d",
+      "plain_size": 2275,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/4fcbd14c472e2cfbf07381c65d534e277496efbfcab27604a0afc49131622031"
+    },
+    "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/textures/entity/player/wide/zuri.png": {
+      "sha256": "d48685bb1ed75d0ed194eb89806a7c9c9a7c26f7eab03feb4a8d864b93318e10",
+      "size": 2292,
+      "enc": true,
+      "plain_sha256": "23795c66389e05551c58ab6080606e7962412578c2b22043d88c33ed721cefa8",
+      "plain_size": 2255,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d48685bb1ed75d0ed194eb89806a7c9c9a7c26f7eab03feb4a8d864b93318e10"
     }
   },
   "delete": [
