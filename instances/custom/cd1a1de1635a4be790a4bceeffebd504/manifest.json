@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.09.063812",
+  "version": "2026.09.09.063933",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2604,6 +2604,14 @@
       "plain_sha256": "e764e140998f4c1a8da1533d230790e7862c81e9823ced6ad9597fe69b6d824e",
       "plain_size": 193,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/68da829b66a67f21f49907239bdfc45a8dea56e5a3b3111a9d192c56a6ef7fc4"
+    },
+    "mods/CMDCam-Fabric-new.jar": {
+      "sha256": "91c93ef2edcf186357592c2b1bfae199efb473f2b1e7597d8025b83614196f08",
+      "size": 182132,
+      "enc": true,
+      "plain_sha256": "242c4260e50337d88cd7ab18845b404bd5cd61133dde78bf5de1e75ac5705ccc",
+      "plain_size": 182095,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/91c93ef2edcf186357592c2b1bfae199efb473f2b1e7597d8025b83614196f08"
     },
     "mods/CreativeCore_FABRIC_v2.13.14_mc1.21.1.jar": {
       "sha256": "9edff97a0d651da416e52a23b8058f57210b91483279771a7d7e0b70140b6e16",
