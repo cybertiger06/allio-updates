@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.09.222907",
+  "version": "2026.09.09.225716",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -3022,10 +3022,10 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/00838787813ad257b7bc9851cc698fb43b251552f5129d3cf276b712ef18ddbf"
     },
     "options.txt": {
-      "sha256": "e1cfaf5b2c2bd0791f0a673096e94382e4eda1782d3aa5631059141798b57d84",
-      "size": 4420,
+      "sha256": "d17db50ec3b6b3148368a432b56247591c93b40cf473ebdd8886561da3b5a13e",
+      "size": 4473,
       "enc": false,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/e1cfaf5b2c2bd0791f0a673096e94382e4eda1782d3aa5631059141798b57d84"
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d17db50ec3b6b3148368a432b56247591c93b40cf473ebdd8886561da3b5a13e"
     },
     "replay_pid15916.log": {
       "sha256": "6c4d2ce99d85bb1106e6e8ce68e0d8b66caeb5495aa283de9912424987e207fb",
