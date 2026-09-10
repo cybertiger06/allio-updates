@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.10.025012",
+  "version": "2026.09.10.025206",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2852,14 +2852,6 @@
       "plain_size": 188035,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/fc6f631d39db3508999e46851b7764783eb8636820c40643f5371d8e40545bd6"
     },
-    "mods/mixinextras-fabric-0.5.5.jar": {
-      "sha256": "8acda9f1046c717adaaef0c707d03cdd31a2d24da800bb038f904c98a35eb455",
-      "size": 727901,
-      "enc": true,
-      "plain_sha256": "5da883dc4bfb16e4ceca3f16d8c4ad937bdfb1ce337ed5ba15472d4d81dd6242",
-      "plain_size": 727864,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/8acda9f1046c717adaaef0c707d03cdd31a2d24da800bb038f904c98a35eb455"
-    },
     "mods/modmenu-11.0.4.jar": {
       "sha256": "8fecdbcec25ccdd448b7240fcc65f8627401e3ef894e2f523b9ed75c25f7b3b6",
       "size": 973096,
@@ -3084,6 +3076,7 @@
     "mods/extremo3-0.1.4+1.21.1.jar",
     "mods/extremo3-adapted-0.1.3.jar",
     "mods/mcextremo3-1.0.4.jar",
+    "mods/mixinextras-fabric-0.5.5.jar",
     "mods/parcool-fabric-4.0.0.3.jar",
     "mods/vanish-1.6.5+1.21.1.jar",
     "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/elytra.jem",
