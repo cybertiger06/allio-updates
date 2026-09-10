@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.10.025206",
+  "version": "2026.09.10.025350",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2988,6 +2988,14 @@
       "plain_sha256": "5e7752c97876d87411e3760bcc573cc431f43c453722e6959fa7fe54db1b01ca",
       "plain_size": 6222854,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/00838787813ad257b7bc9851cc698fb43b251552f5129d3cf276b712ef18ddbf"
+    },
+    "mods/xaeroworldmap-fabric-1.21.1-1.45.0.jar": {
+      "sha256": "4fa03378785a82bfadb08a6c800c4bf0f2dc51c1d3e7b05ec4c129800b6cb180",
+      "size": 1451631,
+      "enc": true,
+      "plain_sha256": "ea84c45cb1b994a7738515670b281bcd373a9d9cc3d8d3a24b84a4baf302b9d6",
+      "plain_size": 1451594,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/4fa03378785a82bfadb08a6c800c4bf0f2dc51c1d3e7b05ec4c129800b6cb180"
     },
     "options.txt": {
       "sha256": "275439c062ee43e6d4bc0bda33dd12ff02991a8f4f403bedb47be18e4c06bd56",
