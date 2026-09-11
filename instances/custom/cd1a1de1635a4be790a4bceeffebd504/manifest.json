@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.11.094529",
+  "version": "2026.09.11.152826",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2963,6 +2963,26 @@
       "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
       "plain_size": 13188,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/344a03acf702ea084bc7e7dccf85b5ae59b433303b609e924e6e7416f628a14d"
+    },
+    "mods/replaymod-1.21-2.6.27.jar": {
+      "sha256": "e228ee99acb33612a9ee4cecb5ee07241c6f0bcb108b0d91a21da9cbed879a79",
+      "size": 15662237,
+      "enc": true,
+      "plain_sha256": "3cf4ce6223ddf94c4e37200e66e9bac7627d208eea15417608bdc64bd1692cfc",
+      "plain_size": 15662200,
+      "multipart": "concat-v1",
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/e228ee99acb33612a9ee4cecb5ee07241c6f0bcb108b0d91a21da9cbed879a79/0001-of-0002.bin",
+          "sha256": "ebb97eb09d76e3e82bb752a3447a494f5a4b8cdbfa96524a7c72eec94973a2b2",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/e228ee99acb33612a9ee4cecb5ee07241c6f0bcb108b0d91a21da9cbed879a79/0002-of-0002.bin",
+          "sha256": "46c63746dd60ce7dd4685cea6ee67ca2ff4f7ef836e1580d0e2becc9d1bcf698",
+          "size": 7273629
+        }
+      ]
     },
     "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
       "sha256": "15ee096bf6cfa20ddc592cdc8b5c168af4e2c7d1c2c84bf10ac21efc7b5b5ceb",
