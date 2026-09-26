@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.26.171607",
+  "version": "2026.09.26.171714",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -158,14 +158,6 @@
       "plain_sha256": "b2fb0a32b845dbd319019414ef47f4fb641d6600d3e35c628db2559b0bf058db",
       "plain_size": 1639443,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/095d26ea9ef84e09799de8e9bad501e2a9fd46a326870cdc5696e7c40305a946"
-    },
-    "config/fancymenu/assets/extremofondo.gif": {
-      "sha256": "75b9ef65634386942b7d872ebf3c28a8a7fb52b13d34fb6d5217ae1a918b6b42",
-      "size": 6906826,
-      "enc": true,
-      "plain_sha256": "a63bedae8cab7e664c7019f7fa04f7496a28b465a6bb0248e76f673ee1c2a382",
-      "plain_size": 6906789,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/75b9ef65634386942b7d872ebf3c28a8a7fb52b13d34fb6d5217ae1a918b6b42"
     },
     "config/fancymenu/assets/extremoico.icns": {
       "sha256": "b4d11aa2a92cb1032496991e3d29b7e8ec0dee67874cd4ed455f8e80451c5bd0",
@@ -3404,6 +3396,7 @@
     "C:/Users/USUARIO/AppData/Roaming/AllioClient/data/instances/b0215760f38342d28aa31ad504e402a1/resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/pack.png",
     "config/extremosinallio.png",
     "config/fancymenu/assets/extrefondo.png",
+    "config/fancymenu/assets/extremofondo.gif",
     "mods/Flashback-0.39.8-for-MC1.21.jar",
     "mods/allioextremo-0.2.0+1.21.1.jar",
     "mods/allioextremo-0.2.3+1.21.1.jar",
