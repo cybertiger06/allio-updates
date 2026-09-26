@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.26.171714",
+  "version": "2026.09.26.171844",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -198,6 +198,14 @@
       "plain_sha256": "84060964bc0957847c8b03f32a6f7d7c2e9eebd6232645f1b4690ecc3198551b",
       "plain_size": 7812,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/49f3fc587e677b1f0b24dcf35cbb1e101e97253f7c00217808703d09556d2d44"
+    },
+    "config/fancymenu/assets/fondoextremo.gif": {
+      "sha256": "4a301460246ca16df0afac8ff095735eb198d68875e8f63b728fd079a68bbda5",
+      "size": 6906826,
+      "enc": true,
+      "plain_sha256": "a63bedae8cab7e664c7019f7fa04f7496a28b465a6bb0248e76f673ee1c2a382",
+      "plain_size": 6906789,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/4a301460246ca16df0afac8ff095735eb198d68875e8f63b728fd079a68bbda5"
     },
     "config/fancymenu/assets/gleiber.png": {
       "sha256": "b4a6182098c4e82742d57700cde14803a69d5d040cec69002f03493fa1e3f09c",
