@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.27.162241",
+  "version": "2026.09.27.163044",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2993,14 +2993,6 @@
       "plain_size": 266292,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/29725476d925648a5f37c509f8b810790c139ae2a30841470db6203cc6f0df38"
     },
-    "mods/watermedia-3.0.0.23.jar": {
-      "sha256": "c7eb178d7e8917bc1df3f7f4e56a7ecc8968360a9ef82e54dddae20d4195dcf1",
-      "size": 3625482,
-      "enc": true,
-      "plain_sha256": "23f3d112ea973f6071e0ac9b1877282c6302ae9efd72428584209fc02219d12a",
-      "plain_size": 3625445,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/c7eb178d7e8917bc1df3f7f4e56a7ecc8968360a9ef82e54dddae20d4195dcf1"
-    },
     "mods/worldedit-mod-7.3.8.jar": {
       "sha256": "00838787813ad257b7bc9851cc698fb43b251552f5129d3cf276b712ef18ddbf",
       "size": 6222891,
@@ -3739,6 +3731,7 @@
     "mods/parcool-fabric-4.0.0.3.jar",
     "mods/replaymod-1.21-2.6.27.jar",
     "mods/vanish-1.6.5+1.21.1.jar",
+    "mods/watermedia-3.0.0.23.jar",
     "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/elytra.jem",
     "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/player.jem",
     "resourcepacks/-1.21.2 Fresh Moves v3.1 (With Animated Eyes)/assets/minecraft/optifine/cem/player_cape.jem",
