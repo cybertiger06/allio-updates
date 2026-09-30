@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.30.183018",
+  "version": "2026.09.30.183146",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2869,6 +2869,26 @@
         }
       ]
     },
+    "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar": {
+      "sha256": "9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213",
+      "size": 12381507,
+      "enc": true,
+      "plain_sha256": "687cc049798a6889c2f4aff0366791a4876241908e662743da975f363b17b508",
+      "plain_size": 12381470,
+      "multipart": "concat-v1",
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213/0001-of-0002.bin",
+          "sha256": "5c2717b8b948de1546a0fe7195bfe5f76cc601858599cf0befe9528f76eb9e40",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213/0002-of-0002.bin",
+          "sha256": "d4887785b64dcbd3a1826625656ae0032ac749e07ab73ec238a64e25eed063b6",
+          "size": 3992899
+        }
+      ]
+    },
     "mods/better-clouds-1.13.7+1.21.1-fabric.jar": {
       "sha256": "410b72310ca26d0c29b8d393a76ff88601a149c6cc203fa7f4a66bb56c090ddb",
       "size": 816124,
@@ -3935,7 +3955,6 @@
     "mods/allioextremo-0.7.0+1.21.1.jar",
     "mods/allioextremo-0.7.1+1.21.1.jar",
     "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar",
-    "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar",
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/cinematica-fabric-4.0.0.jar",
     "mods/entity_model_features-3.3.5-1.21-fabric.jar",
