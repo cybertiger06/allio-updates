@@ -1,15 +1,15 @@
 {
-  "version": "2026.09.30.183146",
+  "version": "2026.10.02.050152",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
     "command_history.txt": {
-      "sha256": "ba050d9c4d796e4f34582027b72afcbfea86a6ed01ba4978f2df94f8553a57fb",
-      "size": 699,
+      "sha256": "ab0f5bac1f5cf9d05a9be65092ec054777a8a2041a17b27d62104f403abaf06e",
+      "size": 847,
       "enc": true,
-      "plain_sha256": "e4b38c092d432cf7d6fda72b7ee5b11e9c305ab9af7bd81b55e14496647179c7",
-      "plain_size": 662,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/ba050d9c4d796e4f34582027b72afcbfea86a6ed01ba4978f2df94f8553a57fb"
+      "plain_sha256": "99acbee928dbac39e714a9ec5ddb4a16bb487d7733300fc8089b80f8dabca6a7",
+      "plain_size": 810,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/ab0f5bac1f5cf9d05a9be65092ec054777a8a2041a17b27d62104f403abaf06e"
     },
     "config/DistantHorizons.toml": {
       "sha256": "358719f7cde0a9b60ef74e04fd160897e1a4ed0c3f4341750aa4aa14d380529d",
@@ -128,12 +128,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/5a77a0d249d2aeeb8e9e36d4f7282d1f83a2d7224a84e7697046b57d9333c17e"
     },
     "config/fabric/indigo-renderer.properties": {
-      "sha256": "9eefcf11e1dd1156bad40d7f3cdcdc1c936aa733d4842c11303f0db74dd96655",
+      "sha256": "0eea3af437eca7e31a2fde26b6130b03a2ef03a10c73af48c845018ccdbad745",
       "size": 328,
       "enc": true,
-      "plain_sha256": "02f898f791065c7f075e36d25a848767ed2ac9ff0fb8ebd2f87116e5aacb1e85",
+      "plain_sha256": "5598ea377e8de796fa26e5e35789242f1a66233ba94868b383bc379f6c6eeb36",
       "plain_size": 291,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/9eefcf11e1dd1156bad40d7f3cdcdc1c936aa733d4842c11303f0db74dd96655"
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/0eea3af437eca7e31a2fde26b6130b03a2ef03a10c73af48c845018ccdbad745"
     },
     "config/fancymenu/assets/alliologo.png": {
       "sha256": "dc381d6f6695920068e832b562cef587666287449f1945fa256de21407447624",
@@ -879,12 +879,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/db5c4c1b91ba5a67ac3c081603748a5e2de1276069bc51ea4d99fce82ca66102"
     },
     "config/plasmovoice/meta_cache.json": {
-      "sha256": "f5d3646c8a3e7f6d7976c8844eb130d3cf3ed040cc26c271935eeb19aa37b831",
+      "sha256": "037deb49b0d4a1f6dd384df0fa78330f484f79f553b24a2f73f8ed7e65354501",
       "size": 1346,
       "enc": true,
-      "plain_sha256": "d0f3ec69ce0b601f0e124600f64a3b168998f875cc2af07ff5a6a675116e6510",
+      "plain_sha256": "05e5dd02454720484572310431c2ab62ea04f27dbce42263a510afc58dfa9f5b",
       "plain_size": 1309,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/f5d3646c8a3e7f6d7976c8844eb130d3cf3ed040cc26c271935eeb19aa37b831"
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/037deb49b0d4a1f6dd384df0fa78330f484f79f553b24a2f73f8ed7e65354501"
     },
     "config/plasmovoice/server/config.toml": {
       "sha256": "d5fa978e5829fb35eb923e851ecd9505a6056ca41b43501b83020ad4bb7c9370",
@@ -2814,61 +2814,6 @@
       "plain_size": 1477434,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d854d914be93518461a9a5c7aac085f06cd631863a40befb21fd562a16216bd5"
     },
-    "mods/allioextremo-0.7.2+1.21.1.jar": {
-      "sha256": "925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341",
-      "size": 69994753,
-      "enc": true,
-      "plain_sha256": "118b934475fc174a8f992edcf4bfb0dbae46b84b8e5ac84f61dbc67313ac70f3",
-      "plain_size": 69994716,
-      "multipart": "concat-v1",
-      "parts": [
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0001-of-0009.bin",
-          "sha256": "92e07b88e08f13342fa0b5a77a5f111e54a64e4166385a6066bf1a4f42efef6f",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0002-of-0009.bin",
-          "sha256": "416a75dc6aff2386149b71e72d53fa5a4340e3a4fa21a1a29d4212953e2d16be",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0003-of-0009.bin",
-          "sha256": "9e30660447149e71df5d32c55ab8a770fff8447facfbbea4b5b8531e14168687",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0004-of-0009.bin",
-          "sha256": "72f875829b553f5cc0916d6b23ec2b3a9cf3af15dc58706525622061693709dc",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0005-of-0009.bin",
-          "sha256": "abb9bcdac1a303ee4b7b33469e29846a831840e547315f6aec2845feb2434a62",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0006-of-0009.bin",
-          "sha256": "bd488467747e89140089262f017e71e6180b35733e9a2869fa519f3fe76c5d22",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0007-of-0009.bin",
-          "sha256": "7dbc0694c27f0cb154096c6f678f2e2c1855ebb0cf1b9076b5e90e137f83b57d",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0008-of-0009.bin",
-          "sha256": "c0c7625cb49b431038d0ce22da007dfbdcc96d64e9d53bc040d62f96e2ebdaef",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/925d8a716ae6b797fcabcaed6b781bd8d96c1de7f5f217d326ca507b6e995341/0009-of-0009.bin",
-          "sha256": "53c28aa54e9f74dc0e0efd0d5be65a6db7e3e16661a2064a65d1f19cea736326",
-          "size": 2885889
-        }
-      ]
-    },
     "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar": {
       "sha256": "9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213",
       "size": 12381507,
@@ -3594,28 +3539,28 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/baf42d6b0c9087b02472f007ebb54c67d903308cfc6f6c9abe1548fea798275f"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/-1_-1.zip": {
-      "sha256": "a983c91f5883f266094e31a4ff15aa8eef98a90ce39790c0452f0b13c6b06494",
-      "size": 2843,
+      "sha256": "62d39243fd897dbd8713e9b1aab62e1223335585f2c56b9994455cea9d3869dc",
+      "size": 15865,
       "enc": true,
-      "plain_sha256": "f7fdd894c944b721325a707c3d1853f3dcd235b1716b37ee6ec10fb7a8f9b53e",
-      "plain_size": 2806,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/a983c91f5883f266094e31a4ff15aa8eef98a90ce39790c0452f0b13c6b06494"
+      "plain_sha256": "eeb35addd5fec393a1f1b175d934e62c2b7f8a99a5ee43f97b7016418d7c7a36",
+      "plain_size": 15828,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/62d39243fd897dbd8713e9b1aab62e1223335585f2c56b9994455cea9d3869dc"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/-1_0.zip": {
-      "sha256": "dd740a6f9dd0d2d13f4c0452f081adf3fa73c61a501b158539831767ed866312",
-      "size": 40117,
+      "sha256": "d4baa7375a32d35bda61a544b3381e45c31a22d98d4fd3b567bc95794ea67f4d",
+      "size": 85261,
       "enc": true,
-      "plain_sha256": "9470e30f8ec49dbd70951603e01ba22324b1462f102b578397f8758f5e7a199d",
-      "plain_size": 40080,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/dd740a6f9dd0d2d13f4c0452f081adf3fa73c61a501b158539831767ed866312"
+      "plain_sha256": "f0303fab92b26bed8d59a0c1f23e9f1a2beb755b4e86571c18dee7216dda38f9",
+      "plain_size": 85224,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d4baa7375a32d35bda61a544b3381e45c31a22d98d4fd3b567bc95794ea67f4d"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/-1_1.zip": {
-      "sha256": "0cc1d3abbe26a25f4c160425a851219150d42a7dceffb3000324c1f1c9e6532a",
-      "size": 563,
+      "sha256": "bd4cfc7af70f1b109b64762d3543cdc7c2c65b3ad684fe11fb0fef09ca1189e7",
+      "size": 15180,
       "enc": true,
-      "plain_sha256": "0034b373d2db32b6d9ee90bc1492a31ecdb284a8f5fded0ec5b926d31ab9d5c9",
-      "plain_size": 526,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/0cc1d3abbe26a25f4c160425a851219150d42a7dceffb3000324c1f1c9e6532a"
+      "plain_sha256": "607ca4bf23328fb47bb262ec51ec706cd37ae16ba8bc0cf8d7006c612b3b34be",
+      "plain_size": 15143,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/bd4cfc7af70f1b109b64762d3543cdc7c2c65b3ad684fe11fb0fef09ca1189e7"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/.lock": {
       "sha256": "b8af10a702bc62e990443bae73b22831aa1843108f6f6dd112dbac236963e9dd",
@@ -3626,76 +3571,92 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b8af10a702bc62e990443bae73b22831aa1843108f6f6dd112dbac236963e9dd"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/0_-1.zip": {
-      "sha256": "98119e18e8712e85ae148fd4aa5a1cd89baceaf519e701ecbe93d629dfded606",
-      "size": 2878,
+      "sha256": "93506db6cce95a67a1ec2be4c06cb165751f26b0164fb6c619abce9780ec25e0",
+      "size": 46438,
       "enc": true,
-      "plain_sha256": "eb3aaaa9baa65298658d90e999b2463dd425080baa62ed143fdd1e6f12538f4c",
-      "plain_size": 2841,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/98119e18e8712e85ae148fd4aa5a1cd89baceaf519e701ecbe93d629dfded606"
+      "plain_sha256": "0eba979dd81f7cf7e315be587cfb18793e22fe02de50973b57c258ec101db786",
+      "plain_size": 46401,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/93506db6cce95a67a1ec2be4c06cb165751f26b0164fb6c619abce9780ec25e0"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/0_0.zip": {
-      "sha256": "41543487825aa0cd7b6743f29b11fc2bba8defd305df38048124c904b2c127d4",
-      "size": 185171,
+      "sha256": "6147ee4f4e4c8b3bd98d7e502162cc9ca87917afeffd3be752ad55d70bc92f46",
+      "size": 227921,
       "enc": true,
-      "plain_sha256": "019b24fe2aaa4d5efe314ec411b455d36dcc0a31bcf2372343346442f82a44f1",
-      "plain_size": 185134,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/41543487825aa0cd7b6743f29b11fc2bba8defd305df38048124c904b2c127d4"
+      "plain_sha256": "29dce93021e1cc4c1a1a7c569f9929152e0fb031d6efb0250acd5157c5df428d",
+      "plain_size": 227884,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/6147ee4f4e4c8b3bd98d7e502162cc9ca87917afeffd3be752ad55d70bc92f46"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/0_1.zip": {
-      "sha256": "23f308dc842d86cd0d18c73f6e99fb7e0a5c02e92e0c5f6ed20eb10bcdf89ba3",
-      "size": 6601,
+      "sha256": "b2156151f89a655b8c68593315fc39bb4213e95690873c8da38c7f161a1fcb4d",
+      "size": 52978,
       "enc": true,
-      "plain_sha256": "81391eb9855062048332d27f3157564902b54b3219f0aa281d2e2971280a48fe",
-      "plain_size": 6564,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/23f308dc842d86cd0d18c73f6e99fb7e0a5c02e92e0c5f6ed20eb10bcdf89ba3"
+      "plain_sha256": "d01009c82e9c90c7b7cafe0d451163d93a7ee0aff5f0f3c5f78c9313ce106801",
+      "plain_size": 52941,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b2156151f89a655b8c68593315fc39bb4213e95690873c8da38c7f161a1fcb4d"
+    },
+    "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/1_0.zip": {
+      "sha256": "ab9cdb6e713cc41a20cb53313fcb41a6530b4986afe8078ccd57e08bb50a379f",
+      "size": 5565,
+      "enc": true,
+      "plain_sha256": "6a1f80b04baf720394acb509f6818a4da1011af98702d38efb041481c214453c",
+      "plain_size": 5528,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/ab9cdb6e713cc41a20cb53313fcb41a6530b4986afe8078ccd57e08bb50a379f"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/-1_-1.xwmc.outdated": {
-      "sha256": "b4c2e5dc71472ac720a2fb896a94292beb3920011d36da045fcef9a0d68341c7",
-      "size": 4709,
+      "sha256": "70cc1b5db90cfe087bb5099cc1a72ef42bc4a18fb0b42db30c87aabbbf26391d",
+      "size": 28666,
       "enc": true,
-      "plain_sha256": "b557798fc680c63115ec4a557394cc1fe6ef3839d38c4d7c9e552659a802fa6e",
-      "plain_size": 4672,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b4c2e5dc71472ac720a2fb896a94292beb3920011d36da045fcef9a0d68341c7"
+      "plain_sha256": "76744c1c83bf5bb7b43a2a7cd2b506311446128618a3d9b3c7afad7f7422f39c",
+      "plain_size": 28629,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/70cc1b5db90cfe087bb5099cc1a72ef42bc4a18fb0b42db30c87aabbbf26391d"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/-1_0.xwmc.outdated": {
-      "sha256": "510f10f5680f615ed652443bd9b6f3f84fbad20f36e6f3284fe3a02b7a3d5e1f",
-      "size": 77709,
+      "sha256": "b009cbb42d561f661251807d91fd4821e2f773ccc742fb621cd8c2eb1231e707",
+      "size": 162433,
       "enc": true,
-      "plain_sha256": "7f736f3e1a0bbdca2b00ffbde3b243dcd170d5b82b5557b9057d46f75707d534",
-      "plain_size": 77672,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/510f10f5680f615ed652443bd9b6f3f84fbad20f36e6f3284fe3a02b7a3d5e1f"
+      "plain_sha256": "cedb308c0ea14e3cc82e18bc046a394095516d6afdd2db2c83561a2f61050b0f",
+      "plain_size": 162396,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b009cbb42d561f661251807d91fd4821e2f773ccc742fb621cd8c2eb1231e707"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/-1_1.xwmc.outdated": {
-      "sha256": "111df013815a2792a4fbe474be8470a168df472773185f865343a43e43d4cfc1",
-      "size": 989,
+      "sha256": "0ff53836a6966831c5418a84168722fd6db08f88df978bb59b1d35c8b32e7727",
+      "size": 27551,
       "enc": true,
-      "plain_sha256": "ab9c9bcec4c14f88d1fa6a77fefa5e8cf2bf7896eea09eb2ccbe8a80bdfa9323",
-      "plain_size": 952,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/111df013815a2792a4fbe474be8470a168df472773185f865343a43e43d4cfc1"
+      "plain_sha256": "300ceb60e51324b0b3967c32ea5a5972365bd466efc26eead8dcfcc9f14315e3",
+      "plain_size": 27514,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/0ff53836a6966831c5418a84168722fd6db08f88df978bb59b1d35c8b32e7727"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/0_-1.xwmc.outdated": {
-      "sha256": "634eea96c65c24fe5e788694b76cfe880940496eccd4ef882e724a5040f1f082",
-      "size": 6228,
+      "sha256": "7524f3e07c120dbfc6406e645c47ba4fd4e2bba5d595c1ef35726443b78a58bb",
+      "size": 81657,
       "enc": true,
-      "plain_sha256": "b6486ff8cdf5583ba85099a9d16bed0f24022f24d88a52c13a3213b02c8aeb0b",
-      "plain_size": 6191,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/634eea96c65c24fe5e788694b76cfe880940496eccd4ef882e724a5040f1f082"
+      "plain_sha256": "95b11b28e56e3c85329aa8f3113e2a8147123a40f2526fe06a5735d8da2f5678",
+      "plain_size": 81620,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/7524f3e07c120dbfc6406e645c47ba4fd4e2bba5d595c1ef35726443b78a58bb"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/0_0.xwmc.outdated": {
-      "sha256": "3023b83042c36c6c40f8adbfbf8ed2a00ff9cb0ed2dbef2d7f371b041c02cc9a",
-      "size": 296628,
+      "sha256": "a02a36031d08f3a85a55140f381e552fe7a3dc0d1ff0d61e3086bbe3a5d53e19",
+      "size": 368392,
       "enc": true,
-      "plain_sha256": "58a074442538787e4d26b7b9546b3f714591fdf2c8f29a9bdde1e662585b5e50",
-      "plain_size": 296591,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/3023b83042c36c6c40f8adbfbf8ed2a00ff9cb0ed2dbef2d7f371b041c02cc9a"
+      "plain_sha256": "2ae73fc0772b00f637bc9c189e5f8ba6f09683dcb06f5d8b06da386438227ab3",
+      "plain_size": 368355,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/a02a36031d08f3a85a55140f381e552fe7a3dc0d1ff0d61e3086bbe3a5d53e19"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/0_1.xwmc.outdated": {
-      "sha256": "8ac31cd358ca5ca378bf6ee823a2a3413c372921242e72cae063593fde47ed7f",
-      "size": 13833,
+      "sha256": "09b613e2efecad37a5f4769d4d597ddf18dc1aaaa23da8e1577604f3b9a6f6db",
+      "size": 93438,
       "enc": true,
-      "plain_sha256": "aac499be29aa90819f108a776b207f57cbb7113c91428bbce7160c1a6dcc4532",
-      "plain_size": 13796,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/8ac31cd358ca5ca378bf6ee823a2a3413c372921242e72cae063593fde47ed7f"
+      "plain_sha256": "6d7e183c3aa8df72287323613d101c2eb7583502eaf3adbcdffb59bf4baf445a",
+      "plain_size": 93401,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/09b613e2efecad37a5f4769d4d597ddf18dc1aaaa23da8e1577604f3b9a6f6db"
+    },
+    "xaero/world-map/Multiplayer_185.207.164.204/null/mw$1229067105/cache_1/1_0.xwmc": {
+      "sha256": "b184836076f0936999bfb704215148d7c47c7f88c6936e1a4acdc62f8ede29a5",
+      "size": 11383,
+      "enc": true,
+      "plain_sha256": "a14efdbc216f9d7c459396be1fae7351abe23be2afa7acedb8333942b9c39b80",
+      "plain_size": 11346,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b184836076f0936999bfb704215148d7c47c7f88c6936e1a4acdc62f8ede29a5"
     },
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$2120933325/-1_-1.zip": {
       "sha256": "fe8827a98024b804fc5d889785adad6475d35dfc97e28d6c653bf50d47ed5977",
@@ -3954,6 +3915,7 @@
     "mods/allioextremo-0.6.9+1.21.1.jar",
     "mods/allioextremo-0.7.0+1.21.1.jar",
     "mods/allioextremo-0.7.1+1.21.1.jar",
+    "mods/allioextremo-0.7.2+1.21.1.jar",
     "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar",
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/cinematica-fabric-4.0.0.jar",
