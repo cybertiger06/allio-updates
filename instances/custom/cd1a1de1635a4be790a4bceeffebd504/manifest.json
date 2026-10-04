@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04.210023",
+  "version": "2026.10.04.210428",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2837,6 +2837,61 @@
       "plain_sha256": "c5db7d4adab22539a75605ac00d18cc52ed09066ccde3b42e7315155dd897c4a",
       "plain_size": 1477434,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d854d914be93518461a9a5c7aac085f06cd631863a40befb21fd562a16216bd5"
+    },
+    "mods/allioextremo-0.7.8+1.21.1.jar": {
+      "sha256": "2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66",
+      "size": 70219092,
+      "enc": true,
+      "plain_sha256": "5c398995bba3cab3b33b53b456acad6764b37d56fabc0662fea9874bb91dd911",
+      "plain_size": 70219055,
+      "multipart": "concat-v1",
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0001-of-0009.bin",
+          "sha256": "5a172438c93bb10d41bd8ea867149df850d90b1ef2c54836d6a0a6de9badd522",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0002-of-0009.bin",
+          "sha256": "5cd963a97680272687a9f89ab1fe015d3e75576e48f9875022a4a75d7069d153",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0003-of-0009.bin",
+          "sha256": "dce0b285d969508fc4965f26578c20374bd5361d888b08ce77642a214acb5901",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0004-of-0009.bin",
+          "sha256": "ad3b75d411ec7a45cbedf2d9b8ede5bc8e2084e92ad6b02f3f5dadab9243d730",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0005-of-0009.bin",
+          "sha256": "3be89a2269b88de4dd78fe05c899adb1f9410b9fa94ff9879baf014fa1e77324",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0006-of-0009.bin",
+          "sha256": "a2d95e355327a8ebcc30f925a9daa95a98472d6845eb363fb5170239932ec2d9",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0007-of-0009.bin",
+          "sha256": "ebf4b1a0d5edd315828018ff161600425206887d681c2f6d0956a8195aa13618",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0008-of-0009.bin",
+          "sha256": "5ee94aff5b400064d495a9be50e895b427dc98a721684554d0d6b4582ad2732c",
+          "size": 8388608
+        },
+        {
+          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/2bf252d0dc33278a29348a0cce171820d9099a39358531705f6a917ac13b3f66/0009-of-0009.bin",
+          "sha256": "1c5270c3d1edac2476f2564213f9494248a4f614f46879d7a6e04943dcf2d769",
+          "size": 3110228
+        }
+      ]
     },
     "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar": {
       "sha256": "9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213",
