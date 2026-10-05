@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.04.210428",
+  "version": "2026.10.05.145405",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2899,19 +2899,7 @@
       "enc": true,
       "plain_sha256": "687cc049798a6889c2f4aff0366791a4876241908e662743da975f363b17b508",
       "plain_size": 12381470,
-      "multipart": "concat-v1",
-      "parts": [
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213/0001-of-0002.bin",
-          "sha256": "5c2717b8b948de1546a0fe7195bfe5f76cc601858599cf0befe9528f76eb9e40",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_parts/9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213/0002-of-0002.bin",
-          "sha256": "d4887785b64dcbd3a1826625656ae0032ac749e07ab73ec238a64e25eed063b6",
-          "size": 3992899
-        }
-      ]
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/cd1a1de1635a4be790a4bceeffebd504-voice.bin"
     },
     "mods/better-clouds-1.13.7+1.21.1-fabric.jar": {
       "sha256": "410b72310ca26d0c29b8d393a76ff88601a149c6cc203fa7f4a66bb56c090ddb",
@@ -3048,12 +3036,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/e898f2ba45cdce47c6ca6e68d02fa49c94ed2d6e1279898aa94b53cdcaaf4dc6"
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "sha256": "688b7a9215ea2a06a000242f2c7aaa7e4930bf1206ebc5f48af6ecbdfb269c65",
-      "size": 101165,
       "enc": true,
-      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
-      "plain_size": 101128,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/688b7a9215ea2a06a000242f2c7aaa7e4930bf1206ebc5f48af6ecbdfb269c65"
+      "plain_sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
+      "plain_size": 92613,
+      "sha256": "5da6628190dd980f4ef5fdb48a25f583375110f693cbe9fefe9d071375626819",
+      "size": 92650,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/cd1a1de1635a4be790a4bceeffebd504-offlineskins.bin"
     },
     "mods/placeholder-api-2.4.2+1.21.jar": {
       "sha256": "c85763803fd138596797f2a6b4055cad9f0c7ba5f678683fb1a9efb150e09492",
@@ -3070,22 +3058,6 @@
       "plain_sha256": "e2f27aacbef43b08398aa923942e0af77d044bf2c4341b76cb73d43c7007cf60",
       "plain_size": 735752,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/2378e595a83f7e4e9dd1a8a949be42fa3e22e93987aa3aa548dea4fba15f4aa3"
-    },
-    "mods/pv-addon-broadcast-1.1.0.jar": {
-      "sha256": "706f0b2386d5d9079a00909e1498c82957ec1a9cd05a2de2806755a23114aaaf",
-      "size": 58498,
-      "enc": true,
-      "plain_sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
-      "plain_size": 58461,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/706f0b2386d5d9079a00909e1498c82957ec1a9cd05a2de2806755a23114aaaf"
-    },
-    "mods/pv-addon-spectator-1.1.0.jar": {
-      "sha256": "344a03acf702ea084bc7e7dccf85b5ae59b433303b609e924e6e7416f628a14d",
-      "size": 13225,
-      "enc": true,
-      "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
-      "plain_size": 13188,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/344a03acf702ea084bc7e7dccf85b5ae59b433303b609e924e6e7416f628a14d"
     },
     "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
       "sha256": "15ee096bf6cfa20ddc592cdc8b5c168af4e2c7d1c2c84bf10ac21efc7b5b5ceb",
@@ -4123,6 +4095,8 @@
     "mods/mcextremo3-1.0.4.jar",
     "mods/mixinextras-fabric-0.5.5.jar",
     "mods/parcool-fabric-4.0.0.3.jar",
+    "mods/pv-addon-broadcast-1.1.0.jar",
+    "mods/pv-addon-spectator-1.1.0.jar",
     "mods/replaymod-1.21-2.6.27.jar",
     "mods/vanish-1.6.5+1.21.1.jar",
     "mods/watermedia-3.0.0.23.jar",
