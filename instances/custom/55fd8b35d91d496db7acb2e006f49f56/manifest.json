@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.18.150153",
+  "version": "2026.10.05.145501",
   "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2654,28 +2654,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/_objects/d00556ca7c4d826270c74237df0f2e247eaa6deac21b86c26c647bf05dfbddad"
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "sha256": "9ae4ac6808cb6734971aaac89f4a124818b38f21fc96d2709f235b7259b24ff9",
-      "size": 101165,
       "enc": true,
-      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
-      "plain_size": 101128,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/_objects/9ae4ac6808cb6734971aaac89f4a124818b38f21fc96d2709f235b7259b24ff9"
-    },
-    "mods/pv-addon-broadcast-1.1.0.jar": {
-      "sha256": "cad51e0278487b4a1749efabd7304e19a275ce17c36228b108d25b44aa499de1",
-      "size": 58498,
-      "enc": true,
-      "plain_sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
-      "plain_size": 58461,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/_objects/cad51e0278487b4a1749efabd7304e19a275ce17c36228b108d25b44aa499de1"
-    },
-    "mods/pv-addon-spectator-1.1.0.jar": {
-      "sha256": "6920b830c4934ba14b0ca1c53d983c26c4b32dc3aea5ba3b5d25f43387b638da",
-      "size": 13225,
-      "enc": true,
-      "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
-      "plain_size": 13188,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/_objects/6920b830c4934ba14b0ca1c53d983c26c4b32dc3aea5ba3b5d25f43387b638da"
+      "plain_sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
+      "plain_size": 92613,
+      "sha256": "32a7cfefb8226be03e3fdd65b3e10e6111c0a4eb720e19d404ba09547118939a",
+      "size": 92650,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/55fd8b35d91d496db7acb2e006f49f56-offlineskins.bin"
     },
     "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
       "sha256": "4d4593c36c943b90862d1a15e4c5f88bfe544419374310ba96f8967066b49b38",
@@ -2726,6 +2710,8 @@
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/iris-fabric-1.8.0+mc1.21.1.jar",
     "mods/iris-fabric-1.8.14-beta.1+mc1.21.1.jar",
+    "mods/pv-addon-broadcast-1.1.0.jar",
+    "mods/pv-addon-spectator-1.1.0.jar",
     "mods/sodium-fabric-0.8.12+mc1.21.1.jar"
   ]
 }
