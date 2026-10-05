@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.12.122827",
+  "version": "2026.10.05.145412",
   "instance_id": "b0215760f38342d28aa31ad504e402a1",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2377,19 +2377,7 @@
       "enc": true,
       "plain_sha256": "7a77f08fb11fd750e017753bcf4e50021ccdad883a2afd899e301880cd06106d",
       "plain_size": 12342689,
-      "multipart": "concat-v1",
-      "parts": [
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/589f797901000c3ffc103797054f4a4552d2add77a7b38d08b3b06d56d6972c8/0001-of-0002.bin",
-          "sha256": "39e216768e223181b5720b4e7d178839338b714cc449ef4be502537d6bd35a31",
-          "size": 8388608
-        },
-        {
-          "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_parts/589f797901000c3ffc103797054f4a4552d2add77a7b38d08b3b06d56d6972c8/0002-of-0002.bin",
-          "sha256": "182a962ffa31c2c6f90a85c6528dc84585dd309e3cdea9273fb434d734cebe19",
-          "size": 3954118
-        }
-      ]
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/b0215760f38342d28aa31ad504e402a1-voice.bin"
     },
     "mods/cinematica-fabric-4.0.0.jar": {
       "sha256": "405f7aa9e133498364018b0817f6f973e97650a2d6030a11509e8bcf1f8e4105",
@@ -2478,28 +2466,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/d5bce0034b65be7f532d580e9e452fff24ec65ab69e5ac7e2cbae8904b70b4e8"
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "sha256": "e4da39b2b95e77bfb49226268fcbf44d1a8cf154ac4163a6134f4ecb33f2bf46",
-      "size": 101165,
       "enc": true,
-      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
-      "plain_size": 101128,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/e4da39b2b95e77bfb49226268fcbf44d1a8cf154ac4163a6134f4ecb33f2bf46"
-    },
-    "mods/pv-addon-broadcast-1.1.0.jar": {
-      "sha256": "33a6f58191a907dd9108e0c27064f3d430feb71b2c064c848e6097580e9ccd01",
-      "size": 58498,
-      "enc": true,
-      "plain_sha256": "3c4e39582d7b7236129a9cca42412d5faefd1ba54f2e637ed1027c0791f31d08",
-      "plain_size": 58461,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/33a6f58191a907dd9108e0c27064f3d430feb71b2c064c848e6097580e9ccd01"
-    },
-    "mods/pv-addon-spectator-1.1.0.jar": {
-      "sha256": "9f6b16bcd2a515c5d795b832e5fabd30d8cf3a6ce3d7156fa7859bb10d60490a",
-      "size": 13225,
-      "enc": true,
-      "plain_sha256": "64703efc3e8521a915fd1e840e522852f15aaccacaf202fc77c7c0229c646fda",
-      "plain_size": 13188,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/9f6b16bcd2a515c5d795b832e5fabd30d8cf3a6ce3d7156fa7859bb10d60490a"
+      "plain_sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
+      "plain_size": 92613,
+      "sha256": "730114f4c2be01823f816ccdd9b12ef6267141c3e97fa945e9b51fd3b62fc9c1",
+      "size": 92650,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/b0215760f38342d28aa31ad504e402a1-offlineskins.bin"
     },
     "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
       "sha256": "c04adfa6099bcd779f08880699905774f26666085d7c092a40532f5f3de6307e",
@@ -2569,6 +2541,8 @@
     "mods/alliouhc-2.7.1.jar",
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/geckolib-fabric-1.21.1-4.8.2.jar",
+    "mods/pv-addon-broadcast-1.1.0.jar",
+    "mods/pv-addon-spectator-1.1.0.jar",
     "resourcepacks/alliouhcresources/Selected Packs.txt",
     "resourcepacks/alliouhcresources/assets/appleskin/textures/icons.png",
     "resourcepacks/alliouhcresources/assets/minecraft/blockstates/acacia_leaves.json",
