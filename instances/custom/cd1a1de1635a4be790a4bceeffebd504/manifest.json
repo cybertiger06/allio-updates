@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.07.141123",
+  "version": "2026.10.07.165813",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2779,14 +2779,6 @@
       "plain_size": 1477434,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d854d914be93518461a9a5c7aac085f06cd631863a40befb21fd562a16216bd5"
     },
-    "mods/allioextremo-0.8.2+1.21.1.jar": {
-      "sha256": "9947f4235e03de7d85a7c1e06dd6f0fa1652299bf1aea4e822efb5d797f2bae3",
-      "size": 75188417,
-      "enc": true,
-      "plain_sha256": "e76316aa1159491746ce72f0a14b2542a422753be51971717aa63b3eccc123a1",
-      "plain_size": 75188380,
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-file-9947f4235e03de7d85a7c1e06dd6f0fa1652299bf1aea4e822efb5d797f2bae3/9947f4235e03de7d85a7c1e06dd6f0fa1652299bf1aea4e822efb5d797f2bae3.bin"
-    },
     "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar": {
       "sha256": "9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213",
       "size": 12381507,
@@ -4184,6 +4176,14 @@
       "plain_sha256": "bd07cf5e7e8b15ea02b47a091c02971f44a6b3c1eac2ae9d8841715bae3f7671",
       "plain_size": 247,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/b29e1f001ce7d209fe53b04d9012069a4fbe65eab1682a7cd4043f160cb9f74f"
+    },
+    "mods/allioextremo-0.8.3+1.21.1.jar": {
+      "sha256": "85446e7d68f36c801c5ec9628a566e82b3af36a05b4162064d6f5c4720a667e6",
+      "size": 75194662,
+      "enc": true,
+      "plain_sha256": "b2e347da4f43433adaf5d40e2960a937813610fbf34b83e58d9cc6b466fa3328",
+      "plain_size": 75194625,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-file-85446e7d68f36c801c5ec9628a566e82b3af36a05b4162064d6f5c4720a667e6/85446e7d68f36c801c5ec9628a566e82b3af36a05b4162064d6f5c4720a667e6.bin"
     }
   },
   "delete": [
@@ -4244,6 +4244,7 @@
     "mods/allioextremo-0.7.9+1.21.1.jar",
     "mods/allioextremo-0.8.0+1.21.1.jar",
     "mods/allioextremo-0.8.1+1.21.1.jar",
+    "mods/allioextremo-0.8.2+1.21.1.jar",
     "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar",
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/cinematica-fabric-4.0.0.jar",
