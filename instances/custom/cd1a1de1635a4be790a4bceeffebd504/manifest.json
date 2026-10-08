@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.07.165813",
+  "version": "2026.10.08.204844",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2900,12 +2900,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/e898f2ba45cdce47c6ca6e68d02fa49c94ed2d6e1279898aa94b53cdcaaf4dc6"
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
-      "sha256": "688b7a9215ea2a06a000242f2c7aaa7e4930bf1206ebc5f48af6ecbdfb269c65",
-      "size": 101165,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-skin-sharing-20261008/cd1a1de1635a4be790a4bceeffebd504-offlineskins.bin",
+      "sha256": "f4bb0ce896baa538f3459a2a6e304b85c720afe621ba2484dbf1df987bb71b9a",
+      "size": 112998,
       "enc": true,
-      "plain_sha256": "338ef2a2d25856a7a6a2c7868a3700b4cbee5aa807f7b871b01fa4c8dd2a0871",
-      "plain_size": 101128,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/688b7a9215ea2a06a000242f2c7aaa7e4930bf1206ebc5f48af6ecbdfb269c65"
+      "plain_sha256": "14ef71b100005ebd17f86300a89fd137914fa655b3e19c47cf320016bb5a0892",
+      "plain_size": 112961
     },
     "mods/placeholder-api-2.4.2+1.21.jar": {
       "sha256": "c85763803fd138596797f2a6b4055cad9f0c7ba5f678683fb1a9efb150e09492",
