@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.05.145412",
+  "version": "2026.10.08.204847",
   "instance_id": "b0215760f38342d28aa31ad504e402a1",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2466,12 +2466,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/_objects/d5bce0034b65be7f532d580e9e452fff24ec65ab69e5ac7e2cbae8904b70b4e8"
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-skin-sharing-20261008/b0215760f38342d28aa31ad504e402a1-offlineskins.bin",
+      "sha256": "f2f5d9ac23f568c27eb245aa9167cbb1fd83f156b5f2676770d4d3ff7c360d1f",
+      "size": 112998,
       "enc": true,
-      "plain_sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
-      "plain_size": 92613,
-      "sha256": "730114f4c2be01823f816ccdd9b12ef6267141c3e97fa945e9b51fd3b62fc9c1",
-      "size": 92650,
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/b0215760f38342d28aa31ad504e402a1-offlineskins.bin"
+      "plain_sha256": "14ef71b100005ebd17f86300a89fd137914fa655b3e19c47cf320016bb5a0892",
+      "plain_size": 112961
     },
     "mods/sodium-fabric-0.6.13+mc1.21.1.jar": {
       "sha256": "c04adfa6099bcd779f08880699905774f26666085d7c092a40532f5f3de6307e",
