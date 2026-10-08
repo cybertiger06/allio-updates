@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.05.145435",
+  "version": "2026.10.08.204849",
   "instance_id": "67215f97c5944e9f9387dbe9a519fe34",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2985,12 +2985,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/67215f97c5944e9f9387dbe9a519fe34/_objects/dca55773a2701cca19caa8e543b525efbcd4cd273ce86a8d167f7fc99e6c102a"
     },
     "mods/offlineskins-1.21.1-v1a-fabric.jar": {
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-skin-sharing-20261008/67215f97c5944e9f9387dbe9a519fe34-offlineskins.bin",
+      "sha256": "f449df6cd6e692d11986998622cd383e1fc4939d068006f491718ba9337f471f",
+      "size": 112998,
       "enc": true,
-      "plain_sha256": "a798be373b3912a1eb6d9a7f127d16726fa9ddd1d33bfe99b4fac96674c93326",
-      "plain_size": 92613,
-      "sha256": "4acb52f4b8a9898f4c8055369ffc9ccf4e12ae25c70471438345f4b0d74dd687",
-      "size": 92650,
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-voice-skins-20261005/67215f97c5944e9f9387dbe9a519fe34-offlineskins.bin"
+      "plain_sha256": "14ef71b100005ebd17f86300a89fd137914fa655b3e19c47cf320016bb5a0892",
+      "plain_size": 112961
     },
     "mods/owo-lib-0.12.15.4+1.21.jar": {
       "sha256": "c8ba30b7ccfbc72ecff8240690107013147afba3e33be24c5e89009e62f53f41",
