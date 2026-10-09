@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.09.032925",
+  "version": "2026.10.09.034258",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2778,6 +2778,14 @@
       "plain_sha256": "c5db7d4adab22539a75605ac00d18cc52ed09066ccde3b42e7315155dd897c4a",
       "plain_size": 1477434,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d854d914be93518461a9a5c7aac085f06cd631863a40befb21fd562a16216bd5"
+    },
+    "mods/allioextremo-0.8.4+1.21.1.jar": {
+      "sha256": "c0d91a5f0922e5d041e176146aa76870f1898b18bec39a9bf7add91d5c84cb8a",
+      "size": 75227184,
+      "enc": true,
+      "plain_sha256": "dc1167bc29a3a3d501905cd7a75c46edcae3e74e4cbb27f2da50506d6e218ca5",
+      "plain_size": 75227147,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-file-c0d91a5f0922e5d041e176146aa76870f1898b18bec39a9bf7add91d5c84cb8a/c0d91a5f0922e5d041e176146aa76870f1898b18bec39a9bf7add91d5c84cb8a.bin"
     },
     "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar": {
       "sha256": "9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213",
