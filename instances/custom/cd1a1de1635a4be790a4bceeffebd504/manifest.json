@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.18.081613",
+  "version": "2026.10.18.105608",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2754,6 +2754,14 @@
       "plain_sha256": "c07f322040671f7708a51cda16b81375b24cf313669ebd562e0e8dd4ff4ed3eb",
       "plain_size": 1239340,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/9edff97a0d651da416e52a23b8058f57210b91483279771a7d7e0b70140b6e16"
+    },
+    "mods/CsHolWave 1.21.1 fabric.jar": {
+      "sha256": "0c59551a19f08598f45f48029f2ca66f58d74ab86c1298a4a26b910c4e3bc84e",
+      "size": 213167,
+      "enc": true,
+      "plain_sha256": "376060d086bd46f214327c82d1604d2232cb5f9cc27ccba7e00a4965c2103cc1",
+      "plain_size": 213130,
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/0c59551a19f08598f45f48029f2ca66f58d74ab86c1298a4a26b910c4e3bc84e"
     },
     "mods/DustyDecoRefabricated-1.1-1.21+1.21.1.jar": {
       "sha256": "8c80767a639ea5b42fc89ef9f3d6e9f6f544168564e6ddd596e8de27d1bddb31",
