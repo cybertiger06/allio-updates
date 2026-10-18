@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.18.071808",
+  "version": "2026.10.18.074137",
   "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2779,14 +2779,6 @@
       "plain_size": 1477434,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/_objects/d854d914be93518461a9a5c7aac085f06cd631863a40befb21fd562a16216bd5"
     },
-    "mods/allioextremo-0.9.5+1.21.1.jar": {
-      "sha256": "1d05e29fa62c96b1c5309b1998b9e18852d276015d0b2f1705be4d976a7c53c6",
-      "size": 79829109,
-      "enc": true,
-      "plain_sha256": "52d935f1c96290219cdaf46b5050a29504abe13f674e8ee223bb975c4bbf5b68",
-      "plain_size": 79829072,
-      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-file-1d05e29fa62c96b1c5309b1998b9e18852d276015d0b2f1705be4d976a7c53c6/1d05e29fa62c96b1c5309b1998b9e18852d276015d0b2f1705be4d976a7c53c6.bin"
-    },
     "mods/alliovoicechat-fabric-1.21.1-2.1.17.jar": {
       "sha256": "9753ce1768b931f276199ca9a2c698369afa017b32a5da3c0fbf7268c8dc6213",
       "size": 12381507,
@@ -5349,6 +5341,7 @@
     "mods/allioextremo-0.9.0+1.21.1.jar",
     "mods/allioextremo-0.9.1+1.21.1.jar",
     "mods/allioextremo-0.9.2+1.21.1.jar",
+    "mods/allioextremo-0.9.5+1.21.1.jar",
     "mods/alliovoicechat-fabric-1.21.1-2.1.13.jar",
     "mods/cinematica-fabric-3.1.14.jar",
     "mods/cinematica-fabric-4.0.0.jar",
