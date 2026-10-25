@@ -41,7 +41,7 @@
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/4ae710476e9a4a71ae64ea40051082ba/manifest.json",
       "instance_id": "4ae710476e9a4a71ae64ea40051082ba",
       "encrypted": true,
-      "public": false,
+      "public": true,
       "from_remote": false,
       "whitelist": []
     },
