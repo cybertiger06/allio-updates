@@ -1,0 +1,93 @@
+{
+  "instances": [
+    {
+      "name": "Cobblemon2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Cobblemon2_fondo_5594d3b0f2e3.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/000207397b5447579405f79f822e55f0/manifest.json",
+      "instance_id": "000207397b5447579405f79f822e55f0",
+      "encrypted": true,
+      "public": true,
+      "from_remote": false,
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Cobblemon2_icon_a01df5ba3c42.png",
+      "fondo_asset_sha256": "5594d3b0f2e3b0a399a5896ddcf85a33e17a8cf634b5d934957c538c1b5e633d",
+      "icon_asset_sha256": "a01df5ba3c4252ae282cb55e3e2183f3aa83e1bc173e7911b13fdb499e1eba1c"
+    },
+    {
+      "name": "Allio UHC",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Allio_UHC_fondo_f190770f4475.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/b0215760f38342d28aa31ad504e402a1/manifest.json",
+      "instance_id": "b0215760f38342d28aa31ad504e402a1",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Allio_UHC_icon_6bbd5f49c673.png",
+      "fondo_asset_sha256": "f190770f4475e34d427180111a6f486246d67656dff43ba2f3c5aa7ba90c0664",
+      "icon_asset_sha256": "6bbd5f49c673d154731b7bf0a67c18c017c6d1b2d164a80f861c66b7acdb2edd",
+      "archived": true
+    },
+    {
+      "name": "HardcoreZ",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/HardcoreZ_fondo.gif",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/HardcoreZ_icon.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/Instances-Files/main/manifest_hardcorez.json",
+      "from_remote": true,
+      "archived": true
+    },
+    {
+      "name": "Extremo",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Extremo_fondo_d4e4035df9da.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/cd1a1de1635a4be790a4bceeffebd504/manifest.json",
+      "instance_id": "cd1a1de1635a4be790a4bceeffebd504",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Extremo_icon_f0a520f5916d.png",
+      "fondo_asset_sha256": "d4e4035df9da90851b5ef11ab4137dff01745e518b92b8711d10c3168335d6fc",
+      "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f",
+      "archived": true
+    },
+    {
+      "name": "Carsafio2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": false,
+      "fondo_url": "",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/4ae710476e9a4a71ae64ea40051082ba/manifest.json",
+      "instance_id": "4ae710476e9a4a71ae64ea40051082ba",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "archived": true
+    },
+    {
+      "name": "Backrooms Vol2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "description": "Backrooms Vol2",
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Backrooms_Vol2_fondo_b5d1a1ed8ad5.png",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Backrooms_Vol2_icon_03f746ff304f.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/55fd8b35d91d496db7acb2e006f49f56/manifest.json",
+      "instance_id": "55fd8b35d91d496db7acb2e006f49f56",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "fondo_asset_sha256": "b5d1a1ed8ad5e94727e5437a4831a84103c5bfbc0a8c158145b67e8f816ccb34",
+      "icon_asset_sha256": "03f746ff304f9d08733e356072ce624b4243fd2a058ea08d700ed1cede093b87",
+      "archived": true
+    }
+  ],
+  "backrooms_archived": false
+}
