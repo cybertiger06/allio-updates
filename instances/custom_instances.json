@@ -26,8 +26,8 @@
       "whitelist": [],
       "encrypted": true,
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/c457d7b81d794cd0b7390b933b27f260/manifest.json",
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/100vs5_icon_fa359223a122.png",
-      "icon_asset_sha256": "fa359223a122b87fbc38d412bded881d799a60ebb6310678a4942562d42e821c",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/100vs5_icon_f041349f1528.png",
+      "icon_asset_sha256": "f041349f152865c42743282cfa2a4a1d74b1eed46d1ac511700c9b9cb94b5f40",
       "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/100vs5_fondo_a5a831626f83.png",
       "fondo_asset_sha256": "a5a831626f838c0f08c66a3a091a2f0d3027ba5333cca5a131f18fdc5786c5fe",
       "from_remote": true
