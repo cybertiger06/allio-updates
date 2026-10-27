@@ -33,7 +33,7 @@
       "from_remote": true
     },
     {
-      "name": "Carsafio2",
+      "name": "Carsafio 2",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
@@ -45,7 +45,8 @@
       "from_remote": true,
       "whitelist": [
         "cybertiger2"
-      ]
+      ],
+      "description": "CARSAFIO2"
     },
     {
       "name": "Allio UHC",
