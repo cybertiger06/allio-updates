@@ -37,7 +37,7 @@
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
       "shaders": false,
-      "fondo_url": "",
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_fondo_2eccd4fe265c.png",
       "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/4ae710476e9a4a71ae64ea40051082ba/manifest.json",
       "instance_id": "4ae710476e9a4a71ae64ea40051082ba",
       "encrypted": true,
@@ -48,7 +48,8 @@
       ],
       "description": "CARSAFIO2",
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_icon_34a947168021.png",
-      "icon_asset_sha256": "34a947168021357d0eb583ae55d69116cc3ff848646554561933d84f731abf29"
+      "icon_asset_sha256": "34a947168021357d0eb583ae55d69116cc3ff848646554561933d84f731abf29",
+      "fondo_asset_sha256": "2eccd4fe265c9597960179846cc6605fb750cd4aeb9eae571abff9345cb346ab"
     },
     {
       "name": "Allio UHC",
