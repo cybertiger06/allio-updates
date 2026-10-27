@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.27.151106",
+  "version": "2026.10.27.151420",
   "instance_id": "c457d7b81d794cd0b7390b933b27f260",
   "encryption": "ALLIOENC2",
   "files": {
@@ -92,20 +92,12 @@
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/c457d7b81d794cd0b7390b933b27f260/_objects/7ab58a8d9c1d4230a364e0146636030bede4d24c8897bb493b326dddb349f923"
     },
     "config/fabric/indigo-renderer.properties": {
-      "sha256": "7e2b25b8d009eeadec78e75cbb05c8c7cc0345ec5faf092592f84f3ff58d4a8d",
+      "sha256": "574151c16f202f1e26652fc6668fd9bafd39909de11c5d473d98290ee10c49fc",
       "size": 327,
       "enc": true,
-      "plain_sha256": "e1f1e1f82d1141ec67136f6f2ef8107eea8c80b30bf9c07721ef431dbc8109ab",
+      "plain_sha256": "d2dcc02e1247b7d804109a0b481a073eb8c27f556fa494ea0c6f89dded194996",
       "plain_size": 290,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/c457d7b81d794cd0b7390b933b27f260/_objects/7e2b25b8d009eeadec78e75cbb05c8c7cc0345ec5faf092592f84f3ff58d4a8d"
-    },
-    "config/fancymenu/assets/100vs5.png": {
-      "sha256": "7f3dd1ad8d63480e2d599ca88b83ef1f22362923ca2b4320abd6c11edb883453",
-      "size": 1449168,
-      "enc": true,
-      "plain_sha256": "5652cf831a53567e86f11d02c054b01cf04d0123aaf74aec3577a62e89b98afe",
-      "plain_size": 1449131,
-      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/c457d7b81d794cd0b7390b933b27f260/_objects/7f3dd1ad8d63480e2d599ca88b83ef1f22362923ca2b4320abd6c11edb883453"
+      "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/c457d7b81d794cd0b7390b933b27f260/_objects/574151c16f202f1e26652fc6668fd9bafd39909de11c5d473d98290ee10c49fc"
     },
     "config/fancymenu/assets/100vs5fondo.png": {
       "sha256": "87d048ee9f673d9f78b12bf6a4d3c855d7e22a7ea763c95586420933a35ed490",
@@ -2587,6 +2579,7 @@
     }
   },
   "delete": [
+    "config/fancymenu/assets/100vs5.png",
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$-449704792/cache_1/-1_-1.xwmc",
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$-449704792/cache_1/-1_0.xwmc",
     "xaero/world-map/Multiplayer_185.207.164.204/null/mw$-449704792/cache_1/0_-1.xwmc",
