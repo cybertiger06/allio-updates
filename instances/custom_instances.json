@@ -46,7 +46,9 @@
       "whitelist": [
         "cybertiger2"
       ],
-      "description": "CARSAFIO2"
+      "description": "CARSAFIO2",
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_icon_34a947168021.png",
+      "icon_asset_sha256": "34a947168021357d0eb583ae55d69116cc3ff848646554561933d84f731abf29"
     },
     {
       "name": "Allio UHC",
