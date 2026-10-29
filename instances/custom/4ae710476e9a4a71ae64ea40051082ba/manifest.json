@@ -1,5 +1,5 @@
 {
-  "version": "2026.10.29.161604",
+  "version": "2026.10.29.170143",
   "instance_id": "4ae710476e9a4a71ae64ea40051082ba",
   "encryption": "ALLIOENC2",
   "files": {
@@ -2850,6 +2850,14 @@
       "plain_sha256": "56aef898492649c57b8cc700409772badbd0046a78cacc2565c3fd254513eb3e",
       "plain_size": 74617,
       "url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/4ae710476e9a4a71ae64ea40051082ba/_objects/ce45c0b10d04cf6263d0de82da9d80863974a7a6c7d8c578e936504bc5251743"
+    },
+    "mods/carsafio2-2.8.0.jar": {
+      "sha256": "24cc59d3d9871d2813c9aac992a66914e675ae8030a5cd5934685d2c9f5378ff",
+      "size": 305067182,
+      "enc": true,
+      "plain_sha256": "74b5db7bf9484ebf7f8dbdd0e58c185b6dd08e1e5ce35ed65a30771f10d17b64",
+      "plain_size": 305067145,
+      "url": "https://github.com/cybertiger06/allio-updates/releases/download/instance-file-24cc59d3d9871d2813c9aac992a66914e675ae8030a5cd5934685d2c9f5378ff/24cc59d3d9871d2813c9aac992a66914e675ae8030a5cd5934685d2c9f5378ff.bin"
     },
     "mods/cinematica-fabric-3.1.14.jar": {
       "sha256": "da142e191e0d33c36f4b97351aa07dedcff94fa98d1fcfd01e4d854cf87ac05b",
