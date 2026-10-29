@@ -1,21 +1,6 @@
 {
   "instances": [
     {
-      "name": "Cobblemon2",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": true,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Cobblemon2_fondo_5594d3b0f2e3.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/000207397b5447579405f79f822e55f0/manifest.json",
-      "instance_id": "000207397b5447579405f79f822e55f0",
-      "encrypted": true,
-      "public": true,
-      "from_remote": false,
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Cobblemon2_icon_a01df5ba3c42.png",
-      "fondo_asset_sha256": "5594d3b0f2e3b0a399a5896ddcf85a33e17a8cf634b5d934957c538c1b5e633d",
-      "icon_asset_sha256": "a01df5ba3c4252ae282cb55e3e2183f3aa83e1bc173e7911b13fdb499e1eba1c"
-    },
-    {
       "name": "100vs5",
       "instance_id": "c457d7b81d794cd0b7390b933b27f260",
       "mc_version": "1.21.1",
@@ -111,6 +96,22 @@
       "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Extremo_icon_f0a520f5916d.png",
       "fondo_asset_sha256": "d4e4035df9da90851b5ef11ab4137dff01745e518b92b8711d10c3168335d6fc",
       "icon_asset_sha256": "f0a520f5916dcc15d942711dddc7ded45def2d8f9397920c8de39c324717f93f",
+      "archived": true
+    },
+    {
+      "name": "Cobblemon2",
+      "mc_version": "1.21.1",
+      "fabric_version": "0.18.4",
+      "shaders": true,
+      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Cobblemon2_fondo_5594d3b0f2e3.png",
+      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/000207397b5447579405f79f822e55f0/manifest.json",
+      "instance_id": "000207397b5447579405f79f822e55f0",
+      "encrypted": true,
+      "public": true,
+      "from_remote": true,
+      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Cobblemon2_icon_a01df5ba3c42.png",
+      "fondo_asset_sha256": "5594d3b0f2e3b0a399a5896ddcf85a33e17a8cf634b5d934957c538c1b5e633d",
+      "icon_asset_sha256": "a01df5ba3c4252ae282cb55e3e2183f3aa83e1bc173e7911b13fdb499e1eba1c",
       "archived": true
     }
   ],
