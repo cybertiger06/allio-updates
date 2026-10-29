@@ -18,25 +18,6 @@
       "from_remote": true
     },
     {
-      "name": "Carsafio 2",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_fondo_600055bdcd91.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/4ae710476e9a4a71ae64ea40051082ba/manifest.json",
-      "instance_id": "4ae710476e9a4a71ae64ea40051082ba",
-      "encrypted": true,
-      "public": false,
-      "from_remote": true,
-      "whitelist": [
-        "cybertiger2"
-      ],
-      "description": "CARSAFIO2",
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_icon_34a947168021.png",
-      "icon_asset_sha256": "34a947168021357d0eb583ae55d69116cc3ff848646554561933d84f731abf29",
-      "fondo_asset_sha256": "600055bdcd910bf06bff987c4f5e697e5667186489cbbfc307d1cef00d6c51af"
-    },
-    {
       "name": "Backrooms Vol2",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
