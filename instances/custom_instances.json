@@ -18,19 +18,6 @@
       "from_remote": true
     },
     {
-      "name": "Pruebas",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": false,
-      "fondo_url": "",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/29eb96fb03fd48fb897fdbe955359fca/manifest.json",
-      "instance_id": "29eb96fb03fd48fb897fdbe955359fca",
-      "encrypted": true,
-      "public": true,
-      "whitelist": [],
-      "from_remote": false
-    },
-    {
       "name": "Allio UHC",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
