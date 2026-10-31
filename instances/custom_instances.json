@@ -37,24 +37,6 @@
       ]
     },
     {
-      "name": "Carsafio 2",
-      "mc_version": "1.21.1",
-      "fabric_version": "0.18.4",
-      "shaders": true,
-      "fondo_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_fondo_600055bdcd91.png",
-      "manifest_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/custom/bc355147ed204e6180f34fd4db19368f/manifest.json",
-      "instance_id": "bc355147ed204e6180f34fd4db19368f",
-      "encrypted": true,
-      "public": false,
-      "whitelist": [
-        "cybertiger2"
-      ],
-      "from_remote": false,
-      "icon_url": "https://raw.githubusercontent.com/cybertiger06/allio-updates/main/instances/images/Carsafio_2_icon_1e73062fe029.png",
-      "fondo_asset_sha256": "600055bdcd910bf06bff987c4f5e697e5667186489cbbfc307d1cef00d6c51af",
-      "icon_asset_sha256": "1e73062fe029ea518cd8f0d988315e509533da821645ff783becafb2de589e51"
-    },
-    {
       "name": "Allio UHC",
       "mc_version": "1.21.1",
       "fabric_version": "0.18.4",
